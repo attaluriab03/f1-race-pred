@@ -1,0 +1,21 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,2.0,,,,0 days 01:31:26.262000,Finished,25.0,1.0,2017,Brazilian Grand Prix
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,1.0,,,,0 days 00:00:02.762000,Finished,18.0,-1.0,2017,Brazilian Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,3.0,,,,0 days 00:00:04.600000,Finished,15.0,0.0,2017,Brazilian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,4.0,4,20.0,,,,0 days 00:00:05.468000,Finished,12.0,16.0,2017,Brazilian Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,5.0,5,4.0,,,,0 days 00:00:32.940000,Finished,10.0,-1.0,2017,Brazilian Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,6.0,6,14.0,,,,0 days 00:00:48.691000,Finished,8.0,8.0,2017,Brazilian Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,7.0,7,9.0,,,,0 days 00:01:08.882000,Finished,6.0,2.0,2017,Brazilian Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,8.0,8,6.0,,,,0 days 00:01:09.363000,Finished,4.0,-2.0,2017,Brazilian Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,9.0,9,5.0,,,,0 days 00:01:09.500000,Finished,2.0,-4.0,2017,Brazilian Grand Prix
+27,HUL,hulkenberg,Renault,renault,Nico,Hülkenberg,Nico Hülkenberg,10.0,10,7.0,,,,,+1 Lap,1.0,-3.0,2017,Brazilian Grand Prix
+55,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,11.0,11,8.0,,,,,+1 Lap,0.0,-3.0,2017,Brazilian Grand Prix
+10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,12.0,12,19.0,,,,,+1 Lap,0.0,7.0,2017,Brazilian Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,13.0,13,17.0,,,,,+1 Lap,0.0,4.0,2017,Brazilian Grand Prix
+94,WEH,wehrlein,Sauber,sauber,Pascal,Wehrlein,Pascal Wehrlein,14.0,14,15.0,,,,,+1 Lap,0.0,1.0,2017,Brazilian Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,15.0,15,11.0,,,,,+2 Laps,0.0,-4.0,2017,Brazilian Grand Prix
+18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,16.0,16,16.0,,,,,+2 Laps,0.0,0.0,2017,Brazilian Grand Prix
+28,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,17.0,R,18.0,,,,,Engine,0.0,1.0,2017,Brazilian Grand Prix
+31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,18.0,R,10.0,,,,,Accident,0.0,-8.0,2017,Brazilian Grand Prix
+2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,19.0,R,12.0,,,,,Accident,0.0,-7.0,2017,Brazilian Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,20.0,R,13.0,,,,,Accident,0.0,-7.0,2017,Brazilian Grand Prix

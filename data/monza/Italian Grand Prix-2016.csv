@@ -1,0 +1,23 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,2.0,,,,0 days 01:17:28.089000,Finished,25.0,1.0,2016,Italian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,1.0,,,,0 days 00:00:15.070000,Finished,18.0,-1.0,2016,Italian Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,3.0,3,3.0,,,,0 days 00:00:20.990000,Finished,15.0,0.0,2016,Italian Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,4.0,4,4.0,,,,0 days 00:00:27.561000,Finished,12.0,0.0,2016,Italian Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,5.0,5,6.0,,,,0 days 00:00:45.295000,Finished,10.0,1.0,2016,Italian Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,6.0,6,5.0,,,,0 days 00:00:51.015000,Finished,8.0,-1.0,2016,Italian Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,7.0,7,7.0,,,,0 days 00:00:54.236000,Finished,6.0,0.0,2016,Italian Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,8.0,8,8.0,,,,0 days 00:01:04.954000,Finished,4.0,0.0,2016,Italian Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,9.0,9,11.0,,,,0 days 00:01:05.617000,Finished,2.0,2.0,2016,Italian Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,10.0,10,9.0,,,,0 days 00:01:18.656000,Finished,1.0,-1.0,2016,Italian Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,11.0,11,17.0,,,,,+1 Lap,0.0,6.0,2016,Italian Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,12.0,12,14.0,,,,,+1 Lap,0.0,2.0,2016,Italian Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,13.0,13,10.0,,,,,+1 Lap,0.0,-3.0,2016,Italian Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,14.0,14,12.0,,,,,+1 Lap,0.0,-2.0,2016,Italian Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,15.0,15,15.0,,,,,+1 Lap,0.0,0.0,2016,Italian Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,16.0,16,19.0,,,,,+1 Lap,0.0,3.0,2016,Italian Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,17.0,17,21.0,,,,,+1 Lap,0.0,4.0,2016,Italian Grand Prix
+31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,18.0,18,22.0,,,,,+2 Laps,0.0,4.0,2016,Italian Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,19.0,R,16.0,,,,,Battery,0.0,-3.0,2016,Italian Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,20.0,R,13.0,,,,,Oil leak,0.0,-7.0,2016,Italian Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,21.0,R,20.0,,,,,Collision damage,0.0,-1.0,2016,Italian Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,22.0,R,18.0,,,,,Collision damage,0.0,-4.0,2016,Italian Grand Prix

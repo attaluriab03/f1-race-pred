@@ -1,0 +1,21 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event
+16,LEC,,Ferrari,,Charles,Leclerc,Charles Leclerc,,,,,,,,,,,2022,Singapore Grand Prix
+11,PER,,Red Bull Racing,,Sergio,Perez,Sergio Perez,,,,,,,,,,,2022,Singapore Grand Prix
+44,HAM,,Mercedes,,Lewis,Hamilton,Lewis Hamilton,,,,,,,,,,,2022,Singapore Grand Prix
+55,SAI,,Ferrari,,Carlos,Sainz,Carlos Sainz,,,,,,,,,,,2022,Singapore Grand Prix
+14,ALO,,Alpine,,Fernando,Alonso,Fernando Alonso,,,,,,,,,,,2022,Singapore Grand Prix
+4,NOR,,McLaren,,Lando,Norris,Lando Norris,,,,,,,,,,,2022,Singapore Grand Prix
+10,GAS,,AlphaTauri,,Pierre,Gasly,Pierre Gasly,,,,,,,,,,,2022,Singapore Grand Prix
+1,VER,,Red Bull Racing,,Max,Verstappen,Max Verstappen,,,,,,,,,,,2022,Singapore Grand Prix
+20,MAG,,Haas F1 Team,,Kevin,Magnussen,Kevin Magnussen,,,,,,,,,,,2022,Singapore Grand Prix
+22,TSU,,AlphaTauri,,Yuki,Tsunoda,Yuki Tsunoda,,,,,,,,,,,2022,Singapore Grand Prix
+18,STR,,Aston Martin,,Lance,Stroll,Lance Stroll,,,,,,,,,,,2022,Singapore Grand Prix
+47,MSC,,Haas F1 Team,,Mick,Schumacher,Mick Schumacher,,,,,,,,,,,2022,Singapore Grand Prix
+5,VET,,Aston Martin,,Sebastian,Vettel,Sebastian Vettel,,,,,,,,,,,2022,Singapore Grand Prix
+24,ZHO,,Alfa Romeo,,Guanyu,Zhou,Guanyu Zhou,,,,,,,,,,,2022,Singapore Grand Prix
+77,BOT,,Alfa Romeo,,Valtteri,Bottas,Valtteri Bottas,,,,,,,,,,,2022,Singapore Grand Prix
+3,RIC,,McLaren,,Daniel,Ricciardo,Daniel Ricciardo,,,,,,,,,,,2022,Singapore Grand Prix
+31,OCO,,Alpine,,Esteban,Ocon,Esteban Ocon,,,,,,,,,,,2022,Singapore Grand Prix
+23,ALB,,Williams,,Alexander,Albon,Alexander Albon,,,,,,,,,,,2022,Singapore Grand Prix
+6,LAT,,Williams,,Nicholas,Latifi,Nicholas Latifi,,,,,,,,,,,2022,Singapore Grand Prix
+63,RUS,,Mercedes,,George,Russell,George Russell,,,,,,,,,,,2022,Singapore Grand Prix

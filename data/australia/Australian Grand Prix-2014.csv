@@ -1,0 +1,23 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,3.0,,,,0 days 01:32:58.710000,Finished,25.0,2.0,2014,Australian Grand Prix
+20,MAG,kevin_magnussen,McLaren,mclaren,Kevin,Magnussen,Kevin Magnussen,2.0,2,4.0,,,,0 days 00:00:26.777000,Finished,18.0,2.0,2014,Australian Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,3.0,3,10.0,,,,0 days 00:00:30.027000,Finished,15.0,7.0,2014,Australian Grand Prix
+14,ALO,alonso,Ferrari,ferrari,Fernando,Alonso,Fernando Alonso,4.0,4,5.0,,,,0 days 00:00:35.284000,Finished,12.0,1.0,2014,Australian Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,5.0,5,15.0,,,,0 days 00:00:47.639000,Finished,10.0,10.0,2014,Australian Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,6.0,6,7.0,,,,0 days 00:00:50.718000,Finished,8.0,1.0,2014,Australian Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,7.0,7,11.0,,,,0 days 00:00:57.675000,Finished,6.0,4.0,2014,Australian Grand Prix
+25,VER,vergne,Toro Rosso,toro_rosso,Jean-Éric,Vergne,Jean-Éric Vergne,8.0,8,6.0,,,,0 days 00:01:00.441000,Finished,4.0,-2.0,2014,Australian Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,9.0,9,8.0,,,,0 days 00:01:03.585000,Finished,2.0,-1.0,2014,Australian Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,10.0,10,16.0,,,,0 days 00:01:25.916000,Finished,1.0,6.0,2014,Australian Grand Prix
+99,SUT,sutil,Sauber,sauber,Adrian,Sutil,Adrian Sutil,11.0,11,13.0,,,,,+1 Lap,0.0,2.0,2014,Australian Grand Prix
+21,GUT,gutierrez,Sauber,sauber,Esteban,Gutiérrez,Esteban Gutiérrez,12.0,12,20.0,,,,,+1 Lap,0.0,8.0,2014,Australian Grand Prix
+4,CHI,chilton,Marussia,marussia,Max,Chilton,Max Chilton,13.0,13,17.0,,,,,+2 Laps,0.0,4.0,2014,Australian Grand Prix
+17,BIA,jules_bianchi,Marussia,marussia,Jules,Bianchi,Jules Bianchi,14.0,R,18.0,,,,,+8 Laps,0.0,4.0,2014,Australian Grand Prix
+8,GRO,grosjean,Lotus F1,lotus_f1,Romain,Grosjean,Romain Grosjean,15.0,R,22.0,,,,,ERS,0.0,7.0,2014,Australian Grand Prix
+13,MAL,maldonado,Lotus F1,lotus_f1,Pastor,Maldonado,Pastor Maldonado,16.0,R,21.0,,,,,ERS,0.0,5.0,2014,Australian Grand Prix
+9,ERI,ericsson,Caterham,caterham,Marcus,Ericsson,Marcus Ericsson,17.0,R,19.0,,,,,Oil pressure,0.0,2.0,2014,Australian Grand Prix
+1,VET,vettel,Red Bull,red_bull,Sebastian,Vettel,Sebastian Vettel,18.0,R,12.0,,,,,Engine,0.0,-6.0,2014,Australian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,19.0,R,1.0,,,,,Engine,0.0,-18.0,2014,Australian Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,20.0,R,9.0,,,,,Collision,0.0,-11.0,2014,Australian Grand Prix
+10,KOB,kobayashi,Caterham,caterham,Kamui,Kobayashi,Kamui Kobayashi,21.0,R,14.0,,,,,Collision,0.0,-7.0,2014,Australian Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,22.0,D,2.0,,,,,Disqualified,0.0,-20.0,2014,Australian Grand Prix
