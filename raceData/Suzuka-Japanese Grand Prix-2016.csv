@@ -1,0 +1,23 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,1.0,,,,0 days 01:26:43.333000,Finished,25.0,0.0,2016,Japanese Grand Prix,Suzuka
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,2.0,2,3.0,,,,0 days 00:00:04.978000,Finished,18.0,1.0,2016,Japanese Grand Prix,Suzuka
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,2.0,,,,0 days 00:00:05.776000,Finished,15.0,-1.0,2016,Japanese Grand Prix,Suzuka
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,4.0,4,6.0,,,,0 days 00:00:20.269000,Finished,12.0,2.0,2016,Japanese Grand Prix,Suzuka
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,5.0,5,8.0,,,,0 days 00:00:28.370000,Finished,10.0,3.0,2016,Japanese Grand Prix,Suzuka
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,6.0,6,4.0,,,,0 days 00:00:33.941000,Finished,8.0,-2.0,2016,Japanese Grand Prix,Suzuka
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,7.0,7,5.0,,,,0 days 00:00:57.495000,Finished,6.0,-2.0,2016,Japanese Grand Prix,Suzuka
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,8.0,8,9.0,,,,0 days 00:00:59.177000,Finished,4.0,1.0,2016,Japanese Grand Prix,Suzuka
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,9.0,9,12.0,,,,0 days 00:01:37.763000,Finished,2.0,3.0,2016,Japanese Grand Prix,Suzuka
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,10.0,10,11.0,,,,0 days 00:01:38.323000,Finished,1.0,1.0,2016,Japanese Grand Prix,Suzuka
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,11.0,11,7.0,,,,0 days 00:01:39.254000,Finished,0.0,-4.0,2016,Japanese Grand Prix,Suzuka
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,12.0,12,16.0,,,,,+1 Lap,0.0,4.0,2016,Japanese Grand Prix,Suzuka
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,13.0,13,13.0,,,,,+1 Lap,0.0,0.0,2016,Japanese Grand Prix,Suzuka
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,14.0,14,17.0,,,,,+1 Lap,0.0,3.0,2016,Japanese Grand Prix,Suzuka
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,15.0,15,18.0,,,,,+1 Lap,0.0,3.0,2016,Japanese Grand Prix,Suzuka
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,16.0,16,15.0,,,,,+1 Lap,0.0,-1.0,2016,Japanese Grand Prix,Suzuka
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,17.0,17,14.0,,,,,+1 Lap,0.0,-3.0,2016,Japanese Grand Prix,Suzuka
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,18.0,18,22.0,,,,,+1 Lap,0.0,4.0,2016,Japanese Grand Prix,Suzuka
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,19.0,19,19.0,,,,,+1 Lap,0.0,0.0,2016,Japanese Grand Prix,Suzuka
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,20.0,20,10.0,,,,,+1 Lap,0.0,-10.0,2016,Japanese Grand Prix,Suzuka
+31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,21.0,21,20.0,,,,,+1 Lap,0.0,-1.0,2016,Japanese Grand Prix,Suzuka
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,22.0,22,21.0,,,,,+1 Lap,0.0,-1.0,2016,Japanese Grand Prix,Suzuka

@@ -1,0 +1,21 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+3,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,1.0,1,1.0,,,,0 days 01:42:54.807000,Finished,25.0,0.0,2018,Monaco Grand Prix,Monte Carlo
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,2.0,,,,0 days 00:00:07.336000,Finished,18.0,0.0,2018,Monaco Grand Prix,Monte Carlo
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,3.0,,,,0 days 00:00:17.013000,Finished,15.0,0.0,2018,Monaco Grand Prix,Monte Carlo
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,4.0,4,4.0,,,,0 days 00:00:18.127000,Finished,12.0,0.0,2018,Monaco Grand Prix,Monte Carlo
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,5.0,5,5.0,,,,0 days 00:00:18.822000,Finished,10.0,0.0,2018,Monaco Grand Prix,Monte Carlo
+31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,6.0,6,6.0,,,,0 days 00:00:23.667000,Finished,8.0,0.0,2018,Monaco Grand Prix,Monte Carlo
+10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,7.0,7,10.0,,,,0 days 00:00:24.331000,Finished,6.0,3.0,2018,Monaco Grand Prix,Monte Carlo
+27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,8.0,8,11.0,,,,0 days 00:00:24.839000,Finished,4.0,3.0,2018,Monaco Grand Prix,Monte Carlo
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,9.0,9,20.0,,,,0 days 00:00:25.317000,Finished,2.0,11.0,2018,Monaco Grand Prix,Monte Carlo
+55,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,10.0,10,8.0,,,,0 days 00:01:09.013000,Finished,1.0,-2.0,2018,Monaco Grand Prix,Monte Carlo
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,11.0,11,16.0,,,,0 days 00:01:09.864000,Finished,0.0,5.0,2018,Monaco Grand Prix,Monte Carlo
+11,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,12.0,12,9.0,,,,0 days 00:01:10.461000,Finished,0.0,-3.0,2018,Monaco Grand Prix,Monte Carlo
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,13,19.0,,,,0 days 00:01:14.823000,Finished,0.0,6.0,2018,Monaco Grand Prix,Monte Carlo
+2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,14.0,14,12.0,,,,,+1 Lap,0.0,-2.0,2018,Monaco Grand Prix,Monte Carlo
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,15.0,15,18.0,,,,,+1 Lap,0.0,3.0,2018,Monaco Grand Prix,Monte Carlo
+35,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,16.0,16,13.0,,,,,+1 Lap,0.0,-3.0,2018,Monaco Grand Prix,Monte Carlo
+18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,17.0,17,17.0,,,,,+2 Laps,0.0,0.0,2018,Monaco Grand Prix,Monte Carlo
+16,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,18.0,R,14.0,,,,,Collision,0.0,-4.0,2018,Monaco Grand Prix,Monte Carlo
+28,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,19.0,R,15.0,,,,,Collision,0.0,-4.0,2018,Monaco Grand Prix,Monte Carlo
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,20.0,R,7.0,,,,,Gearbox,0.0,-13.0,2018,Monaco Grand Prix,Monte Carlo

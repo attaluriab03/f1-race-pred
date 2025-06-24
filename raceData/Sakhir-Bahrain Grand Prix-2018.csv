@@ -1,0 +1,21 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,1.0,,,,0 days 01:32:01.940000,Finished,25.0,0.0,2018,Bahrain Grand Prix,Sakhir
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,3.0,,,,0 days 00:00:00.699000,Finished,18.0,1.0,2018,Bahrain Grand Prix,Sakhir
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,9.0,,,,0 days 00:00:06.512000,Finished,15.0,6.0,2018,Bahrain Grand Prix,Sakhir
+10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,4.0,4,5.0,,,,0 days 00:01:02.234000,Finished,12.0,1.0,2018,Bahrain Grand Prix,Sakhir
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,5.0,5,6.0,,,,0 days 00:01:15.046000,Finished,10.0,1.0,2018,Bahrain Grand Prix,Sakhir
+27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,6.0,6,7.0,,,,0 days 00:01:39.024000,Finished,8.0,1.0,2018,Bahrain Grand Prix,Sakhir
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,7.0,7,13.0,,,,,+1 Lap,6.0,6.0,2018,Bahrain Grand Prix,Sakhir
+2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,8.0,8,14.0,,,,,+1 Lap,4.0,6.0,2018,Bahrain Grand Prix,Sakhir
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,9.0,9,17.0,,,,,+1 Lap,2.0,8.0,2018,Bahrain Grand Prix,Sakhir
+31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,10.0,10,8.0,,,,,+1 Lap,1.0,-2.0,2018,Bahrain Grand Prix,Sakhir
+55,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,11.0,11,10.0,,,,,+1 Lap,0.0,-1.0,2018,Bahrain Grand Prix,Sakhir
+16,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,12.0,12,19.0,,,,,+1 Lap,0.0,7.0,2018,Bahrain Grand Prix,Sakhir
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,13.0,13,16.0,,,,,+1 Lap,0.0,3.0,2018,Bahrain Grand Prix,Sakhir
+18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,14.0,14,20.0,,,,,+1 Lap,0.0,6.0,2018,Bahrain Grand Prix,Sakhir
+35,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,15.0,15,18.0,,,,,+1 Lap,0.0,3.0,2018,Bahrain Grand Prix,Sakhir
+11,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,16.0,16,12.0,,,,,+1 Lap,0.0,-4.0,2018,Bahrain Grand Prix,Sakhir
+28,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,17.0,17,11.0,,,,,+1 Lap,0.0,-6.0,2018,Bahrain Grand Prix,Sakhir
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,18.0,R,2.0,,,,,Wheel,0.0,-16.0,2018,Bahrain Grand Prix,Sakhir
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,19.0,R,15.0,,,,,Puncture,0.0,-4.0,2018,Bahrain Grand Prix,Sakhir
+3,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,20.0,R,4.0,,,,,Electrical,0.0,-16.0,2018,Bahrain Grand Prix,Sakhir

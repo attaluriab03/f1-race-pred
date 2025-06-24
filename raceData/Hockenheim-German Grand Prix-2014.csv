@@ -1,0 +1,23 @@
+DriverNumber,DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+6,6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,1.0,,,,0 days 01:33:42.914000,Finished,25.0,0.0,2014,German Grand Prix,Hockenheim
+77,77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,2.0,2,2.0,,,,0 days 00:00:20.789000,Finished,18.0,0.0,2014,German Grand Prix,Hockenheim
+44,44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,20.0,,,,0 days 00:00:22.530000,Finished,15.0,17.0,2014,German Grand Prix,Hockenheim
+1,1,VET,vettel,Red Bull,red_bull,Sebastian,Vettel,Sebastian Vettel,4.0,4,6.0,,,,0 days 00:00:44.014000,Finished,12.0,2.0,2014,German Grand Prix,Hockenheim
+14,14,ALO,alonso,Ferrari,ferrari,Fernando,Alonso,Fernando Alonso,5.0,5,7.0,,,,0 days 00:00:52.467000,Finished,10.0,2.0,2014,German Grand Prix,Hockenheim
+3,3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,6.0,6,5.0,,,,0 days 00:00:52.549000,Finished,8.0,-1.0,2014,German Grand Prix,Hockenheim
+27,27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,7.0,7,9.0,,,,0 days 00:01:04.178000,Finished,6.0,2.0,2014,German Grand Prix,Hockenheim
+22,22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,8.0,8,11.0,,,,0 days 00:01:24.711000,Finished,4.0,3.0,2014,German Grand Prix,Hockenheim
+20,20,MAG,kevin_magnussen,McLaren,mclaren,Kevin,Magnussen,Kevin Magnussen,9.0,9,4.0,,,,,+1 Lap,2.0,-5.0,2014,German Grand Prix,Hockenheim
+11,11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,10.0,10,10.0,,,,,+1 Lap,1.0,0.0,2014,German Grand Prix,Hockenheim
+7,7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,11.0,11,12.0,,,,,+1 Lap,0.0,1.0,2014,German Grand Prix,Hockenheim
+13,13,MAL,maldonado,Lotus F1,lotus_f1,Pastor,Maldonado,Pastor Maldonado,12.0,12,18.0,,,,,+1 Lap,0.0,6.0,2014,German Grand Prix,Hockenheim
+25,25,VER,vergne,Toro Rosso,toro_rosso,Jean-Éric,Vergne,Jean-Éric Vergne,13.0,13,13.0,,,,,+1 Lap,0.0,0.0,2014,German Grand Prix,Hockenheim
+21,21,GUT,gutierrez,Sauber,sauber,Esteban,Gutiérrez,Esteban Gutiérrez,14.0,14,16.0,,,,,+1 Lap,0.0,2.0,2014,German Grand Prix,Hockenheim
+17,17,BIA,jules_bianchi,Marussia,marussia,Jules,Bianchi,Jules Bianchi,15.0,15,17.0,,,,,+1 Lap,0.0,2.0,2014,German Grand Prix,Hockenheim
+10,10,KOB,kobayashi,Caterham,caterham,Kamui,Kobayashi,Kamui Kobayashi,16.0,16,19.0,,,,,+2 Laps,0.0,3.0,2014,German Grand Prix,Hockenheim
+4,4,CHI,chilton,Marussia,marussia,Max,Chilton,Max Chilton,17.0,17,21.0,,,,,+2 Laps,0.0,4.0,2014,German Grand Prix,Hockenheim
+9,9,ERI,ericsson,Caterham,caterham,Marcus,Ericsson,Marcus Ericsson,18.0,18,22.0,,,,,+2 Laps,0.0,4.0,2014,German Grand Prix,Hockenheim
+99,99,SUT,sutil,Sauber,sauber,Adrian,Sutil,Adrian Sutil,19.0,R,15.0,,,,,Brakes,0.0,-4.0,2014,German Grand Prix,Hockenheim
+26,26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,20.0,R,8.0,,,,,Oil leak,0.0,-12.0,2014,German Grand Prix,Hockenheim
+8,8,GRO,grosjean,Lotus F1,lotus_f1,Romain,Grosjean,Romain Grosjean,21.0,R,14.0,,,,,Water leak,0.0,-7.0,2014,German Grand Prix,Hockenheim
+19,19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,22.0,R,3.0,,,,,Collision,0.0,-19.0,2014,German Grand Prix,Hockenheim

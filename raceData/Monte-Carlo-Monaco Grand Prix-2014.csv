@@ -1,0 +1,23 @@
+DriverNumber,DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+6,6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,1.0,,,,0 days 01:49:27.661000,Finished,25.0,0.0,2014,Monaco Grand Prix,Monte-Carlo
+44,44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,2.0,,,,0 days 00:00:09.210000,Finished,18.0,0.0,2014,Monaco Grand Prix,Monte-Carlo
+3,3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,3.0,3,3.0,,,,0 days 00:00:09.614000,Finished,15.0,0.0,2014,Monaco Grand Prix,Monte-Carlo
+14,14,ALO,alonso,Ferrari,ferrari,Fernando,Alonso,Fernando Alonso,4.0,4,5.0,,,,0 days 00:00:32.452000,Finished,12.0,1.0,2014,Monaco Grand Prix,Monte-Carlo
+27,27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,5.0,5,11.0,,,,,+1 Lap,10.0,6.0,2014,Monaco Grand Prix,Monte-Carlo
+22,22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,6.0,6,12.0,,,,,+1 Lap,8.0,6.0,2014,Monaco Grand Prix,Monte-Carlo
+19,19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,7.0,7,16.0,,,,,+1 Lap,6.0,9.0,2014,Monaco Grand Prix,Monte-Carlo
+8,8,GRO,grosjean,Lotus F1,lotus_f1,Romain,Grosjean,Romain Grosjean,8.0,8,14.0,,,,,+1 Lap,4.0,6.0,2014,Monaco Grand Prix,Monte-Carlo
+17,17,BIA,jules_bianchi,Marussia,marussia,Jules,Bianchi,Jules Bianchi,9.0,9,21.0,,,,,+1 Lap,2.0,12.0,2014,Monaco Grand Prix,Monte-Carlo
+20,20,MAG,kevin_magnussen,McLaren,mclaren,Kevin,Magnussen,Kevin Magnussen,10.0,10,8.0,,,,,+1 Lap,1.0,-2.0,2014,Monaco Grand Prix,Monte-Carlo
+9,9,ERI,ericsson,Caterham,caterham,Marcus,Ericsson,Marcus Ericsson,11.0,11,22.0,,,,,+1 Lap,0.0,11.0,2014,Monaco Grand Prix,Monte-Carlo
+7,7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,12.0,12,6.0,,,,,+1 Lap,0.0,-6.0,2014,Monaco Grand Prix,Monte-Carlo
+10,10,KOB,kobayashi,Caterham,caterham,Kamui,Kobayashi,Kamui Kobayashi,13.0,13,20.0,,,,,+2 Laps,0.0,7.0,2014,Monaco Grand Prix,Monte-Carlo
+4,4,CHI,chilton,Marussia,marussia,Max,Chilton,Max Chilton,14.0,14,19.0,,,,,+3 Laps,0.0,5.0,2014,Monaco Grand Prix,Monte-Carlo
+21,21,GUT,gutierrez,Sauber,sauber,Esteban,Gutiérrez,Esteban Gutiérrez,15.0,R,17.0,,,,,Accident,0.0,2.0,2014,Monaco Grand Prix,Monte-Carlo
+77,77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,16.0,R,13.0,,,,,Engine,0.0,-3.0,2014,Monaco Grand Prix,Monte-Carlo
+25,25,VER,vergne,Toro Rosso,toro_rosso,Jean-Éric,Vergne,Jean-Éric Vergne,17.0,R,7.0,,,,,Engine,0.0,-10.0,2014,Monaco Grand Prix,Monte-Carlo
+99,99,SUT,sutil,Sauber,sauber,Adrian,Sutil,Adrian Sutil,18.0,R,18.0,,,,,Accident,0.0,0.0,2014,Monaco Grand Prix,Monte-Carlo
+26,26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,19.0,R,9.0,,,,,Mechanical,0.0,-10.0,2014,Monaco Grand Prix,Monte-Carlo
+1,1,VET,vettel,Red Bull,red_bull,Sebastian,Vettel,Sebastian Vettel,20.0,R,4.0,,,,,Turbo,0.0,-16.0,2014,Monaco Grand Prix,Monte-Carlo
+11,11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,21.0,R,10.0,,,,,Collision,0.0,-11.0,2014,Monaco Grand Prix,Monte-Carlo
+13,13,MAL,maldonado,Lotus F1,lotus_f1,Pastor,Maldonado,Pastor Maldonado,22.0,W,15.0,,,,,Withdrew,0.0,-7.0,2014,Monaco Grand Prix,Monte-Carlo

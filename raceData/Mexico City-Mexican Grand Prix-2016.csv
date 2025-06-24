@@ -1,0 +1,23 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,,,,0 days 01:40:31.402000,Finished,25.0,0.0,2016,Mexican Grand Prix,Mexico City
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,2.0,2,2.0,,,,0 days 00:00:08.354000,Finished,18.0,0.0,2016,Mexican Grand Prix,Mexico City
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,3.0,3,4.0,,,,0 days 00:00:20.858000,Finished,15.0,1.0,2016,Mexican Grand Prix,Mexico City
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,4.0,4,3.0,,,,0 days 00:00:21.323000,Finished,12.0,-1.0,2016,Mexican Grand Prix,Mexico City
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,5.0,5,7.0,,,,0 days 00:00:27.313000,Finished,10.0,2.0,2016,Mexican Grand Prix,Mexico City
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,6.0,6,6.0,,,,0 days 00:00:49.376000,Finished,8.0,0.0,2016,Mexican Grand Prix,Mexico City
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,7.0,7,5.0,,,,0 days 00:00:58.891000,Finished,6.0,-2.0,2016,Mexican Grand Prix,Mexico City
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,8.0,8,8.0,,,,0 days 00:01:05.612000,Finished,4.0,0.0,2016,Mexican Grand Prix,Mexico City
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,9.0,9,9.0,,,,0 days 00:01:16.206000,Finished,2.0,0.0,2016,Mexican Grand Prix,Mexico City
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,10.0,10,12.0,,,,0 days 00:01:16.798000,Finished,1.0,2.0,2016,Mexican Grand Prix,Mexico City
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,11.0,11,15.0,,,,,+1 Lap,0.0,4.0,2016,Mexican Grand Prix,Mexico City
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,12.0,12,13.0,,,,,+1 Lap,0.0,1.0,2016,Mexican Grand Prix,Mexico City
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,13.0,13,11.0,,,,,+1 Lap,0.0,-2.0,2016,Mexican Grand Prix,Mexico City
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,14.0,14,21.0,,,,,+1 Lap,0.0,7.0,2016,Mexican Grand Prix,Mexico City
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,15.0,15,19.0,,,,,+1 Lap,0.0,4.0,2016,Mexican Grand Prix,Mexico City
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,16.0,16,10.0,,,,,+1 Lap,0.0,-6.0,2016,Mexican Grand Prix,Mexico City
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,17.0,17,14.0,,,,,+1 Lap,0.0,-3.0,2016,Mexican Grand Prix,Mexico City
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,18.0,18,18.0,,,,,+1 Lap,0.0,0.0,2016,Mexican Grand Prix,Mexico City
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,19.0,19,17.0,,,,,+1 Lap,0.0,-2.0,2016,Mexican Grand Prix,Mexico City
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,20.0,20,22.0,,,,,+1 Lap,0.0,2.0,2016,Mexican Grand Prix,Mexico City
+31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,21.0,21,20.0,,,,,+2 Laps,0.0,-1.0,2016,Mexican Grand Prix,Mexico City
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,22.0,R,16.0,,,,,Collision,0.0,-6.0,2016,Mexican Grand Prix,Mexico City
