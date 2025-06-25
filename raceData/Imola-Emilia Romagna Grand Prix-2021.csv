@@ -1,0 +1,21 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,3.0,,,,0 days 02:02:34.598000,Finished,25.0,2.0,2021,Emilia Romagna Grand Prix,Imola
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,1.0,,,,0 days 00:00:22,Finished,19.0,-1.0,2021,Emilia Romagna Grand Prix,Imola
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,3.0,3,7.0,,,,0 days 00:00:23.702000,Finished,15.0,4.0,2021,Emilia Romagna Grand Prix,Imola
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,4.0,4,4.0,,,,0 days 00:00:25.579000,Finished,12.0,0.0,2021,Emilia Romagna Grand Prix,Imola
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,5.0,5,11.0,,,,0 days 00:00:27.036000,Finished,10.0,6.0,2021,Emilia Romagna Grand Prix,Imola
+3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,6.0,6,6.0,,,,0 days 00:00:51.220000,Finished,8.0,0.0,2021,Emilia Romagna Grand Prix,Imola
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,7.0,7,5.0,,,,0 days 00:00:52.818000,Finished,6.0,-2.0,2021,Emilia Romagna Grand Prix,Imola
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,8.0,8,10.0,,,,0 days 00:00:56.909000,Finished,4.0,2.0,2021,Emilia Romagna Grand Prix,Imola
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,9.0,9,9.0,,,,0 days 00:01:05.704000,Finished,2.0,0.0,2021,Emilia Romagna Grand Prix,Imola
+14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,10.0,10,15.0,,,,0 days 00:01:06.561000,Finished,1.0,5.0,2021,Emilia Romagna Grand Prix,Imola
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,11.0,11,2.0,,,,0 days 00:01:07.151000,Finished,0.0,-9.0,2021,Emilia Romagna Grand Prix,Imola
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,12.0,12,20.0,,,,0 days 00:01:13.184000,Finished,0.0,8.0,2021,Emilia Romagna Grand Prix,Imola
+7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,13.0,13,16.0,,,,0 days 00:01:34.773000,Finished,0.0,3.0,2021,Emilia Romagna Grand Prix,Imola
+99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,14.0,14,17.0,,,,,+1 Lap,0.0,3.0,2021,Emilia Romagna Grand Prix,Imola
+5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,15.0,15,0.0,,,,,Gearbox,0.0,-15.0,2021,Emilia Romagna Grand Prix,Imola
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,16.0,16,18.0,,,,,+2 Laps,0.0,2.0,2021,Emilia Romagna Grand Prix,Imola
+9,MAZ,mazepin,Haas F1 Team,haas,Nikita,Mazepin,Nikita Mazepin,17.0,17,19.0,,,,,+2 Laps,0.0,2.0,2021,Emilia Romagna Grand Prix,Imola
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,18.0,R,8.0,,,,,Collision,0.0,-10.0,2021,Emilia Romagna Grand Prix,Imola
+63,RUS,russell,Williams,williams,George,Russell,George Russell,19.0,R,12.0,,,,,Collision,0.0,-7.0,2021,Emilia Romagna Grand Prix,Imola
+6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,20.0,R,14.0,,,,,Collision,0.0,-6.0,2021,Emilia Romagna Grand Prix,Imola

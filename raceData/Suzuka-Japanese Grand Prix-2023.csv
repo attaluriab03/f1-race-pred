@@ -1,0 +1,21 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+1,VER,,Red Bull Racing,,Max,Verstappen,Max Verstappen,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+81,PIA,,McLaren,,Oscar,Piastri,Oscar Piastri,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+4,NOR,,McLaren,,Lando,Norris,Lando Norris,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+16,LEC,,Ferrari,,Charles,Leclerc,Charles Leclerc,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+11,PER,,Red Bull Racing,,Sergio,Perez,Sergio Perez,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+55,SAI,,Ferrari,,Carlos,Sainz,Carlos Sainz,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+44,HAM,,Mercedes,,Lewis,Hamilton,Lewis Hamilton,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+63,RUS,,Mercedes,,George,Russell,George Russell,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+22,TSU,,AlphaTauri,,Yuki,Tsunoda,Yuki Tsunoda,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+14,ALO,,Aston Martin,,Fernando,Alonso,Fernando Alonso,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+40,LAW,,AlphaTauri,,Liam,Lawson,Liam Lawson,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+10,GAS,,Alpine,,Pierre,Gasly,Pierre Gasly,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+23,ALB,,Williams,,Alexander,Albon,Alexander Albon,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+31,OCO,,Alpine,,Esteban,Ocon,Esteban Ocon,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+20,MAG,,Haas F1 Team,,Kevin,Magnussen,Kevin Magnussen,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+77,BOT,,Alfa Romeo,,Valtteri,Bottas,Valtteri Bottas,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+18,STR,,Aston Martin,,Lance,Stroll,Lance Stroll,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+27,HUL,,Haas F1 Team,,Nico,Hulkenberg,Nico Hulkenberg,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+24,ZHO,,Alfa Romeo,,Guanyu,Zhou,Guanyu Zhou,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka
+2,SAR,,Williams,,Logan,Sargeant,Logan Sargeant,,,,,,,,,,,2023,Japanese Grand Prix,Suzuka

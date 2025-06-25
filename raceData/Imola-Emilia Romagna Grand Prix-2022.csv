@@ -1,0 +1,21 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,1.0,,,,0 days 01:32:07.986000,Finished,26.0,0.0,2022,Emilia Romagna Grand Prix,Imola
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,2.0,2,3.0,,,,0 days 00:00:16.527000,Finished,18.0,1.0,2022,Emilia Romagna Grand Prix,Imola
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,3.0,3,5.0,,,,0 days 00:00:34.834000,Finished,15.0,2.0,2022,Emilia Romagna Grand Prix,Imola
+63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,4.0,4,11.0,,,,0 days 00:00:42.506000,Finished,12.0,7.0,2022,Emilia Romagna Grand Prix,Imola
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri,Bottas,Valtteri Bottas,5.0,5,7.0,,,,0 days 00:00:43.181000,Finished,10.0,2.0,2022,Emilia Romagna Grand Prix,Imola
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,6.0,6,2.0,,,,0 days 00:00:56.072000,Finished,8.0,-4.0,2022,Emilia Romagna Grand Prix,Imola
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,7.0,7,12.0,,,,0 days 00:01:01.110000,Finished,6.0,5.0,2022,Emilia Romagna Grand Prix,Imola
+5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,8.0,8,13.0,,,,0 days 00:01:10.892000,Finished,4.0,5.0,2022,Emilia Romagna Grand Prix,Imola
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,9.0,9,8.0,,,,0 days 00:01:15.260000,Finished,2.0,-1.0,2022,Emilia Romagna Grand Prix,Imola
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,10.0,10,15.0,,,,,+1 Lap,1.0,5.0,2022,Emilia Romagna Grand Prix,Imola
+23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,11.0,11,18.0,,,,,+1 Lap,0.0,7.0,2022,Emilia Romagna Grand Prix,Imola
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,12.0,12,17.0,,,,,+1 Lap,0.0,5.0,2022,Emilia Romagna Grand Prix,Imola
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,13.0,13,14.0,,,,,+1 Lap,0.0,1.0,2022,Emilia Romagna Grand Prix,Imola
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,14.0,14,16.0,,,,,+1 Lap,0.0,2.0,2022,Emilia Romagna Grand Prix,Imola
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu,Zhou,Guanyu Zhou,15.0,15,0.0,,,,,+1 Lap,0.0,-15.0,2022,Emilia Romagna Grand Prix,Imola
+6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,16.0,16,19.0,,,,,+1 Lap,0.0,3.0,2022,Emilia Romagna Grand Prix,Imola
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,17.0,17,10.0,,,,,+1 Lap,0.0,-7.0,2022,Emilia Romagna Grand Prix,Imola
+3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,18.0,18,6.0,,,,,+1 Lap,0.0,-12.0,2022,Emilia Romagna Grand Prix,Imola
+14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,19.0,R,9.0,,,,,Collision damage,0.0,-10.0,2022,Emilia Romagna Grand Prix,Imola
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,20.0,R,4.0,,,,,Collision,0.0,-16.0,2022,Emilia Romagna Grand Prix,Imola
