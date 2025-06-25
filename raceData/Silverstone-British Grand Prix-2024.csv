@@ -1,0 +1,21 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,,,,0 days 01:22:27.059000,Finished,25.0,1.0,2024,British Grand Prix,Silverstone
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,2.0,2,4.0,,,,0 days 00:00:01.465000,Finished,18.0,2.0,2024,British Grand Prix,Silverstone
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,3.0,3,3.0,,,,0 days 00:00:07.547000,Finished,15.0,0.0,2024,British Grand Prix,Silverstone
+81,PIA,piastri,McLaren,mclaren,Oscar,Piastri,Oscar Piastri,4.0,4,5.0,,,,0 days 00:00:12.429000,Finished,12.0,1.0,2024,British Grand Prix,Silverstone
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,5.0,5,7.0,,,,0 days 00:00:47.318000,Finished,11.0,2.0,2024,British Grand Prix,Silverstone
+27,HUL,hulkenberg,Haas F1 Team,haas,Nico,Hulkenberg,Nico Hulkenberg,6.0,6,6.0,,,,0 days 00:00:55.722000,Finished,8.0,0.0,2024,British Grand Prix,Silverstone
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,7.0,7,8.0,,,,0 days 00:00:56.569000,Finished,6.0,1.0,2024,British Grand Prix,Silverstone
+14,ALO,alonso,Aston Martin,aston_martin,Fernando,Alonso,Fernando Alonso,8.0,8,10.0,,,,0 days 00:01:03.577000,Finished,4.0,2.0,2024,British Grand Prix,Silverstone
+23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,9.0,9,9.0,,,,0 days 00:01:08.387000,Finished,2.0,0.0,2024,British Grand Prix,Silverstone
+22,TSU,tsunoda,RB,rb,Yuki,Tsunoda,Yuki Tsunoda,10.0,10,13.0,,,,0 days 00:01:19.303000,Finished,1.0,3.0,2024,British Grand Prix,Silverstone
+2,SAR,sargeant,Williams,williams,Logan,Sargeant,Logan Sargeant,11.0,11,12.0,,,,0 days 00:01:28.960000,Finished,0.0,1.0,2024,British Grand Prix,Silverstone
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,12.0,12,17.0,,,,0 days 00:01:30.153000,Finished,0.0,5.0,2024,British Grand Prix,Silverstone
+3,RIC,ricciardo,RB,rb,Daniel,Ricciardo,Daniel Ricciardo,13.0,13,15.0,,,,0 days 00:00:09.937000,Lapped,0.0,2.0,2024,British Grand Prix,Silverstone
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,14.0,14,11.0,,,,0 days 00:00:40.473000,Lapped,0.0,-3.0,2024,British Grand Prix,Silverstone
+77,BOT,bottas,Kick Sauber,sauber,Valtteri,Bottas,Valtteri Bottas,15.0,15,16.0,,,,0 days 00:00:41.821000,Lapped,0.0,1.0,2024,British Grand Prix,Silverstone
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,16.0,16,18.0,,,,0 days 00:00:10.682000,Lapped,0.0,2.0,2024,British Grand Prix,Silverstone
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,17.0,17,20.0,,,,0 days 00:00:18.005000,Lapped,0.0,3.0,2024,British Grand Prix,Silverstone
+24,ZHO,zhou,Kick Sauber,sauber,Guanyu,Zhou,Guanyu Zhou,18.0,18,14.0,,,,0 days 00:00:54.476000,Lapped,0.0,-4.0,2024,British Grand Prix,Silverstone
+63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,19.0,R,1.0,,,,,Retired,0.0,-18.0,2024,British Grand Prix,Silverstone
+10,GAS,gasly,Alpine,alpine,Pierre,Gasly,Pierre Gasly,20.0,W,19.0,,,,,Did not start,0.0,-1.0,2024,British Grand Prix,Silverstone

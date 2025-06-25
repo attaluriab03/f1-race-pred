@@ -1,0 +1,21 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,1.0,1,1.0,,,,0 days 01:26:33.291000,Finished,25.0,0.0,2024,Abu Dhabi Grand Prix,Yas Island
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,2.0,2,3.0,,,,0 days 00:00:05.832000,Finished,18.0,1.0,2024,Abu Dhabi Grand Prix,Yas Island
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,3.0,3,19.0,,,,0 days 00:00:31.928000,Finished,15.0,16.0,2024,Abu Dhabi Grand Prix,Yas Island
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,4.0,4,16.0,,,,0 days 00:00:36.483000,Finished,12.0,12.0,2024,Abu Dhabi Grand Prix,Yas Island
+63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,5.0,5,6.0,,,,0 days 00:00:37.538000,Finished,10.0,1.0,2024,Abu Dhabi Grand Prix,Yas Island
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,6.0,6,4.0,,,,0 days 00:00:49.847000,Finished,8.0,-2.0,2024,Abu Dhabi Grand Prix,Yas Island
+10,GAS,gasly,Alpine,alpine,Pierre,Gasly,Pierre Gasly,7.0,7,5.0,,,,0 days 00:01:12.560000,Finished,6.0,-2.0,2024,Abu Dhabi Grand Prix,Yas Island
+27,HUL,hulkenberg,Haas F1 Team,haas,Nico,Hulkenberg,Nico Hulkenberg,8.0,8,7.0,,,,0 days 00:01:15.554000,Finished,4.0,-1.0,2024,Abu Dhabi Grand Prix,Yas Island
+14,ALO,alonso,Aston Martin,aston_martin,Fernando,Alonso,Fernando Alonso,9.0,9,8.0,,,,0 days 00:01:22.373000,Finished,2.0,-1.0,2024,Abu Dhabi Grand Prix,Yas Island
+81,PIA,piastri,McLaren,mclaren,Oscar,Piastri,Oscar Piastri,10.0,10,2.0,,,,0 days 00:01:23.821000,Finished,1.0,-8.0,2024,Abu Dhabi Grand Prix,Yas Island
+23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,11.0,11,18.0,,,,0 days 00:00:11.251000,Lapped,0.0,7.0,2024,Abu Dhabi Grand Prix,Yas Island
+22,TSU,tsunoda,RB,rb,Yuki,Tsunoda,Yuki Tsunoda,12.0,12,11.0,,,,0 days 00:00:14.738000,Lapped,0.0,-1.0,2024,Abu Dhabi Grand Prix,Yas Island
+24,ZHO,zhou,Kick Sauber,sauber,Guanyu,Zhou,Guanyu Zhou,13.0,13,15.0,,,,0 days 00:00:17.304000,Lapped,0.0,2.0,2024,Abu Dhabi Grand Prix,Yas Island
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,14.0,14,13.0,,,,0 days 00:00:18.473000,Lapped,0.0,-1.0,2024,Abu Dhabi Grand Prix,Yas Island
+61,DOO,doohan,Alpine,alpine,Jack,Doohan,Jack Doohan,15.0,15,17.0,,,,0 days 00:00:26.555000,Lapped,0.0,2.0,2024,Abu Dhabi Grand Prix,Yas Island
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,16.0,16,14.0,,,,0 days 00:01:17.597000,Lapped,0.0,-2.0,2024,Abu Dhabi Grand Prix,Yas Island
+30,LAW,lawson,RB,rb,Liam,Lawson,Liam Lawson,17.0,17,12.0,,,,,Finished,0.0,-5.0,2024,Abu Dhabi Grand Prix,Yas Island
+77,BOT,bottas,Kick Sauber,sauber,Valtteri,Bottas,Valtteri Bottas,18.0,R,9.0,,,,,Retired,0.0,-9.0,2024,Abu Dhabi Grand Prix,Yas Island
+43,COL,colapinto,Williams,williams,Franco,Colapinto,Franco Colapinto,19.0,R,20.0,,,,,Retired,0.0,1.0,2024,Abu Dhabi Grand Prix,Yas Island
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,20.0,R,10.0,,,,,Retired,0.0,-10.0,2024,Abu Dhabi Grand Prix,Yas Island

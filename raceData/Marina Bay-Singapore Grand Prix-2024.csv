@@ -1,0 +1,21 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,1.0,1,1.0,,,,0 days 01:40:52.571000,Finished,25.0,0.0,2024,Singapore Grand Prix,Marina Bay
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,2.0,2,2.0,,,,0 days 00:00:20.945000,Finished,18.0,0.0,2024,Singapore Grand Prix,Marina Bay
+81,PIA,piastri,McLaren,mclaren,Oscar,Piastri,Oscar Piastri,3.0,3,5.0,,,,0 days 00:00:41.823000,Finished,15.0,2.0,2024,Singapore Grand Prix,Marina Bay
+63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,4.0,4,4.0,,,,0 days 00:01:01.040000,Finished,12.0,0.0,2024,Singapore Grand Prix,Marina Bay
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,5.0,5,9.0,,,,0 days 00:01:02.430000,Finished,10.0,4.0,2024,Singapore Grand Prix,Marina Bay
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,6.0,6,3.0,,,,0 days 00:01:25.248000,Finished,8.0,-3.0,2024,Singapore Grand Prix,Marina Bay
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,7.0,7,10.0,,,,0 days 00:01:36.039000,Finished,6.0,3.0,2024,Singapore Grand Prix,Marina Bay
+14,ALO,alonso,Aston Martin,aston_martin,Fernando,Alonso,Fernando Alonso,8.0,8,7.0,,,,0 days 00:00:00.873000,Lapped,4.0,-1.0,2024,Singapore Grand Prix,Marina Bay
+27,HUL,hulkenberg,Haas F1 Team,haas,Nico,Hulkenberg,Nico Hulkenberg,9.0,9,6.0,,,,0 days 00:00:03.140000,Lapped,2.0,-3.0,2024,Singapore Grand Prix,Marina Bay
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,10.0,10,13.0,,,,0 days 00:00:04.624000,Lapped,1.0,3.0,2024,Singapore Grand Prix,Marina Bay
+43,COL,colapinto,Williams,williams,Franco,Colapinto,Franco Colapinto,11.0,11,12.0,,,,0 days 00:00:06.284000,Lapped,0.0,1.0,2024,Singapore Grand Prix,Marina Bay
+22,TSU,tsunoda,RB,rb,Yuki,Tsunoda,Yuki Tsunoda,12.0,12,8.0,,,,0 days 00:00:08.792000,Lapped,0.0,-4.0,2024,Singapore Grand Prix,Marina Bay
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,13.0,13,15.0,,,,0 days 00:00:44.005000,Lapped,0.0,2.0,2024,Singapore Grand Prix,Marina Bay
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,14.0,14,17.0,,,,0 days 00:00:47.571000,Lapped,0.0,3.0,2024,Singapore Grand Prix,Marina Bay
+24,ZHO,zhou,Kick Sauber,sauber,Guanyu,Zhou,Guanyu Zhou,15.0,15,20.0,,,,0 days 00:00:57.220000,Lapped,0.0,5.0,2024,Singapore Grand Prix,Marina Bay
+77,BOT,bottas,Kick Sauber,sauber,Valtteri,Bottas,Valtteri Bottas,16.0,16,19.0,,,,0 days 00:00:57.829000,Lapped,0.0,3.0,2024,Singapore Grand Prix,Marina Bay
+10,GAS,gasly,Alpine,alpine,Pierre,Gasly,Pierre Gasly,17.0,17,18.0,,,,0 days 00:00:59.059000,Lapped,0.0,1.0,2024,Singapore Grand Prix,Marina Bay
+3,RIC,ricciardo,RB,rb,Daniel,Ricciardo,Daniel Ricciardo,18.0,18,16.0,,,,0 days 00:01:29.796000,Lapped,0.0,-2.0,2024,Singapore Grand Prix,Marina Bay
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,19.0,19,14.0,,,,,Finished,0.0,-5.0,2024,Singapore Grand Prix,Marina Bay
+23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,20.0,R,11.0,,,,,Retired,0.0,-9.0,2024,Singapore Grand Prix,Marina Bay
