@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,,,,0 days 01:33:38.992000,Finished,26.0,1.0,2019,Russian Grand Prix,Sochi
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,4.0,,,,0 days 00:00:03.829000,Finished,18.0,2.0,2019,Russian Grand Prix,Sochi
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,3.0,3,1.0,,,,0 days 00:00:05.212000,Finished,15.0,-2.0,2019,Russian Grand Prix,Sochi
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,4.0,4,9.0,,,,0 days 00:00:14.210000,Finished,12.0,5.0,2019,Russian Grand Prix,Sochi
-23,ALB,albon,Red Bull Racing,red_bull,Alexander,Albon,Alexander Albon,5.0,5,0.0,,,,0 days 00:00:38.348000,Finished,10.0,-5.0,2019,Russian Grand Prix,Sochi
-55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,6.0,6,5.0,,,,0 days 00:00:45.889000,Finished,8.0,-1.0,2019,Russian Grand Prix,Sochi
-11,PER,perez,Racing Point,racing_point,Sergio,Perez,Sergio Perez,7.0,7,11.0,,,,0 days 00:00:48.728000,Finished,6.0,4.0,2019,Russian Grand Prix,Sochi
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,8.0,8,7.0,,,,0 days 00:00:57.749000,Finished,4.0,-1.0,2019,Russian Grand Prix,Sochi
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,9.0,9,13.0,,,,0 days 00:00:58.779000,Finished,2.0,4.0,2019,Russian Grand Prix,Sochi
-27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,10.0,10,6.0,,,,0 days 00:00:59.841000,Finished,1.0,-4.0,2019,Russian Grand Prix,Sochi
-18,STR,stroll,Racing Point,racing_point,Lance,Stroll,Lance Stroll,11.0,11,14.0,,,,0 days 00:01:00.821000,Finished,0.0,3.0,2019,Russian Grand Prix,Sochi
-26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,12.0,12,19.0,,,,0 days 00:01:02.496000,Finished,0.0,7.0,2019,Russian Grand Prix,Sochi
-7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,13.0,13,15.0,,,,0 days 00:01:08.910000,Finished,0.0,2.0,2019,Russian Grand Prix,Sochi
-10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,14.0,14,16.0,,,,0 days 00:01:10.076000,Finished,0.0,2.0,2019,Russian Grand Prix,Sochi
-99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,15.0,15,12.0,,,,0 days 00:01:13.346000,Finished,0.0,-3.0,2019,Russian Grand Prix,Sochi
-88,KUB,kubica,Williams,williams,Robert,Kubica,Robert Kubica,16.0,R,18.0,,,,,Brakes,0.0,2.0,2019,Russian Grand Prix,Sochi
-63,RUS,russell,Williams,williams,George,Russell,George Russell,17.0,R,17.0,,,,,Brakes,0.0,0.0,2019,Russian Grand Prix,Sochi
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,18.0,R,3.0,,,,,Power loss,0.0,-15.0,2019,Russian Grand Prix,Sochi
-3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,19.0,R,10.0,,,,,Collision,0.0,-9.0,2019,Russian Grand Prix,Sochi
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,20.0,R,8.0,,,,,Collision,0.0,-12.0,2019,Russian Grand Prix,Sochi
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,,0 days 01:33:38.992000,Finished,26.0,1.0,2019,Russian Grand Prix,Sochi
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,4.0,,0 days 00:00:03.829000,Finished,18.0,2.0,2019,Russian Grand Prix,Sochi
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,3.0,3,1.0,,0 days 00:00:05.212000,Finished,15.0,-2.0,2019,Russian Grand Prix,Sochi
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,4.0,4,9.0,,0 days 00:00:14.210000,Finished,12.0,5.0,2019,Russian Grand Prix,Sochi
+23,ALB,albon,Red Bull Racing,red_bull,Alexander,Albon,Alexander Albon,5.0,5,0.0,,0 days 00:00:38.348000,Finished,10.0,-5.0,2019,Russian Grand Prix,Sochi
+55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,6.0,6,5.0,,0 days 00:00:45.889000,Finished,8.0,-1.0,2019,Russian Grand Prix,Sochi
+11,PER,perez,Racing Point,racing_point,Sergio,Perez,Sergio Perez,7.0,7,11.0,,0 days 00:00:48.728000,Finished,6.0,4.0,2019,Russian Grand Prix,Sochi
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,8.0,8,7.0,,0 days 00:00:57.749000,Finished,4.0,-1.0,2019,Russian Grand Prix,Sochi
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,9.0,9,13.0,,0 days 00:00:58.779000,Finished,2.0,4.0,2019,Russian Grand Prix,Sochi
+27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,10.0,10,6.0,,0 days 00:00:59.841000,Finished,1.0,-4.0,2019,Russian Grand Prix,Sochi
+18,STR,stroll,Racing Point,racing_point,Lance,Stroll,Lance Stroll,11.0,11,14.0,,0 days 00:01:00.821000,Finished,0.0,3.0,2019,Russian Grand Prix,Sochi
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,12.0,12,19.0,,0 days 00:01:02.496000,Finished,0.0,7.0,2019,Russian Grand Prix,Sochi
+7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,13.0,13,15.0,,0 days 00:01:08.910000,Finished,0.0,2.0,2019,Russian Grand Prix,Sochi
+10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,14.0,14,16.0,,0 days 00:01:10.076000,Finished,0.0,2.0,2019,Russian Grand Prix,Sochi
+99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,15.0,15,12.0,,0 days 00:01:13.346000,Finished,0.0,-3.0,2019,Russian Grand Prix,Sochi
+88,KUB,kubica,Williams,williams,Robert,Kubica,Robert Kubica,16.0,R,18.0,,,Brakes,0.0,2.0,2019,Russian Grand Prix,Sochi
+63,RUS,russell,Williams,williams,George,Russell,George Russell,17.0,R,17.0,,,Brakes,0.0,0.0,2019,Russian Grand Prix,Sochi
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,18.0,R,3.0,,,Power loss,0.0,-15.0,2019,Russian Grand Prix,Sochi
+3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,19.0,R,10.0,,,Collision,0.0,-9.0,2019,Russian Grand Prix,Sochi
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,20.0,R,8.0,,,Collision,0.0,-12.0,2019,Russian Grand Prix,Sochi

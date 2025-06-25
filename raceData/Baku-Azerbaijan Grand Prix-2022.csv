@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,3.0,,,,0 days 01:34:05.941000,Finished,25.0,2.0,2022,Azerbaijan Grand Prix,Baku
-11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,2.0,2,2.0,,,,0 days 00:00:20.823000,Finished,19.0,0.0,2022,Azerbaijan Grand Prix,Baku
-63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,3.0,3,5.0,,,,0 days 00:00:45.995000,Finished,15.0,2.0,2022,Azerbaijan Grand Prix,Baku
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,4.0,4,7.0,,,,0 days 00:01:11.679000,Finished,12.0,3.0,2022,Azerbaijan Grand Prix,Baku
-10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,5.0,5,6.0,,,,0 days 00:01:17.299000,Finished,10.0,1.0,2022,Azerbaijan Grand Prix,Baku
-5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,6.0,6,9.0,,,,0 days 00:01:24.099000,Finished,8.0,3.0,2022,Azerbaijan Grand Prix,Baku
-14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,7.0,7,10.0,,,,0 days 00:01:28.596000,Finished,6.0,3.0,2022,Azerbaijan Grand Prix,Baku
-3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,8.0,8,12.0,,,,0 days 00:01:32.207000,Finished,4.0,4.0,2022,Azerbaijan Grand Prix,Baku
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,9.0,9,11.0,,,,0 days 00:01:32.556000,Finished,2.0,2.0,2022,Azerbaijan Grand Prix,Baku
-31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,10.0,10,13.0,,,,0 days 00:01:48.184000,Finished,1.0,3.0,2022,Azerbaijan Grand Prix,Baku
-77,BOT,bottas,Alfa Romeo,alfa,Valtteri,Bottas,Valtteri Bottas,11.0,11,15.0,,,,,+1 Lap,0.0,4.0,2022,Azerbaijan Grand Prix,Baku
-23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,12.0,12,17.0,,,,,+1 Lap,0.0,5.0,2022,Azerbaijan Grand Prix,Baku
-22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,13.0,13,8.0,,,,,+1 Lap,0.0,-5.0,2022,Azerbaijan Grand Prix,Baku
-47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,14.0,14,20.0,,,,,+1 Lap,0.0,6.0,2022,Azerbaijan Grand Prix,Baku
-6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,15.0,15,18.0,,,,,+1 Lap,0.0,3.0,2022,Azerbaijan Grand Prix,Baku
-18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,16.0,16,19.0,,,,,Vibrations,0.0,3.0,2022,Azerbaijan Grand Prix,Baku
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,17.0,R,16.0,,,,,Power Unit,0.0,-1.0,2022,Azerbaijan Grand Prix,Baku
-24,ZHO,zhou,Alfa Romeo,alfa,Guanyu,Zhou,Guanyu Zhou,18.0,R,14.0,,,,,Hydraulics,0.0,-4.0,2022,Azerbaijan Grand Prix,Baku
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,19.0,R,1.0,,,,,Power Unit,0.0,-18.0,2022,Azerbaijan Grand Prix,Baku
-55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,20.0,R,4.0,,,,,Hydraulics,0.0,-16.0,2022,Azerbaijan Grand Prix,Baku
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,3.0,,0 days 01:34:05.941000,Finished,25.0,2.0,2022,Azerbaijan Grand Prix,Baku
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,2.0,2,2.0,,0 days 00:00:20.823000,Finished,19.0,0.0,2022,Azerbaijan Grand Prix,Baku
+63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,3.0,3,5.0,,0 days 00:00:45.995000,Finished,15.0,2.0,2022,Azerbaijan Grand Prix,Baku
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,4.0,4,7.0,,0 days 00:01:11.679000,Finished,12.0,3.0,2022,Azerbaijan Grand Prix,Baku
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,5.0,5,6.0,,0 days 00:01:17.299000,Finished,10.0,1.0,2022,Azerbaijan Grand Prix,Baku
+5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,6.0,6,9.0,,0 days 00:01:24.099000,Finished,8.0,3.0,2022,Azerbaijan Grand Prix,Baku
+14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,7.0,7,10.0,,0 days 00:01:28.596000,Finished,6.0,3.0,2022,Azerbaijan Grand Prix,Baku
+3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,8.0,8,12.0,,0 days 00:01:32.207000,Finished,4.0,4.0,2022,Azerbaijan Grand Prix,Baku
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,9.0,9,11.0,,0 days 00:01:32.556000,Finished,2.0,2.0,2022,Azerbaijan Grand Prix,Baku
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,10.0,10,13.0,,0 days 00:01:48.184000,Finished,1.0,3.0,2022,Azerbaijan Grand Prix,Baku
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri,Bottas,Valtteri Bottas,11.0,11,15.0,,,+1 Lap,0.0,4.0,2022,Azerbaijan Grand Prix,Baku
+23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,12.0,12,17.0,,,+1 Lap,0.0,5.0,2022,Azerbaijan Grand Prix,Baku
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,13.0,13,8.0,,,+1 Lap,0.0,-5.0,2022,Azerbaijan Grand Prix,Baku
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,14.0,14,20.0,,,+1 Lap,0.0,6.0,2022,Azerbaijan Grand Prix,Baku
+6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,15.0,15,18.0,,,+1 Lap,0.0,3.0,2022,Azerbaijan Grand Prix,Baku
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,16.0,16,19.0,,,Vibrations,0.0,3.0,2022,Azerbaijan Grand Prix,Baku
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,17.0,R,16.0,,,Power Unit,0.0,-1.0,2022,Azerbaijan Grand Prix,Baku
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu,Zhou,Guanyu Zhou,18.0,R,14.0,,,Hydraulics,0.0,-4.0,2022,Azerbaijan Grand Prix,Baku
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,19.0,R,1.0,,,Power Unit,0.0,-18.0,2022,Azerbaijan Grand Prix,Baku
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,20.0,R,4.0,,,Hydraulics,0.0,-16.0,2022,Azerbaijan Grand Prix,Baku

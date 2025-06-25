@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,1.0,,,,0 days 01:33:58.348000,Finished,25.0,0.0,2023,Canadian Grand Prix,Montréal
-14,ALO,alonso,Aston Martin,aston_martin,Fernando,Alonso,Fernando Alonso,2.0,2,2.0,,,,0 days 00:00:09.570000,Finished,18.0,0.0,2023,Canadian Grand Prix,Montréal
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,3.0,,,,0 days 00:00:14.168000,Finished,15.0,0.0,2023,Canadian Grand Prix,Montréal
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,4.0,4,10.0,,,,0 days 00:00:18.648000,Finished,12.0,6.0,2023,Canadian Grand Prix,Montréal
-55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,5.0,5,11.0,,,,0 days 00:00:21.540000,Finished,10.0,6.0,2023,Canadian Grand Prix,Montréal
-11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,6.0,6,12.0,,,,0 days 00:00:51.028000,Finished,9.0,6.0,2023,Canadian Grand Prix,Montréal
-23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,7.0,7,9.0,,,,0 days 00:01:00.813000,Finished,6.0,2.0,2023,Canadian Grand Prix,Montréal
-31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,8.0,8,6.0,,,,0 days 00:01:01.692000,Finished,4.0,-2.0,2023,Canadian Grand Prix,Montréal
-18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,9.0,9,16.0,,,,0 days 00:01:04.402000,Finished,2.0,7.0,2023,Canadian Grand Prix,Montréal
-77,BOT,bottas,Alfa Romeo,alfa,Valtteri,Bottas,Valtteri Bottas,10.0,10,14.0,,,,0 days 00:01:04.432000,Finished,1.0,4.0,2023,Canadian Grand Prix,Montréal
-81,PIA,piastri,McLaren,mclaren,Oscar,Piastri,Oscar Piastri,11.0,11,8.0,,,,0 days 00:01:05.101000,Finished,0.0,-3.0,2023,Canadian Grand Prix,Montréal
-10,GAS,gasly,Alpine,alpine,Pierre,Gasly,Pierre Gasly,12.0,12,15.0,,,,0 days 00:01:05.249000,Finished,0.0,3.0,2023,Canadian Grand Prix,Montréal
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,13.0,13,7.0,,,,0 days 00:01:08.363000,Finished,0.0,-6.0,2023,Canadian Grand Prix,Montréal
-22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,14.0,14,19.0,,,,0 days 00:01:13.423000,Finished,0.0,5.0,2023,Canadian Grand Prix,Montréal
-27,HUL,hulkenberg,Haas F1 Team,haas,Nico,Hulkenberg,Nico Hulkenberg,15.0,15,5.0,,,,0 days 00:00:16.943000,Lapped,0.0,-10.0,2023,Canadian Grand Prix,Montréal
-24,ZHO,zhou,Alfa Romeo,alfa,Guanyu,Zhou,Guanyu Zhou,16.0,16,20.0,,,,0 days 00:00:17.377000,Lapped,0.0,4.0,2023,Canadian Grand Prix,Montréal
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,17.0,17,13.0,,,,0 days 00:01:10.259000,Lapped,0.0,-4.0,2023,Canadian Grand Prix,Montréal
-21,DEV,de_vries,AlphaTauri,alphatauri,Nyck,De Vries,Nyck De Vries,18.0,18,17.0,,,,0 days 00:01:14.967000,Lapped,0.0,-1.0,2023,Canadian Grand Prix,Montréal
-63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,19.0,R,4.0,,,,,Retired,0.0,-15.0,2023,Canadian Grand Prix,Montréal
-2,SAR,sargeant,Williams,williams,Logan,Sargeant,Logan Sargeant,20.0,R,18.0,,,,,Retired,0.0,-2.0,2023,Canadian Grand Prix,Montréal
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,1.0,,0 days 01:33:58.348000,Finished,25.0,0.0,2023,Canadian Grand Prix,Montréal
+14,ALO,alonso,Aston Martin,aston_martin,Fernando,Alonso,Fernando Alonso,2.0,2,2.0,,0 days 00:00:09.570000,Finished,18.0,0.0,2023,Canadian Grand Prix,Montréal
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,3.0,,0 days 00:00:14.168000,Finished,15.0,0.0,2023,Canadian Grand Prix,Montréal
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,4.0,4,10.0,,0 days 00:00:18.648000,Finished,12.0,6.0,2023,Canadian Grand Prix,Montréal
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,5.0,5,11.0,,0 days 00:00:21.540000,Finished,10.0,6.0,2023,Canadian Grand Prix,Montréal
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,6.0,6,12.0,,0 days 00:00:51.028000,Finished,9.0,6.0,2023,Canadian Grand Prix,Montréal
+23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,7.0,7,9.0,,0 days 00:01:00.813000,Finished,6.0,2.0,2023,Canadian Grand Prix,Montréal
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,8.0,8,6.0,,0 days 00:01:01.692000,Finished,4.0,-2.0,2023,Canadian Grand Prix,Montréal
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,9.0,9,16.0,,0 days 00:01:04.402000,Finished,2.0,7.0,2023,Canadian Grand Prix,Montréal
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri,Bottas,Valtteri Bottas,10.0,10,14.0,,0 days 00:01:04.432000,Finished,1.0,4.0,2023,Canadian Grand Prix,Montréal
+81,PIA,piastri,McLaren,mclaren,Oscar,Piastri,Oscar Piastri,11.0,11,8.0,,0 days 00:01:05.101000,Finished,0.0,-3.0,2023,Canadian Grand Prix,Montréal
+10,GAS,gasly,Alpine,alpine,Pierre,Gasly,Pierre Gasly,12.0,12,15.0,,0 days 00:01:05.249000,Finished,0.0,3.0,2023,Canadian Grand Prix,Montréal
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,13.0,13,7.0,,0 days 00:01:08.363000,Finished,0.0,-6.0,2023,Canadian Grand Prix,Montréal
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,14.0,14,19.0,,0 days 00:01:13.423000,Finished,0.0,5.0,2023,Canadian Grand Prix,Montréal
+27,HUL,hulkenberg,Haas F1 Team,haas,Nico,Hulkenberg,Nico Hulkenberg,15.0,15,5.0,,0 days 00:00:16.943000,Lapped,0.0,-10.0,2023,Canadian Grand Prix,Montréal
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu,Zhou,Guanyu Zhou,16.0,16,20.0,,0 days 00:00:17.377000,Lapped,0.0,4.0,2023,Canadian Grand Prix,Montréal
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,17.0,17,13.0,,0 days 00:01:10.259000,Lapped,0.0,-4.0,2023,Canadian Grand Prix,Montréal
+21,DEV,de_vries,AlphaTauri,alphatauri,Nyck,De Vries,Nyck De Vries,18.0,18,17.0,,0 days 00:01:14.967000,Lapped,0.0,-1.0,2023,Canadian Grand Prix,Montréal
+63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,19.0,R,4.0,,,Retired,0.0,-15.0,2023,Canadian Grand Prix,Montréal
+2,SAR,sargeant,Williams,williams,Logan,Sargeant,Logan Sargeant,20.0,R,18.0,,,Retired,0.0,-2.0,2023,Canadian Grand Prix,Montréal

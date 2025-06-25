@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,2.0,,,,0 days 01:37:20.475000,Finished,25.0,1.0,2022,Spanish Grand Prix,Barcelona
-11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,2.0,2,5.0,,,,0 days 00:00:13.072000,Finished,19.0,3.0,2022,Spanish Grand Prix,Barcelona
-63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,3.0,3,4.0,,,,0 days 00:00:32.927000,Finished,15.0,1.0,2022,Spanish Grand Prix,Barcelona
-55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,4.0,4,3.0,,,,0 days 00:00:45.208000,Finished,12.0,-1.0,2022,Spanish Grand Prix,Barcelona
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,5.0,5,6.0,,,,0 days 00:00:54.534000,Finished,10.0,1.0,2022,Spanish Grand Prix,Barcelona
-77,BOT,bottas,Alfa Romeo,alfa,Valtteri,Bottas,Valtteri Bottas,6.0,6,7.0,,,,0 days 00:00:59.976000,Finished,8.0,1.0,2022,Spanish Grand Prix,Barcelona
-31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,7.0,7,12.0,,,,0 days 00:01:15.397000,Finished,6.0,5.0,2022,Spanish Grand Prix,Barcelona
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,8.0,8,11.0,,,,0 days 00:01:23.235000,Finished,4.0,3.0,2022,Spanish Grand Prix,Barcelona
-14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,9.0,9,20.0,,,,,+1 Lap,2.0,11.0,2022,Spanish Grand Prix,Barcelona
-22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,10.0,10,13.0,,,,,+1 Lap,1.0,3.0,2022,Spanish Grand Prix,Barcelona
-5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,11.0,11,16.0,,,,,+1 Lap,0.0,5.0,2022,Spanish Grand Prix,Barcelona
-3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,12.0,12,9.0,,,,,+1 Lap,0.0,-3.0,2022,Spanish Grand Prix,Barcelona
-10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,13.0,13,14.0,,,,,+1 Lap,0.0,1.0,2022,Spanish Grand Prix,Barcelona
-47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,14.0,14,10.0,,,,,+1 Lap,0.0,-4.0,2022,Spanish Grand Prix,Barcelona
-18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,15.0,15,17.0,,,,,+1 Lap,0.0,2.0,2022,Spanish Grand Prix,Barcelona
-6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,16.0,16,19.0,,,,,+2 Laps,0.0,3.0,2022,Spanish Grand Prix,Barcelona
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,17.0,17,8.0,,,,,+2 Laps,0.0,-9.0,2022,Spanish Grand Prix,Barcelona
-23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,18.0,18,18.0,,,,,+2 Laps,0.0,0.0,2022,Spanish Grand Prix,Barcelona
-24,ZHO,zhou,Alfa Romeo,alfa,Guanyu,Zhou,Guanyu Zhou,19.0,R,15.0,,,,,Power loss,0.0,-4.0,2022,Spanish Grand Prix,Barcelona
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,20.0,R,1.0,,,,,Turbo,0.0,-19.0,2022,Spanish Grand Prix,Barcelona
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,2.0,,0 days 01:37:20.475000,Finished,25.0,1.0,2022,Spanish Grand Prix,Barcelona
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,2.0,2,5.0,,0 days 00:00:13.072000,Finished,19.0,3.0,2022,Spanish Grand Prix,Barcelona
+63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,3.0,3,4.0,,0 days 00:00:32.927000,Finished,15.0,1.0,2022,Spanish Grand Prix,Barcelona
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,4.0,4,3.0,,0 days 00:00:45.208000,Finished,12.0,-1.0,2022,Spanish Grand Prix,Barcelona
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,5.0,5,6.0,,0 days 00:00:54.534000,Finished,10.0,1.0,2022,Spanish Grand Prix,Barcelona
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri,Bottas,Valtteri Bottas,6.0,6,7.0,,0 days 00:00:59.976000,Finished,8.0,1.0,2022,Spanish Grand Prix,Barcelona
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,7.0,7,12.0,,0 days 00:01:15.397000,Finished,6.0,5.0,2022,Spanish Grand Prix,Barcelona
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,8.0,8,11.0,,0 days 00:01:23.235000,Finished,4.0,3.0,2022,Spanish Grand Prix,Barcelona
+14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,9.0,9,20.0,,,+1 Lap,2.0,11.0,2022,Spanish Grand Prix,Barcelona
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,10.0,10,13.0,,,+1 Lap,1.0,3.0,2022,Spanish Grand Prix,Barcelona
+5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,11.0,11,16.0,,,+1 Lap,0.0,5.0,2022,Spanish Grand Prix,Barcelona
+3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,12.0,12,9.0,,,+1 Lap,0.0,-3.0,2022,Spanish Grand Prix,Barcelona
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,13.0,13,14.0,,,+1 Lap,0.0,1.0,2022,Spanish Grand Prix,Barcelona
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,14.0,14,10.0,,,+1 Lap,0.0,-4.0,2022,Spanish Grand Prix,Barcelona
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,15.0,15,17.0,,,+1 Lap,0.0,2.0,2022,Spanish Grand Prix,Barcelona
+6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,16.0,16,19.0,,,+2 Laps,0.0,3.0,2022,Spanish Grand Prix,Barcelona
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,17.0,17,8.0,,,+2 Laps,0.0,-9.0,2022,Spanish Grand Prix,Barcelona
+23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,18.0,18,18.0,,,+2 Laps,0.0,0.0,2022,Spanish Grand Prix,Barcelona
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu,Zhou,Guanyu Zhou,19.0,R,15.0,,,Power loss,0.0,-4.0,2022,Spanish Grand Prix,Barcelona
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,20.0,R,1.0,,,Turbo,0.0,-19.0,2022,Spanish Grand Prix,Barcelona

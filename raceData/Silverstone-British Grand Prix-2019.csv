@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,,,,0 days 01:21:08.452000,Finished,26.0,1.0,2019,British Grand Prix,Silverstone
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,1.0,,,,0 days 00:00:24.928000,Finished,18.0,-1.0,2019,British Grand Prix,Silverstone
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,3.0,3,3.0,,,,0 days 00:00:30.117000,Finished,15.0,0.0,2019,British Grand Prix,Silverstone
-10,GAS,gasly,Red Bull Racing,red_bull,Pierre,Gasly,Pierre Gasly,4.0,4,5.0,,,,0 days 00:00:34.692000,Finished,12.0,1.0,2019,British Grand Prix,Silverstone
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,5.0,5,4.0,,,,0 days 00:00:39.458000,Finished,10.0,-1.0,2019,British Grand Prix,Silverstone
-55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,6.0,6,13.0,,,,0 days 00:00:53.639000,Finished,8.0,7.0,2019,British Grand Prix,Silverstone
-3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,7.0,7,7.0,,,,0 days 00:00:54.401000,Finished,6.0,0.0,2019,British Grand Prix,Silverstone
-7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,8.0,8,12.0,,,,0 days 00:01:05.540000,Finished,4.0,4.0,2019,British Grand Prix,Silverstone
-26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,9.0,9,17.0,,,,0 days 00:01:06.720000,Finished,2.0,8.0,2019,British Grand Prix,Silverstone
-27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,10.0,10,10.0,,,,0 days 00:01:12.733000,Finished,1.0,0.0,2019,British Grand Prix,Silverstone
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,11.0,11,8.0,,,,0 days 00:01:14.281000,Finished,0.0,-3.0,2019,British Grand Prix,Silverstone
-23,ALB,albon,Toro Rosso,toro_rosso,Alexander,Albon,Alexander Albon,12.0,12,9.0,,,,0 days 00:01:15.617000,Finished,0.0,-3.0,2019,British Grand Prix,Silverstone
-18,STR,stroll,Racing Point,racing_point,Lance,Stroll,Lance Stroll,13.0,13,18.0,,,,0 days 00:01:21.086000,Finished,0.0,5.0,2019,British Grand Prix,Silverstone
-63,RUS,russell,Williams,williams,George,Russell,George Russell,14.0,14,19.0,,,,,+1 Lap,0.0,5.0,2019,British Grand Prix,Silverstone
-88,KUB,kubica,Williams,williams,Robert,Kubica,Robert Kubica,15.0,15,20.0,,,,,+1 Lap,0.0,5.0,2019,British Grand Prix,Silverstone
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,16.0,16,6.0,,,,,+1 Lap,0.0,-10.0,2019,British Grand Prix,Silverstone
-11,PER,perez,Racing Point,racing_point,Sergio,Perez,Sergio Perez,17.0,17,15.0,,,,,+1 Lap,0.0,-2.0,2019,British Grand Prix,Silverstone
-99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,18.0,R,11.0,,,,,Spun off,0.0,-7.0,2019,British Grand Prix,Silverstone
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,19.0,R,14.0,,,,,Collision,0.0,-5.0,2019,British Grand Prix,Silverstone
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,20.0,R,16.0,,,,,Collision,0.0,-4.0,2019,British Grand Prix,Silverstone
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,,0 days 01:21:08.452000,Finished,26.0,1.0,2019,British Grand Prix,Silverstone
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,1.0,,0 days 00:00:24.928000,Finished,18.0,-1.0,2019,British Grand Prix,Silverstone
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,3.0,3,3.0,,0 days 00:00:30.117000,Finished,15.0,0.0,2019,British Grand Prix,Silverstone
+10,GAS,gasly,Red Bull Racing,red_bull,Pierre,Gasly,Pierre Gasly,4.0,4,5.0,,0 days 00:00:34.692000,Finished,12.0,1.0,2019,British Grand Prix,Silverstone
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,5.0,5,4.0,,0 days 00:00:39.458000,Finished,10.0,-1.0,2019,British Grand Prix,Silverstone
+55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,6.0,6,13.0,,0 days 00:00:53.639000,Finished,8.0,7.0,2019,British Grand Prix,Silverstone
+3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,7.0,7,7.0,,0 days 00:00:54.401000,Finished,6.0,0.0,2019,British Grand Prix,Silverstone
+7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,8.0,8,12.0,,0 days 00:01:05.540000,Finished,4.0,4.0,2019,British Grand Prix,Silverstone
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,9.0,9,17.0,,0 days 00:01:06.720000,Finished,2.0,8.0,2019,British Grand Prix,Silverstone
+27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,10.0,10,10.0,,0 days 00:01:12.733000,Finished,1.0,0.0,2019,British Grand Prix,Silverstone
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,11.0,11,8.0,,0 days 00:01:14.281000,Finished,0.0,-3.0,2019,British Grand Prix,Silverstone
+23,ALB,albon,Toro Rosso,toro_rosso,Alexander,Albon,Alexander Albon,12.0,12,9.0,,0 days 00:01:15.617000,Finished,0.0,-3.0,2019,British Grand Prix,Silverstone
+18,STR,stroll,Racing Point,racing_point,Lance,Stroll,Lance Stroll,13.0,13,18.0,,0 days 00:01:21.086000,Finished,0.0,5.0,2019,British Grand Prix,Silverstone
+63,RUS,russell,Williams,williams,George,Russell,George Russell,14.0,14,19.0,,,+1 Lap,0.0,5.0,2019,British Grand Prix,Silverstone
+88,KUB,kubica,Williams,williams,Robert,Kubica,Robert Kubica,15.0,15,20.0,,,+1 Lap,0.0,5.0,2019,British Grand Prix,Silverstone
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,16.0,16,6.0,,,+1 Lap,0.0,-10.0,2019,British Grand Prix,Silverstone
+11,PER,perez,Racing Point,racing_point,Sergio,Perez,Sergio Perez,17.0,17,15.0,,,+1 Lap,0.0,-2.0,2019,British Grand Prix,Silverstone
+99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,18.0,R,11.0,,,Spun off,0.0,-7.0,2019,British Grand Prix,Silverstone
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,19.0,R,14.0,,,Collision,0.0,-5.0,2019,British Grand Prix,Silverstone
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,20.0,R,16.0,,,Collision,0.0,-4.0,2019,British Grand Prix,Silverstone

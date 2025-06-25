@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,1.0,,,,0 days 01:39:46.713000,Finished,25.0,0.0,2017,Hungarian Grand Prix,Budapest
-7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,2.0,2,2.0,,,,0 days 00:00:00.908000,Finished,18.0,0.0,2017,Hungarian Grand Prix,Budapest
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,3.0,,,,0 days 00:00:12.462000,Finished,15.0,0.0,2017,Hungarian Grand Prix,Budapest
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,4.0,4,4.0,,,,0 days 00:00:12.885000,Finished,12.0,0.0,2017,Hungarian Grand Prix,Budapest
-33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,5.0,5,5.0,,,,0 days 00:00:13.276000,Finished,10.0,0.0,2017,Hungarian Grand Prix,Budapest
-14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,6.0,6,7.0,,,,0 days 00:01:11.223000,Finished,8.0,1.0,2017,Hungarian Grand Prix,Budapest
-55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,7.0,7,9.0,,,,,+1 Lap,6.0,2.0,2017,Hungarian Grand Prix,Budapest
-11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,8.0,8,13.0,,,,,+1 Lap,4.0,5.0,2017,Hungarian Grand Prix,Budapest
-31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,9.0,9,11.0,,,,,+1 Lap,2.0,2.0,2017,Hungarian Grand Prix,Budapest
-2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,10.0,10,8.0,,,,,+1 Lap,1.0,-2.0,2017,Hungarian Grand Prix,Budapest
-26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,11.0,11,16.0,,,,,+1 Lap,0.0,5.0,2017,Hungarian Grand Prix,Budapest
-30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,12.0,12,10.0,,,,,+1 Lap,0.0,-2.0,2017,Hungarian Grand Prix,Budapest
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,13,15.0,,,,,+1 Lap,0.0,2.0,2017,Hungarian Grand Prix,Budapest
-18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,14.0,14,17.0,,,,,+1 Lap,0.0,3.0,2017,Hungarian Grand Prix,Budapest
-94,WEH,wehrlein,Sauber,sauber,Pascal,Wehrlein,Pascal Wehrlein,15.0,15,18.0,,,,,+2 Laps,0.0,3.0,2017,Hungarian Grand Prix,Budapest
-9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,16.0,16,20.0,,,,,+2 Laps,0.0,4.0,2017,Hungarian Grand Prix,Budapest
-27,HUL,hulkenberg,Renault,renault,Nico,Hülkenberg,Nico Hülkenberg,17.0,17,12.0,,,,,Brakes,0.0,-5.0,2017,Hungarian Grand Prix,Budapest
-40,DIR,resta,Williams,williams,Paul,di Resta,Paul di Resta,18.0,R,19.0,,,,,Oil leak,0.0,1.0,2017,Hungarian Grand Prix,Budapest
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,19.0,R,14.0,,,,,Wheel nut,0.0,-5.0,2017,Hungarian Grand Prix,Budapest
-3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,20.0,R,6.0,,,,,Collision,0.0,-14.0,2017,Hungarian Grand Prix,Budapest
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,1.0,,0 days 01:39:46.713000,Finished,25.0,0.0,2017,Hungarian Grand Prix,Budapest
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,2.0,2,2.0,,0 days 00:00:00.908000,Finished,18.0,0.0,2017,Hungarian Grand Prix,Budapest
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,3.0,,0 days 00:00:12.462000,Finished,15.0,0.0,2017,Hungarian Grand Prix,Budapest
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,4.0,4,4.0,,0 days 00:00:12.885000,Finished,12.0,0.0,2017,Hungarian Grand Prix,Budapest
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,5.0,5,5.0,,0 days 00:00:13.276000,Finished,10.0,0.0,2017,Hungarian Grand Prix,Budapest
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,6.0,6,7.0,,0 days 00:01:11.223000,Finished,8.0,1.0,2017,Hungarian Grand Prix,Budapest
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,7.0,7,9.0,,,+1 Lap,6.0,2.0,2017,Hungarian Grand Prix,Budapest
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,8.0,8,13.0,,,+1 Lap,4.0,5.0,2017,Hungarian Grand Prix,Budapest
+31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,9.0,9,11.0,,,+1 Lap,2.0,2.0,2017,Hungarian Grand Prix,Budapest
+2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,10.0,10,8.0,,,+1 Lap,1.0,-2.0,2017,Hungarian Grand Prix,Budapest
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,11.0,11,16.0,,,+1 Lap,0.0,5.0,2017,Hungarian Grand Prix,Budapest
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,12.0,12,10.0,,,+1 Lap,0.0,-2.0,2017,Hungarian Grand Prix,Budapest
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,13,15.0,,,+1 Lap,0.0,2.0,2017,Hungarian Grand Prix,Budapest
+18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,14.0,14,17.0,,,+1 Lap,0.0,3.0,2017,Hungarian Grand Prix,Budapest
+94,WEH,wehrlein,Sauber,sauber,Pascal,Wehrlein,Pascal Wehrlein,15.0,15,18.0,,,+2 Laps,0.0,3.0,2017,Hungarian Grand Prix,Budapest
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,16.0,16,20.0,,,+2 Laps,0.0,4.0,2017,Hungarian Grand Prix,Budapest
+27,HUL,hulkenberg,Renault,renault,Nico,Hülkenberg,Nico Hülkenberg,17.0,17,12.0,,,Brakes,0.0,-5.0,2017,Hungarian Grand Prix,Budapest
+40,DIR,resta,Williams,williams,Paul,di Resta,Paul di Resta,18.0,R,19.0,,,Oil leak,0.0,1.0,2017,Hungarian Grand Prix,Budapest
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,19.0,R,14.0,,,Wheel nut,0.0,-5.0,2017,Hungarian Grand Prix,Budapest
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,20.0,R,6.0,,,Collision,0.0,-14.0,2017,Hungarian Grand Prix,Budapest

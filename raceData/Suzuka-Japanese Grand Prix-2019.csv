@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,1.0,1,3.0,,,,0 days 01:21:46.755000,Finished,25.0,2.0,2019,Japanese Grand Prix,Suzuka
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,1.0,,,,0 days 00:00:13.343000,Finished,18.0,-1.0,2019,Japanese Grand Prix,Suzuka
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,4.0,,,,0 days 00:00:13.858000,Finished,16.0,1.0,2019,Japanese Grand Prix,Suzuka
-23,ALB,albon,Red Bull Racing,red_bull,Alexander,Albon,Alexander Albon,4.0,4,6.0,,,,0 days 00:00:59.537000,Finished,12.0,2.0,2019,Japanese Grand Prix,Suzuka
-55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,5.0,5,7.0,,,,0 days 00:01:09.101000,Finished,10.0,2.0,2019,Japanese Grand Prix,Suzuka
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,6.0,6,2.0,,,,,+1 Lap,8.0,-4.0,2019,Japanese Grand Prix,Suzuka
-10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,7.0,7,9.0,,,,,+1 Lap,6.0,2.0,2019,Japanese Grand Prix,Suzuka
-11,PER,perez,Racing Point,racing_point,Sergio,Perez,Sergio Perez,8.0,8,17.0,,,,,+1 Lap,4.0,9.0,2019,Japanese Grand Prix,Suzuka
-18,STR,stroll,Racing Point,racing_point,Lance,Stroll,Lance Stroll,9.0,9,12.0,,,,,+1 Lap,2.0,3.0,2019,Japanese Grand Prix,Suzuka
-26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,10.0,10,14.0,,,,,+1 Lap,1.0,4.0,2019,Japanese Grand Prix,Suzuka
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,11.0,11,8.0,,,,,+1 Lap,0.0,-3.0,2019,Japanese Grand Prix,Suzuka
-7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,12.0,12,13.0,,,,,+1 Lap,0.0,1.0,2019,Japanese Grand Prix,Suzuka
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,13.0,13,10.0,,,,,+1 Lap,0.0,-3.0,2019,Japanese Grand Prix,Suzuka
-99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,14.0,14,11.0,,,,,+1 Lap,0.0,-3.0,2019,Japanese Grand Prix,Suzuka
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,15.0,15,19.0,,,,,+1 Lap,0.0,4.0,2019,Japanese Grand Prix,Suzuka
-63,RUS,russell,Williams,williams,George,Russell,George Russell,16.0,16,18.0,,,,,+2 Laps,0.0,2.0,2019,Japanese Grand Prix,Suzuka
-88,KUB,kubica,Williams,williams,Robert,Kubica,Robert Kubica,17.0,17,0.0,,,,,+2 Laps,0.0,-17.0,2019,Japanese Grand Prix,Suzuka
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,18.0,R,5.0,,,,,Brakes,0.0,-13.0,2019,Japanese Grand Prix,Suzuka
-3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,19.0,D,16.0,,,,,Disqualified,0.0,-3.0,2019,Japanese Grand Prix,Suzuka
-27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,20.0,D,15.0,,,,,Disqualified,0.0,-5.0,2019,Japanese Grand Prix,Suzuka
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,1.0,1,3.0,,0 days 01:21:46.755000,Finished,25.0,2.0,2019,Japanese Grand Prix,Suzuka
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,1.0,,0 days 00:00:13.343000,Finished,18.0,-1.0,2019,Japanese Grand Prix,Suzuka
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,4.0,,0 days 00:00:13.858000,Finished,16.0,1.0,2019,Japanese Grand Prix,Suzuka
+23,ALB,albon,Red Bull Racing,red_bull,Alexander,Albon,Alexander Albon,4.0,4,6.0,,0 days 00:00:59.537000,Finished,12.0,2.0,2019,Japanese Grand Prix,Suzuka
+55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,5.0,5,7.0,,0 days 00:01:09.101000,Finished,10.0,2.0,2019,Japanese Grand Prix,Suzuka
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,6.0,6,2.0,,,+1 Lap,8.0,-4.0,2019,Japanese Grand Prix,Suzuka
+10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,7.0,7,9.0,,,+1 Lap,6.0,2.0,2019,Japanese Grand Prix,Suzuka
+11,PER,perez,Racing Point,racing_point,Sergio,Perez,Sergio Perez,8.0,8,17.0,,,+1 Lap,4.0,9.0,2019,Japanese Grand Prix,Suzuka
+18,STR,stroll,Racing Point,racing_point,Lance,Stroll,Lance Stroll,9.0,9,12.0,,,+1 Lap,2.0,3.0,2019,Japanese Grand Prix,Suzuka
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,10.0,10,14.0,,,+1 Lap,1.0,4.0,2019,Japanese Grand Prix,Suzuka
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,11.0,11,8.0,,,+1 Lap,0.0,-3.0,2019,Japanese Grand Prix,Suzuka
+7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,12.0,12,13.0,,,+1 Lap,0.0,1.0,2019,Japanese Grand Prix,Suzuka
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,13.0,13,10.0,,,+1 Lap,0.0,-3.0,2019,Japanese Grand Prix,Suzuka
+99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,14.0,14,11.0,,,+1 Lap,0.0,-3.0,2019,Japanese Grand Prix,Suzuka
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,15.0,15,19.0,,,+1 Lap,0.0,4.0,2019,Japanese Grand Prix,Suzuka
+63,RUS,russell,Williams,williams,George,Russell,George Russell,16.0,16,18.0,,,+2 Laps,0.0,2.0,2019,Japanese Grand Prix,Suzuka
+88,KUB,kubica,Williams,williams,Robert,Kubica,Robert Kubica,17.0,17,0.0,,,+2 Laps,0.0,-17.0,2019,Japanese Grand Prix,Suzuka
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,18.0,R,5.0,,,Brakes,0.0,-13.0,2019,Japanese Grand Prix,Suzuka
+3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,19.0,D,16.0,,,Disqualified,0.0,-3.0,2019,Japanese Grand Prix,Suzuka
+27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,20.0,D,15.0,,,Disqualified,0.0,-5.0,2019,Japanese Grand Prix,Suzuka

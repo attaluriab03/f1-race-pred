@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,2.0,,,,0 days 01:27:29.784000,Finished,25.0,1.0,2018,British Grand Prix,Silverstone
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,1.0,,,,0 days 00:00:02.264000,Finished,18.0,-1.0,2018,British Grand Prix,Silverstone
-7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,3.0,,,,0 days 00:00:03.652000,Finished,15.0,0.0,2018,British Grand Prix,Silverstone
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,4.0,4,4.0,,,,0 days 00:00:08.883000,Finished,12.0,0.0,2018,British Grand Prix,Silverstone
-3,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,5.0,5,6.0,,,,0 days 00:00:09.500000,Finished,10.0,1.0,2018,British Grand Prix,Silverstone
-27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,6.0,6,11.0,,,,0 days 00:00:28.220000,Finished,8.0,5.0,2018,British Grand Prix,Silverstone
-31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,7.0,7,10.0,,,,0 days 00:00:29.930000,Finished,6.0,3.0,2018,British Grand Prix,Silverstone
-14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,8.0,8,13.0,,,,0 days 00:00:31.115000,Finished,4.0,5.0,2018,British Grand Prix,Silverstone
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,9.0,9,7.0,,,,0 days 00:00:33.188000,Finished,2.0,-2.0,2018,British Grand Prix,Silverstone
-11,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,10.0,10,12.0,,,,0 days 00:00:34.708000,Finished,1.0,2.0,2018,British Grand Prix,Silverstone
-2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,11.0,11,17.0,,,,0 days 00:00:35.774000,Finished,0.0,6.0,2018,British Grand Prix,Silverstone
-18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,12.0,12,19.0,,,,0 days 00:00:38.106000,Finished,0.0,7.0,2018,British Grand Prix,Silverstone
-10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,13.0,13,14.0,,,,0 days 00:00:39.129000,Finished,0.0,1.0,2018,British Grand Prix,Silverstone
-35,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,14.0,14,18.0,,,,0 days 00:00:48.113000,Finished,0.0,4.0,2018,British Grand Prix,Silverstone
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,15.0,R,5.0,,,,,Brakes,0.0,-10.0,2018,British Grand Prix,Silverstone
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,16.0,R,8.0,,,,,Collision,0.0,-8.0,2018,British Grand Prix,Silverstone
-55,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,17.0,R,16.0,,,,,Collision,0.0,-1.0,2018,British Grand Prix,Silverstone
-9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,18.0,R,15.0,,,,,Accident,0.0,-3.0,2018,British Grand Prix,Silverstone
-16,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,19.0,R,9.0,,,,,Tyre,0.0,-10.0,2018,British Grand Prix,Silverstone
-28,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,20.0,R,0.0,,,,,Power Unit,0.0,-20.0,2018,British Grand Prix,Silverstone
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,2.0,,0 days 01:27:29.784000,Finished,25.0,1.0,2018,British Grand Prix,Silverstone
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,1.0,,0 days 00:00:02.264000,Finished,18.0,-1.0,2018,British Grand Prix,Silverstone
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,3.0,,0 days 00:00:03.652000,Finished,15.0,0.0,2018,British Grand Prix,Silverstone
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,4.0,4,4.0,,0 days 00:00:08.883000,Finished,12.0,0.0,2018,British Grand Prix,Silverstone
+3,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,5.0,5,6.0,,0 days 00:00:09.500000,Finished,10.0,1.0,2018,British Grand Prix,Silverstone
+27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,6.0,6,11.0,,0 days 00:00:28.220000,Finished,8.0,5.0,2018,British Grand Prix,Silverstone
+31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,7.0,7,10.0,,0 days 00:00:29.930000,Finished,6.0,3.0,2018,British Grand Prix,Silverstone
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,8.0,8,13.0,,0 days 00:00:31.115000,Finished,4.0,5.0,2018,British Grand Prix,Silverstone
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,9.0,9,7.0,,0 days 00:00:33.188000,Finished,2.0,-2.0,2018,British Grand Prix,Silverstone
+11,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,10.0,10,12.0,,0 days 00:00:34.708000,Finished,1.0,2.0,2018,British Grand Prix,Silverstone
+2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,11.0,11,17.0,,0 days 00:00:35.774000,Finished,0.0,6.0,2018,British Grand Prix,Silverstone
+18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,12.0,12,19.0,,0 days 00:00:38.106000,Finished,0.0,7.0,2018,British Grand Prix,Silverstone
+10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,13.0,13,14.0,,0 days 00:00:39.129000,Finished,0.0,1.0,2018,British Grand Prix,Silverstone
+35,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,14.0,14,18.0,,0 days 00:00:48.113000,Finished,0.0,4.0,2018,British Grand Prix,Silverstone
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,15.0,R,5.0,,,Brakes,0.0,-10.0,2018,British Grand Prix,Silverstone
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,16.0,R,8.0,,,Collision,0.0,-8.0,2018,British Grand Prix,Silverstone
+55,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,17.0,R,16.0,,,Collision,0.0,-1.0,2018,British Grand Prix,Silverstone
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,18.0,R,15.0,,,Accident,0.0,-3.0,2018,British Grand Prix,Silverstone
+16,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,19.0,R,9.0,,,Tyre,0.0,-10.0,2018,British Grand Prix,Silverstone
+28,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,20.0,R,0.0,,,Power Unit,0.0,-20.0,2018,British Grand Prix,Silverstone

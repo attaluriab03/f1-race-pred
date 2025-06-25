@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,3.0,,,,0 days 01:34:21.295000,Finished,25.0,2.0,2019,Bahrain Grand Prix,Sakhir
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,4.0,,,,0 days 00:00:02.980000,Finished,18.0,2.0,2019,Bahrain Grand Prix,Sakhir
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,3.0,3,1.0,,,,0 days 00:00:06.131000,Finished,16.0,-2.0,2019,Bahrain Grand Prix,Sakhir
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,4.0,4,5.0,,,,0 days 00:00:06.408000,Finished,12.0,1.0,2019,Bahrain Grand Prix,Sakhir
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,5.0,5,2.0,,,,0 days 00:00:36.068000,Finished,10.0,-3.0,2019,Bahrain Grand Prix,Sakhir
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,6.0,6,9.0,,,,0 days 00:00:45.754000,Finished,8.0,3.0,2019,Bahrain Grand Prix,Sakhir
-7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,7.0,7,8.0,,,,0 days 00:00:47.470000,Finished,6.0,1.0,2019,Bahrain Grand Prix,Sakhir
-10,GAS,gasly,Red Bull Racing,red_bull,Pierre,Gasly,Pierre Gasly,8.0,8,13.0,,,,0 days 00:00:58.094000,Finished,4.0,5.0,2019,Bahrain Grand Prix,Sakhir
-23,ALB,albon,Toro Rosso,toro_rosso,Alexander,Albon,Alexander Albon,9.0,9,12.0,,,,0 days 00:01:02.697000,Finished,2.0,3.0,2019,Bahrain Grand Prix,Sakhir
-11,PER,perez,Racing Point,racing_point,Sergio,Perez,Sergio Perez,10.0,10,14.0,,,,0 days 00:01:03.696000,Finished,1.0,4.0,2019,Bahrain Grand Prix,Sakhir
-99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,11.0,11,16.0,,,,0 days 00:01:04.599000,Finished,0.0,5.0,2019,Bahrain Grand Prix,Sakhir
-26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,12.0,12,15.0,,,,,+1 Lap,0.0,3.0,2019,Bahrain Grand Prix,Sakhir
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,13,6.0,,,,,+1 Lap,0.0,-7.0,2019,Bahrain Grand Prix,Sakhir
-18,STR,stroll,Racing Point,racing_point,Lance,Stroll,Lance Stroll,14.0,14,18.0,,,,,+1 Lap,0.0,4.0,2019,Bahrain Grand Prix,Sakhir
-63,RUS,russell,Williams,williams,George,Russell,George Russell,15.0,15,19.0,,,,,+1 Lap,0.0,4.0,2019,Bahrain Grand Prix,Sakhir
-88,KUB,kubica,Williams,williams,Robert,Kubica,Robert Kubica,16.0,16,20.0,,,,,+2 Laps,0.0,4.0,2019,Bahrain Grand Prix,Sakhir
-27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,17.0,R,17.0,,,,,Engine,0.0,0.0,2019,Bahrain Grand Prix,Sakhir
-3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,18.0,R,10.0,,,,,Out of fuel,0.0,-8.0,2019,Bahrain Grand Prix,Sakhir
-55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,19.0,R,7.0,,,,,Collision damage,0.0,-12.0,2019,Bahrain Grand Prix,Sakhir
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,20.0,R,11.0,,,,,Retired,0.0,-9.0,2019,Bahrain Grand Prix,Sakhir
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,3.0,,0 days 01:34:21.295000,Finished,25.0,2.0,2019,Bahrain Grand Prix,Sakhir
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,4.0,,0 days 00:00:02.980000,Finished,18.0,2.0,2019,Bahrain Grand Prix,Sakhir
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,3.0,3,1.0,,0 days 00:00:06.131000,Finished,16.0,-2.0,2019,Bahrain Grand Prix,Sakhir
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,4.0,4,5.0,,0 days 00:00:06.408000,Finished,12.0,1.0,2019,Bahrain Grand Prix,Sakhir
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,5.0,5,2.0,,0 days 00:00:36.068000,Finished,10.0,-3.0,2019,Bahrain Grand Prix,Sakhir
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,6.0,6,9.0,,0 days 00:00:45.754000,Finished,8.0,3.0,2019,Bahrain Grand Prix,Sakhir
+7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,7.0,7,8.0,,0 days 00:00:47.470000,Finished,6.0,1.0,2019,Bahrain Grand Prix,Sakhir
+10,GAS,gasly,Red Bull Racing,red_bull,Pierre,Gasly,Pierre Gasly,8.0,8,13.0,,0 days 00:00:58.094000,Finished,4.0,5.0,2019,Bahrain Grand Prix,Sakhir
+23,ALB,albon,Toro Rosso,toro_rosso,Alexander,Albon,Alexander Albon,9.0,9,12.0,,0 days 00:01:02.697000,Finished,2.0,3.0,2019,Bahrain Grand Prix,Sakhir
+11,PER,perez,Racing Point,racing_point,Sergio,Perez,Sergio Perez,10.0,10,14.0,,0 days 00:01:03.696000,Finished,1.0,4.0,2019,Bahrain Grand Prix,Sakhir
+99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,11.0,11,16.0,,0 days 00:01:04.599000,Finished,0.0,5.0,2019,Bahrain Grand Prix,Sakhir
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,12.0,12,15.0,,,+1 Lap,0.0,3.0,2019,Bahrain Grand Prix,Sakhir
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,13,6.0,,,+1 Lap,0.0,-7.0,2019,Bahrain Grand Prix,Sakhir
+18,STR,stroll,Racing Point,racing_point,Lance,Stroll,Lance Stroll,14.0,14,18.0,,,+1 Lap,0.0,4.0,2019,Bahrain Grand Prix,Sakhir
+63,RUS,russell,Williams,williams,George,Russell,George Russell,15.0,15,19.0,,,+1 Lap,0.0,4.0,2019,Bahrain Grand Prix,Sakhir
+88,KUB,kubica,Williams,williams,Robert,Kubica,Robert Kubica,16.0,16,20.0,,,+2 Laps,0.0,4.0,2019,Bahrain Grand Prix,Sakhir
+27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,17.0,R,17.0,,,Engine,0.0,0.0,2019,Bahrain Grand Prix,Sakhir
+3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,18.0,R,10.0,,,Out of fuel,0.0,-8.0,2019,Bahrain Grand Prix,Sakhir
+55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,19.0,R,7.0,,,Collision damage,0.0,-12.0,2019,Bahrain Grand Prix,Sakhir
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,20.0,R,11.0,,,Retired,0.0,-9.0,2019,Bahrain Grand Prix,Sakhir

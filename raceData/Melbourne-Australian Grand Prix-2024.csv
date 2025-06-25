@@ -1,20 +1,20 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,1.0,1,2.0,,,,0 days 01:20:26.843000,Finished,25.0,1.0,2024,Australian Grand Prix,Melbourne
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,2.0,2,4.0,,,,0 days 00:00:02.366000,Finished,19.0,2.0,2024,Australian Grand Prix,Melbourne
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,3.0,3,3.0,,,,0 days 00:00:05.904000,Finished,15.0,0.0,2024,Australian Grand Prix,Melbourne
-81,PIA,piastri,McLaren,mclaren,Oscar,Piastri,Oscar Piastri,4.0,4,5.0,,,,0 days 00:00:35.770000,Finished,12.0,1.0,2024,Australian Grand Prix,Melbourne
-11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,5.0,5,6.0,,,,0 days 00:00:56.309000,Finished,10.0,1.0,2024,Australian Grand Prix,Melbourne
-18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,6.0,6,9.0,,,,0 days 00:01:33.222000,Finished,8.0,3.0,2024,Australian Grand Prix,Melbourne
-22,TSU,tsunoda,RB,rb,Yuki,Tsunoda,Yuki Tsunoda,7.0,7,8.0,,,,0 days 00:01:35.601000,Finished,6.0,1.0,2024,Australian Grand Prix,Melbourne
-14,ALO,alonso,Aston Martin,aston_martin,Fernando,Alonso,Fernando Alonso,8.0,8,10.0,,,,0 days 00:01:40.992000,Finished,4.0,2.0,2024,Australian Grand Prix,Melbourne
-27,HUL,hulkenberg,Haas F1 Team,haas,Nico,Hulkenberg,Nico Hulkenberg,9.0,9,16.0,,,,0 days 00:01:44.553000,Finished,2.0,7.0,2024,Australian Grand Prix,Melbourne
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,10.0,10,14.0,,,,0 days 00:00:04.081000,Lapped,1.0,4.0,2024,Australian Grand Prix,Melbourne
-23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,11.0,11,12.0,,,,0 days 00:00:05.009000,Lapped,0.0,1.0,2024,Australian Grand Prix,Melbourne
-3,RIC,ricciardo,RB,rb,Daniel,Ricciardo,Daniel Ricciardo,12.0,12,18.0,,,,0 days 00:00:11.508000,Lapped,0.0,6.0,2024,Australian Grand Prix,Melbourne
-10,GAS,gasly,Alpine,alpine,Pierre,Gasly,Pierre Gasly,13.0,13,17.0,,,,0 days 00:00:40.953000,Lapped,0.0,4.0,2024,Australian Grand Prix,Melbourne
-77,BOT,bottas,Kick Sauber,sauber,Valtteri,Bottas,Valtteri Bottas,14.0,14,13.0,,,,0 days 00:00:42.326000,Lapped,0.0,-1.0,2024,Australian Grand Prix,Melbourne
-24,ZHO,zhou,Kick Sauber,sauber,Guanyu,Zhou,Guanyu Zhou,15.0,15,19.0,,,,0 days 00:00:44.293000,Lapped,0.0,4.0,2024,Australian Grand Prix,Melbourne
-31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,16.0,16,15.0,,,,0 days 00:00:53.979000,Lapped,0.0,-1.0,2024,Australian Grand Prix,Melbourne
-63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,17.0,17,7.0,,,,,Retired,0.0,-10.0,2024,Australian Grand Prix,Melbourne
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,18.0,R,11.0,,,,,Retired,0.0,-7.0,2024,Australian Grand Prix,Melbourne
-1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,19.0,R,1.0,,,,,Retired,0.0,-18.0,2024,Australian Grand Prix,Melbourne
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,1.0,1,2.0,,0 days 01:20:26.843000,Finished,25.0,1.0,2024,Australian Grand Prix,Melbourne
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,2.0,2,4.0,,0 days 00:00:02.366000,Finished,19.0,2.0,2024,Australian Grand Prix,Melbourne
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,3.0,3,3.0,,0 days 00:00:05.904000,Finished,15.0,0.0,2024,Australian Grand Prix,Melbourne
+81,PIA,piastri,McLaren,mclaren,Oscar,Piastri,Oscar Piastri,4.0,4,5.0,,0 days 00:00:35.770000,Finished,12.0,1.0,2024,Australian Grand Prix,Melbourne
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,5.0,5,6.0,,0 days 00:00:56.309000,Finished,10.0,1.0,2024,Australian Grand Prix,Melbourne
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,6.0,6,9.0,,0 days 00:01:33.222000,Finished,8.0,3.0,2024,Australian Grand Prix,Melbourne
+22,TSU,tsunoda,RB,rb,Yuki,Tsunoda,Yuki Tsunoda,7.0,7,8.0,,0 days 00:01:35.601000,Finished,6.0,1.0,2024,Australian Grand Prix,Melbourne
+14,ALO,alonso,Aston Martin,aston_martin,Fernando,Alonso,Fernando Alonso,8.0,8,10.0,,0 days 00:01:40.992000,Finished,4.0,2.0,2024,Australian Grand Prix,Melbourne
+27,HUL,hulkenberg,Haas F1 Team,haas,Nico,Hulkenberg,Nico Hulkenberg,9.0,9,16.0,,0 days 00:01:44.553000,Finished,2.0,7.0,2024,Australian Grand Prix,Melbourne
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,10.0,10,14.0,,0 days 00:00:04.081000,Lapped,1.0,4.0,2024,Australian Grand Prix,Melbourne
+23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,11.0,11,12.0,,0 days 00:00:05.009000,Lapped,0.0,1.0,2024,Australian Grand Prix,Melbourne
+3,RIC,ricciardo,RB,rb,Daniel,Ricciardo,Daniel Ricciardo,12.0,12,18.0,,0 days 00:00:11.508000,Lapped,0.0,6.0,2024,Australian Grand Prix,Melbourne
+10,GAS,gasly,Alpine,alpine,Pierre,Gasly,Pierre Gasly,13.0,13,17.0,,0 days 00:00:40.953000,Lapped,0.0,4.0,2024,Australian Grand Prix,Melbourne
+77,BOT,bottas,Kick Sauber,sauber,Valtteri,Bottas,Valtteri Bottas,14.0,14,13.0,,0 days 00:00:42.326000,Lapped,0.0,-1.0,2024,Australian Grand Prix,Melbourne
+24,ZHO,zhou,Kick Sauber,sauber,Guanyu,Zhou,Guanyu Zhou,15.0,15,19.0,,0 days 00:00:44.293000,Lapped,0.0,4.0,2024,Australian Grand Prix,Melbourne
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,16.0,16,15.0,,0 days 00:00:53.979000,Lapped,0.0,-1.0,2024,Australian Grand Prix,Melbourne
+63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,17.0,17,7.0,,,Retired,0.0,-10.0,2024,Australian Grand Prix,Melbourne
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,18.0,R,11.0,,,Retired,0.0,-7.0,2024,Australian Grand Prix,Melbourne
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,19.0,R,1.0,,,Retired,0.0,-18.0,2024,Australian Grand Prix,Melbourne

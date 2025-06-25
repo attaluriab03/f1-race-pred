@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,1.0,1,2.0,,,,0 days 01:21:54.365000,Finished,26.0,1.0,2021,Italian Grand Prix,Monza
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,2.0,2,3.0,,,,0 days 00:00:01.747000,Finished,18.0,1.0,2021,Italian Grand Prix,Monza
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,19.0,,,,0 days 00:00:04.921000,Finished,15.0,16.0,2021,Italian Grand Prix,Monza
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,4.0,4,5.0,,,,0 days 00:00:07.309000,Finished,12.0,1.0,2021,Italian Grand Prix,Monza
-11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,5.0,5,8.0,,,,0 days 00:00:08.723000,Finished,10.0,3.0,2021,Italian Grand Prix,Monza
-55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,6.0,6,6.0,,,,0 days 00:00:10.535000,Finished,8.0,0.0,2021,Italian Grand Prix,Monza
-18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,7.0,7,9.0,,,,0 days 00:00:15.804000,Finished,6.0,2.0,2021,Italian Grand Prix,Monza
-14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,8.0,8,10.0,,,,0 days 00:00:17.201000,Finished,4.0,2.0,2021,Italian Grand Prix,Monza
-63,RUS,russell,Williams,williams,George,Russell,George Russell,9.0,9,14.0,,,,0 days 00:00:19.742000,Finished,2.0,5.0,2021,Italian Grand Prix,Monza
-31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,10.0,10,12.0,,,,0 days 00:00:20.868000,Finished,1.0,2.0,2021,Italian Grand Prix,Monza
-6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,11.0,11,13.0,,,,0 days 00:00:23.743000,Finished,0.0,2.0,2021,Italian Grand Prix,Monza
-5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,12.0,12,11.0,,,,0 days 00:00:24.621000,Finished,0.0,-1.0,2021,Italian Grand Prix,Monza
-99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,13.0,13,7.0,,,,0 days 00:00:27.216000,Finished,0.0,-6.0,2021,Italian Grand Prix,Monza
-88,KUB,kubica,Alfa Romeo Racing,alfa,Robert,Kubica,Robert Kubica,14.0,14,17.0,,,,0 days 00:00:29.769000,Finished,0.0,3.0,2021,Italian Grand Prix,Monza
-47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,15.0,15,18.0,,,,0 days 00:00:51.088000,Finished,0.0,3.0,2021,Italian Grand Prix,Monza
-9,MAZ,mazepin,Haas F1 Team,haas,Nikita,Mazepin,Nikita Mazepin,16.0,R,16.0,,,,,Power Unit,0.0,0.0,2021,Italian Grand Prix,Monza
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,17.0,R,4.0,,,,,Collision,0.0,-13.0,2021,Italian Grand Prix,Monza
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,18.0,R,1.0,,,,,Collision,0.0,-17.0,2021,Italian Grand Prix,Monza
-10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,19.0,R,0.0,,,,,Suspension,0.0,-19.0,2021,Italian Grand Prix,Monza
-22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,20.0,W,0.0,,,,,Brakes,0.0,-20.0,2021,Italian Grand Prix,Monza
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,1.0,1,2.0,,0 days 01:21:54.365000,Finished,26.0,1.0,2021,Italian Grand Prix,Monza
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,2.0,2,3.0,,0 days 00:00:01.747000,Finished,18.0,1.0,2021,Italian Grand Prix,Monza
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,19.0,,0 days 00:00:04.921000,Finished,15.0,16.0,2021,Italian Grand Prix,Monza
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,4.0,4,5.0,,0 days 00:00:07.309000,Finished,12.0,1.0,2021,Italian Grand Prix,Monza
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,5.0,5,8.0,,0 days 00:00:08.723000,Finished,10.0,3.0,2021,Italian Grand Prix,Monza
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,6.0,6,6.0,,0 days 00:00:10.535000,Finished,8.0,0.0,2021,Italian Grand Prix,Monza
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,7.0,7,9.0,,0 days 00:00:15.804000,Finished,6.0,2.0,2021,Italian Grand Prix,Monza
+14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,8.0,8,10.0,,0 days 00:00:17.201000,Finished,4.0,2.0,2021,Italian Grand Prix,Monza
+63,RUS,russell,Williams,williams,George,Russell,George Russell,9.0,9,14.0,,0 days 00:00:19.742000,Finished,2.0,5.0,2021,Italian Grand Prix,Monza
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,10.0,10,12.0,,0 days 00:00:20.868000,Finished,1.0,2.0,2021,Italian Grand Prix,Monza
+6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,11.0,11,13.0,,0 days 00:00:23.743000,Finished,0.0,2.0,2021,Italian Grand Prix,Monza
+5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,12.0,12,11.0,,0 days 00:00:24.621000,Finished,0.0,-1.0,2021,Italian Grand Prix,Monza
+99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,13.0,13,7.0,,0 days 00:00:27.216000,Finished,0.0,-6.0,2021,Italian Grand Prix,Monza
+88,KUB,kubica,Alfa Romeo Racing,alfa,Robert,Kubica,Robert Kubica,14.0,14,17.0,,0 days 00:00:29.769000,Finished,0.0,3.0,2021,Italian Grand Prix,Monza
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,15.0,15,18.0,,0 days 00:00:51.088000,Finished,0.0,3.0,2021,Italian Grand Prix,Monza
+9,MAZ,mazepin,Haas F1 Team,haas,Nikita,Mazepin,Nikita Mazepin,16.0,R,16.0,,,Power Unit,0.0,0.0,2021,Italian Grand Prix,Monza
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,17.0,R,4.0,,,Collision,0.0,-13.0,2021,Italian Grand Prix,Monza
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,18.0,R,1.0,,,Collision,0.0,-17.0,2021,Italian Grand Prix,Monza
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,19.0,R,0.0,,,Suspension,0.0,-19.0,2021,Italian Grand Prix,Monza
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,20.0,W,0.0,,,Brakes,0.0,-20.0,2021,Italian Grand Prix,Monza

@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,,,,0 days 01:32:03.897000,Finished,25.0,1.0,2021,Bahrain Grand Prix,Sakhir
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,2.0,2,1.0,,,,0 days 00:00:00.745000,Finished,18.0,-1.0,2021,Bahrain Grand Prix,Sakhir
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,3.0,,,,0 days 00:00:37.383000,Finished,16.0,0.0,2021,Bahrain Grand Prix,Sakhir
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,4.0,4,7.0,,,,0 days 00:00:46.466000,Finished,12.0,3.0,2021,Bahrain Grand Prix,Sakhir
-11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,5.0,5,0.0,,,,0 days 00:00:52.047000,Finished,10.0,-5.0,2021,Bahrain Grand Prix,Sakhir
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,6.0,6,4.0,,,,0 days 00:00:59.090000,Finished,8.0,-2.0,2021,Bahrain Grand Prix,Sakhir
-3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,7.0,7,6.0,,,,0 days 00:01:06.004000,Finished,6.0,-1.0,2021,Bahrain Grand Prix,Sakhir
-55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,8.0,8,8.0,,,,0 days 00:01:07.100000,Finished,4.0,0.0,2021,Bahrain Grand Prix,Sakhir
-22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,9.0,9,13.0,,,,0 days 00:01:25.692000,Finished,2.0,4.0,2021,Bahrain Grand Prix,Sakhir
-18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,10.0,10,10.0,,,,0 days 00:01:26.713000,Finished,1.0,0.0,2021,Bahrain Grand Prix,Sakhir
-7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,11.0,11,14.0,,,,0 days 00:01:28.864000,Finished,0.0,3.0,2021,Bahrain Grand Prix,Sakhir
-99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,12.0,12,12.0,,,,,+1 Lap,0.0,0.0,2021,Bahrain Grand Prix,Sakhir
-31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,13.0,13,16.0,,,,,+1 Lap,0.0,3.0,2021,Bahrain Grand Prix,Sakhir
-63,RUS,russell,Williams,williams,George,Russell,George Russell,14.0,14,15.0,,,,,+1 Lap,0.0,1.0,2021,Bahrain Grand Prix,Sakhir
-5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,15.0,15,20.0,,,,,+1 Lap,0.0,5.0,2021,Bahrain Grand Prix,Sakhir
-47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,16.0,16,18.0,,,,,+1 Lap,0.0,2.0,2021,Bahrain Grand Prix,Sakhir
-10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,17.0,17,5.0,,,,,Retired,0.0,-12.0,2021,Bahrain Grand Prix,Sakhir
-6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,18.0,18,17.0,,,,,Retired,0.0,-1.0,2021,Bahrain Grand Prix,Sakhir
-14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,19.0,R,9.0,,,,,Brakes,0.0,-10.0,2021,Bahrain Grand Prix,Sakhir
-9,MAZ,mazepin,Haas F1 Team,haas,Nikita,Mazepin,Nikita Mazepin,20.0,R,19.0,,,,,Accident,0.0,-1.0,2021,Bahrain Grand Prix,Sakhir
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,,0 days 01:32:03.897000,Finished,25.0,1.0,2021,Bahrain Grand Prix,Sakhir
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,2.0,2,1.0,,0 days 00:00:00.745000,Finished,18.0,-1.0,2021,Bahrain Grand Prix,Sakhir
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,3.0,,0 days 00:00:37.383000,Finished,16.0,0.0,2021,Bahrain Grand Prix,Sakhir
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,4.0,4,7.0,,0 days 00:00:46.466000,Finished,12.0,3.0,2021,Bahrain Grand Prix,Sakhir
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,5.0,5,0.0,,0 days 00:00:52.047000,Finished,10.0,-5.0,2021,Bahrain Grand Prix,Sakhir
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,6.0,6,4.0,,0 days 00:00:59.090000,Finished,8.0,-2.0,2021,Bahrain Grand Prix,Sakhir
+3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,7.0,7,6.0,,0 days 00:01:06.004000,Finished,6.0,-1.0,2021,Bahrain Grand Prix,Sakhir
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,8.0,8,8.0,,0 days 00:01:07.100000,Finished,4.0,0.0,2021,Bahrain Grand Prix,Sakhir
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,9.0,9,13.0,,0 days 00:01:25.692000,Finished,2.0,4.0,2021,Bahrain Grand Prix,Sakhir
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,10.0,10,10.0,,0 days 00:01:26.713000,Finished,1.0,0.0,2021,Bahrain Grand Prix,Sakhir
+7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,11.0,11,14.0,,0 days 00:01:28.864000,Finished,0.0,3.0,2021,Bahrain Grand Prix,Sakhir
+99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,12.0,12,12.0,,,+1 Lap,0.0,0.0,2021,Bahrain Grand Prix,Sakhir
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,13.0,13,16.0,,,+1 Lap,0.0,3.0,2021,Bahrain Grand Prix,Sakhir
+63,RUS,russell,Williams,williams,George,Russell,George Russell,14.0,14,15.0,,,+1 Lap,0.0,1.0,2021,Bahrain Grand Prix,Sakhir
+5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,15.0,15,20.0,,,+1 Lap,0.0,5.0,2021,Bahrain Grand Prix,Sakhir
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,16.0,16,18.0,,,+1 Lap,0.0,2.0,2021,Bahrain Grand Prix,Sakhir
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,17.0,17,5.0,,,Retired,0.0,-12.0,2021,Bahrain Grand Prix,Sakhir
+6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,18.0,18,17.0,,,Retired,0.0,-1.0,2021,Bahrain Grand Prix,Sakhir
+14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,19.0,R,9.0,,,Brakes,0.0,-10.0,2021,Bahrain Grand Prix,Sakhir
+9,MAZ,mazepin,Haas F1 Team,haas,Nikita,Mazepin,Nikita Mazepin,20.0,R,19.0,,,Accident,0.0,-1.0,2021,Bahrain Grand Prix,Sakhir

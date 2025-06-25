@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,2.0,,,,0 days 01:49:18.420000,Finished,25.0,1.0,2015,Monaco Grand Prix,Monte-Carlo
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,3.0,,,,0 days 00:00:04.486000,Finished,18.0,1.0,2015,Monaco Grand Prix,Monte-Carlo
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,1.0,,,,0 days 00:00:06.053000,Finished,15.0,-2.0,2015,Monaco Grand Prix,Monte-Carlo
-26,KVY,kvyat,Red Bull,red_bull,Daniil,Kvyat,Daniil Kvyat,4.0,4,5.0,,,,0 days 00:00:11.965000,Finished,12.0,1.0,2015,Monaco Grand Prix,Monte-Carlo
-3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,5.0,5,4.0,,,,0 days 00:00:13.608000,Finished,10.0,-1.0,2015,Monaco Grand Prix,Monte-Carlo
-7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,6.0,6,6.0,,,,0 days 00:00:14.345000,Finished,8.0,0.0,2015,Monaco Grand Prix,Monte-Carlo
-11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,7.0,7,7.0,,,,0 days 00:00:15.013000,Finished,6.0,0.0,2015,Monaco Grand Prix,Monte-Carlo
-22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,8.0,8,10.0,,,,0 days 00:00:16.063000,Finished,4.0,2.0,2015,Monaco Grand Prix,Monte-Carlo
-12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,9.0,9,14.0,,,,0 days 00:00:23.626000,Finished,2.0,5.0,2015,Monaco Grand Prix,Monte-Carlo
-55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,10.0,10,0.0,,,,0 days 00:00:25.056000,Finished,1.0,-10.0,2015,Monaco Grand Prix,Monte-Carlo
-27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,11.0,11,11.0,,,,0 days 00:00:26.232000,Finished,0.0,0.0,2015,Monaco Grand Prix,Monte-Carlo
-8,GRO,grosjean,Lotus F1,lotus_f1,Romain,Grosjean,Romain Grosjean,12.0,12,15.0,,,,0 days 00:00:28.415000,Finished,0.0,3.0,2015,Monaco Grand Prix,Monte-Carlo
-9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,13.0,13,17.0,,,,0 days 00:00:31.159000,Finished,0.0,4.0,2015,Monaco Grand Prix,Monte-Carlo
-77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,14.0,14,16.0,,,,0 days 00:00:45.789000,Finished,0.0,2.0,2015,Monaco Grand Prix,Monte-Carlo
-19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,15.0,15,12.0,,,,,+1 Lap,0.0,-3.0,2015,Monaco Grand Prix,Monte-Carlo
-98,MER,merhi,Manor Marussia,manor,Roberto,Merhi,Roberto Merhi,16.0,16,19.0,,,,,+2 Laps,0.0,3.0,2015,Monaco Grand Prix,Monte-Carlo
-28,STE,stevens,Manor Marussia,manor,Will,Stevens,Will Stevens,17.0,17,18.0,,,,,+2 Laps,0.0,1.0,2015,Monaco Grand Prix,Monte-Carlo
-33,VER,max_verstappen,Toro Rosso,toro_rosso,Max,Verstappen,Max Verstappen,18.0,R,9.0,,,,,Accident,0.0,-9.0,2015,Monaco Grand Prix,Monte-Carlo
-14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,19.0,R,13.0,,,,,Gearbox,0.0,-6.0,2015,Monaco Grand Prix,Monte-Carlo
-13,MAL,maldonado,Lotus F1,lotus_f1,Pastor,Maldonado,Pastor Maldonado,20.0,R,8.0,,,,,Brakes,0.0,-12.0,2015,Monaco Grand Prix,Monte-Carlo
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,2.0,,0 days 01:49:18.420000,Finished,25.0,1.0,2015,Monaco Grand Prix,Monte-Carlo
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,3.0,,0 days 00:00:04.486000,Finished,18.0,1.0,2015,Monaco Grand Prix,Monte-Carlo
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,1.0,,0 days 00:00:06.053000,Finished,15.0,-2.0,2015,Monaco Grand Prix,Monte-Carlo
+26,KVY,kvyat,Red Bull,red_bull,Daniil,Kvyat,Daniil Kvyat,4.0,4,5.0,,0 days 00:00:11.965000,Finished,12.0,1.0,2015,Monaco Grand Prix,Monte-Carlo
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,5.0,5,4.0,,0 days 00:00:13.608000,Finished,10.0,-1.0,2015,Monaco Grand Prix,Monte-Carlo
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,6.0,6,6.0,,0 days 00:00:14.345000,Finished,8.0,0.0,2015,Monaco Grand Prix,Monte-Carlo
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,7.0,7,7.0,,0 days 00:00:15.013000,Finished,6.0,0.0,2015,Monaco Grand Prix,Monte-Carlo
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,8.0,8,10.0,,0 days 00:00:16.063000,Finished,4.0,2.0,2015,Monaco Grand Prix,Monte-Carlo
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,9.0,9,14.0,,0 days 00:00:23.626000,Finished,2.0,5.0,2015,Monaco Grand Prix,Monte-Carlo
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,10.0,10,0.0,,0 days 00:00:25.056000,Finished,1.0,-10.0,2015,Monaco Grand Prix,Monte-Carlo
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,11.0,11,11.0,,0 days 00:00:26.232000,Finished,0.0,0.0,2015,Monaco Grand Prix,Monte-Carlo
+8,GRO,grosjean,Lotus F1,lotus_f1,Romain,Grosjean,Romain Grosjean,12.0,12,15.0,,0 days 00:00:28.415000,Finished,0.0,3.0,2015,Monaco Grand Prix,Monte-Carlo
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,13.0,13,17.0,,0 days 00:00:31.159000,Finished,0.0,4.0,2015,Monaco Grand Prix,Monte-Carlo
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,14.0,14,16.0,,0 days 00:00:45.789000,Finished,0.0,2.0,2015,Monaco Grand Prix,Monte-Carlo
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,15.0,15,12.0,,,+1 Lap,0.0,-3.0,2015,Monaco Grand Prix,Monte-Carlo
+98,MER,merhi,Manor Marussia,manor,Roberto,Merhi,Roberto Merhi,16.0,16,19.0,,,+2 Laps,0.0,3.0,2015,Monaco Grand Prix,Monte-Carlo
+28,STE,stevens,Manor Marussia,manor,Will,Stevens,Will Stevens,17.0,17,18.0,,,+2 Laps,0.0,1.0,2015,Monaco Grand Prix,Monte-Carlo
+33,VER,max_verstappen,Toro Rosso,toro_rosso,Max,Verstappen,Max Verstappen,18.0,R,9.0,,,Accident,0.0,-9.0,2015,Monaco Grand Prix,Monte-Carlo
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,19.0,R,13.0,,,Gearbox,0.0,-6.0,2015,Monaco Grand Prix,Monte-Carlo
+13,MAL,maldonado,Lotus F1,lotus_f1,Pastor,Maldonado,Pastor Maldonado,20.0,R,8.0,,,Brakes,0.0,-12.0,2015,Monaco Grand Prix,Monte-Carlo

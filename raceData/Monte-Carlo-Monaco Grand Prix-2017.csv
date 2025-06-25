@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,2.0,,,,0 days 01:44:44.340000,Finished,25.0,1.0,2017,Monaco Grand Prix,Monte-Carlo
-7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,2.0,2,1.0,,,,0 days 00:00:03.145000,Finished,18.0,-1.0,2017,Monaco Grand Prix,Monte-Carlo
-3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,3.0,3,5.0,,,,0 days 00:00:03.745000,Finished,15.0,2.0,2017,Monaco Grand Prix,Monte-Carlo
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,4.0,4,3.0,,,,0 days 00:00:05.517000,Finished,12.0,-1.0,2017,Monaco Grand Prix,Monte-Carlo
-33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,5.0,5,4.0,,,,0 days 00:00:06.199000,Finished,10.0,-1.0,2017,Monaco Grand Prix,Monte-Carlo
-55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,6.0,6,6.0,,,,0 days 00:00:12.038000,Finished,8.0,0.0,2017,Monaco Grand Prix,Monte-Carlo
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,7.0,7,13.0,,,,0 days 00:00:15.801000,Finished,6.0,6.0,2017,Monaco Grand Prix,Monte-Carlo
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,8.0,8,8.0,,,,0 days 00:00:18.150000,Finished,4.0,0.0,2017,Monaco Grand Prix,Monte-Carlo
-19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,9.0,9,14.0,,,,0 days 00:00:19.445000,Finished,2.0,5.0,2017,Monaco Grand Prix,Monte-Carlo
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,10.0,10,11.0,,,,0 days 00:00:21.443000,Finished,1.0,1.0,2017,Monaco Grand Prix,Monte-Carlo
-30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,11.0,11,16.0,,,,0 days 00:00:22.737000,Finished,0.0,5.0,2017,Monaco Grand Prix,Monte-Carlo
-31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,12.0,12,15.0,,,,0 days 00:00:23.725000,Finished,0.0,3.0,2017,Monaco Grand Prix,Monte-Carlo
-11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,13.0,13,7.0,,,,0 days 00:00:39.089000,Finished,0.0,-6.0,2017,Monaco Grand Prix,Monte-Carlo
-26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,14.0,14,9.0,,,,,Collision damage,0.0,-5.0,2017,Monaco Grand Prix,Monte-Carlo
-18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,15.0,15,17.0,,,,,Brakes,0.0,2.0,2017,Monaco Grand Prix,Monte-Carlo
-2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,16.0,R,12.0,,,,,Accident,0.0,-4.0,2017,Monaco Grand Prix,Monte-Carlo
-9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,17.0,R,19.0,,,,,Accident,0.0,2.0,2017,Monaco Grand Prix,Monte-Carlo
-22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,18.0,R,20.0,,,,,Collision damage,0.0,2.0,2017,Monaco Grand Prix,Monte-Carlo
-94,WEH,wehrlein,Sauber,sauber,Pascal,Wehrlein,Pascal Wehrlein,19.0,R,18.0,,,,,Collision,0.0,-1.0,2017,Monaco Grand Prix,Monte-Carlo
-27,HUL,hulkenberg,Renault,renault,Nico,Hülkenberg,Nico Hülkenberg,20.0,R,10.0,,,,,Gearbox,0.0,-10.0,2017,Monaco Grand Prix,Monte-Carlo
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,2.0,,0 days 01:44:44.340000,Finished,25.0,1.0,2017,Monaco Grand Prix,Monte-Carlo
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,2.0,2,1.0,,0 days 00:00:03.145000,Finished,18.0,-1.0,2017,Monaco Grand Prix,Monte-Carlo
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,3.0,3,5.0,,0 days 00:00:03.745000,Finished,15.0,2.0,2017,Monaco Grand Prix,Monte-Carlo
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,4.0,4,3.0,,0 days 00:00:05.517000,Finished,12.0,-1.0,2017,Monaco Grand Prix,Monte-Carlo
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,5.0,5,4.0,,0 days 00:00:06.199000,Finished,10.0,-1.0,2017,Monaco Grand Prix,Monte-Carlo
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,6.0,6,6.0,,0 days 00:00:12.038000,Finished,8.0,0.0,2017,Monaco Grand Prix,Monte-Carlo
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,7.0,7,13.0,,0 days 00:00:15.801000,Finished,6.0,6.0,2017,Monaco Grand Prix,Monte-Carlo
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,8.0,8,8.0,,0 days 00:00:18.150000,Finished,4.0,0.0,2017,Monaco Grand Prix,Monte-Carlo
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,9.0,9,14.0,,0 days 00:00:19.445000,Finished,2.0,5.0,2017,Monaco Grand Prix,Monte-Carlo
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,10.0,10,11.0,,0 days 00:00:21.443000,Finished,1.0,1.0,2017,Monaco Grand Prix,Monte-Carlo
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,11.0,11,16.0,,0 days 00:00:22.737000,Finished,0.0,5.0,2017,Monaco Grand Prix,Monte-Carlo
+31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,12.0,12,15.0,,0 days 00:00:23.725000,Finished,0.0,3.0,2017,Monaco Grand Prix,Monte-Carlo
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,13.0,13,7.0,,0 days 00:00:39.089000,Finished,0.0,-6.0,2017,Monaco Grand Prix,Monte-Carlo
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,14.0,14,9.0,,,Collision damage,0.0,-5.0,2017,Monaco Grand Prix,Monte-Carlo
+18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,15.0,15,17.0,,,Brakes,0.0,2.0,2017,Monaco Grand Prix,Monte-Carlo
+2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,16.0,R,12.0,,,Accident,0.0,-4.0,2017,Monaco Grand Prix,Monte-Carlo
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,17.0,R,19.0,,,Accident,0.0,2.0,2017,Monaco Grand Prix,Monte-Carlo
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,18.0,R,20.0,,,Collision damage,0.0,2.0,2017,Monaco Grand Prix,Monte-Carlo
+94,WEH,wehrlein,Sauber,sauber,Pascal,Wehrlein,Pascal Wehrlein,19.0,R,18.0,,,Collision,0.0,-1.0,2017,Monaco Grand Prix,Monte-Carlo
+27,HUL,hulkenberg,Renault,renault,Nico,Hülkenberg,Nico Hülkenberg,20.0,R,10.0,,,Gearbox,0.0,-10.0,2017,Monaco Grand Prix,Monte-Carlo

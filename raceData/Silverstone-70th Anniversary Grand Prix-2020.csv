@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,4.0,,,,0 days 01:19:41.993000,Finished,25.0,3.0,2020,70th Anniversary Grand Prix,Silverstone
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,2.0,,,,0 days 00:00:11.326000,Finished,19.0,0.0,2020,70th Anniversary Grand Prix,Silverstone
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,1.0,,,,0 days 00:00:19.231000,Finished,15.0,-2.0,2020,70th Anniversary Grand Prix,Silverstone
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,4.0,4,8.0,,,,0 days 00:00:29.289000,Finished,12.0,4.0,2020,70th Anniversary Grand Prix,Silverstone
-23,ALB,albon,Red Bull Racing,red_bull,Alexander,Albon,Alexander Albon,5.0,5,9.0,,,,0 days 00:00:39.146000,Finished,10.0,4.0,2020,70th Anniversary Grand Prix,Silverstone
-18,STR,stroll,Racing Point,racing_point,Lance,Stroll,Lance Stroll,6.0,6,6.0,,,,0 days 00:00:42.538000,Finished,8.0,0.0,2020,70th Anniversary Grand Prix,Silverstone
-27,HUL,hulkenberg,Racing Point,racing_point,Nico,Hulkenberg,Nico Hulkenberg,7.0,7,3.0,,,,0 days 00:00:55.951000,Finished,6.0,-4.0,2020,70th Anniversary Grand Prix,Silverstone
-31,OCO,ocon,Renault,renault,Esteban,Ocon,Esteban Ocon,8.0,8,14.0,,,,0 days 00:01:04.773000,Finished,4.0,6.0,2020,70th Anniversary Grand Prix,Silverstone
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,9.0,9,10.0,,,,0 days 00:01:05.544000,Finished,2.0,1.0,2020,70th Anniversary Grand Prix,Silverstone
-26,KVY,kvyat,AlphaTauri,alphatauri,Daniil,Kvyat,Daniil Kvyat,10.0,10,16.0,,,,0 days 00:01:09.669000,Finished,1.0,6.0,2020,70th Anniversary Grand Prix,Silverstone
-10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,11.0,11,7.0,,,,0 days 00:01:10.642000,Finished,0.0,-4.0,2020,70th Anniversary Grand Prix,Silverstone
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,12.0,12,11.0,,,,0 days 00:01:13.370000,Finished,0.0,-1.0,2020,70th Anniversary Grand Prix,Silverstone
-55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,13.0,13,12.0,,,,0 days 00:01:14.070000,Finished,0.0,-1.0,2020,70th Anniversary Grand Prix,Silverstone
-3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,14.0,14,5.0,,,,,+1 Lap,0.0,-9.0,2020,70th Anniversary Grand Prix,Silverstone
-7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,15.0,15,20.0,,,,,+1 Lap,0.0,5.0,2020,70th Anniversary Grand Prix,Silverstone
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,16.0,16,13.0,,,,,+1 Lap,0.0,-3.0,2020,70th Anniversary Grand Prix,Silverstone
-99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,17.0,17,19.0,,,,,+1 Lap,0.0,2.0,2020,70th Anniversary Grand Prix,Silverstone
-63,RUS,russell,Williams,williams,George,Russell,George Russell,18.0,18,15.0,,,,,+1 Lap,0.0,-3.0,2020,70th Anniversary Grand Prix,Silverstone
-6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,19.0,19,18.0,,,,,+1 Lap,0.0,-1.0,2020,70th Anniversary Grand Prix,Silverstone
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,20.0,R,17.0,,,,,Retired,0.0,-3.0,2020,70th Anniversary Grand Prix,Silverstone
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,4.0,,0 days 01:19:41.993000,Finished,25.0,3.0,2020,70th Anniversary Grand Prix,Silverstone
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,2.0,,0 days 00:00:11.326000,Finished,19.0,0.0,2020,70th Anniversary Grand Prix,Silverstone
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,1.0,,0 days 00:00:19.231000,Finished,15.0,-2.0,2020,70th Anniversary Grand Prix,Silverstone
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,4.0,4,8.0,,0 days 00:00:29.289000,Finished,12.0,4.0,2020,70th Anniversary Grand Prix,Silverstone
+23,ALB,albon,Red Bull Racing,red_bull,Alexander,Albon,Alexander Albon,5.0,5,9.0,,0 days 00:00:39.146000,Finished,10.0,4.0,2020,70th Anniversary Grand Prix,Silverstone
+18,STR,stroll,Racing Point,racing_point,Lance,Stroll,Lance Stroll,6.0,6,6.0,,0 days 00:00:42.538000,Finished,8.0,0.0,2020,70th Anniversary Grand Prix,Silverstone
+27,HUL,hulkenberg,Racing Point,racing_point,Nico,Hulkenberg,Nico Hulkenberg,7.0,7,3.0,,0 days 00:00:55.951000,Finished,6.0,-4.0,2020,70th Anniversary Grand Prix,Silverstone
+31,OCO,ocon,Renault,renault,Esteban,Ocon,Esteban Ocon,8.0,8,14.0,,0 days 00:01:04.773000,Finished,4.0,6.0,2020,70th Anniversary Grand Prix,Silverstone
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,9.0,9,10.0,,0 days 00:01:05.544000,Finished,2.0,1.0,2020,70th Anniversary Grand Prix,Silverstone
+26,KVY,kvyat,AlphaTauri,alphatauri,Daniil,Kvyat,Daniil Kvyat,10.0,10,16.0,,0 days 00:01:09.669000,Finished,1.0,6.0,2020,70th Anniversary Grand Prix,Silverstone
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,11.0,11,7.0,,0 days 00:01:10.642000,Finished,0.0,-4.0,2020,70th Anniversary Grand Prix,Silverstone
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,12.0,12,11.0,,0 days 00:01:13.370000,Finished,0.0,-1.0,2020,70th Anniversary Grand Prix,Silverstone
+55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,13.0,13,12.0,,0 days 00:01:14.070000,Finished,0.0,-1.0,2020,70th Anniversary Grand Prix,Silverstone
+3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,14.0,14,5.0,,,+1 Lap,0.0,-9.0,2020,70th Anniversary Grand Prix,Silverstone
+7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,15.0,15,20.0,,,+1 Lap,0.0,5.0,2020,70th Anniversary Grand Prix,Silverstone
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,16.0,16,13.0,,,+1 Lap,0.0,-3.0,2020,70th Anniversary Grand Prix,Silverstone
+99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,17.0,17,19.0,,,+1 Lap,0.0,2.0,2020,70th Anniversary Grand Prix,Silverstone
+63,RUS,russell,Williams,williams,George,Russell,George Russell,18.0,18,15.0,,,+1 Lap,0.0,-3.0,2020,70th Anniversary Grand Prix,Silverstone
+6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,19.0,19,18.0,,,+1 Lap,0.0,-1.0,2020,70th Anniversary Grand Prix,Silverstone
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,20.0,R,17.0,,,Retired,0.0,-3.0,2020,70th Anniversary Grand Prix,Silverstone

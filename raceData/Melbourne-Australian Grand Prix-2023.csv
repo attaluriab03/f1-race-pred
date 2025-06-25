@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,1.0,,,,0 days 02:32:38.371000,Finished,25.0,0.0,2023,Australian Grand Prix,Melbourne
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,3.0,,,,0 days 00:00:00.179000,Finished,18.0,1.0,2023,Australian Grand Prix,Melbourne
-14,ALO,alonso,Aston Martin,aston_martin,Fernando,Alonso,Fernando Alonso,3.0,3,4.0,,,,0 days 00:00:00.769000,Finished,15.0,1.0,2023,Australian Grand Prix,Melbourne
-18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,4.0,4,6.0,,,,0 days 00:00:03.082000,Finished,12.0,2.0,2023,Australian Grand Prix,Melbourne
-11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,5.0,5,20.0,,,,0 days 00:00:03.320000,Finished,11.0,15.0,2023,Australian Grand Prix,Melbourne
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,6.0,6,13.0,,,,0 days 00:00:03.701000,Finished,8.0,7.0,2023,Australian Grand Prix,Melbourne
-27,HUL,hulkenberg,Haas F1 Team,haas,Nico,Hulkenberg,Nico Hulkenberg,7.0,7,10.0,,,,0 days 00:00:04.939000,Finished,6.0,3.0,2023,Australian Grand Prix,Melbourne
-81,PIA,piastri,McLaren,mclaren,Oscar,Piastri,Oscar Piastri,8.0,8,16.0,,,,0 days 00:00:05.382000,Finished,4.0,8.0,2023,Australian Grand Prix,Melbourne
-24,ZHO,zhou,Alfa Romeo,alfa,Guanyu,Zhou,Guanyu Zhou,9.0,9,17.0,,,,0 days 00:00:05.713000,Finished,2.0,8.0,2023,Australian Grand Prix,Melbourne
-22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,10.0,10,12.0,,,,0 days 00:00:06.052000,Finished,1.0,2.0,2023,Australian Grand Prix,Melbourne
-77,BOT,bottas,Alfa Romeo,alfa,Valtteri,Bottas,Valtteri Bottas,11.0,11,19.0,,,,0 days 00:00:06.513000,Finished,0.0,8.0,2023,Australian Grand Prix,Melbourne
-55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,12.0,12,5.0,,,,0 days 00:00:06.594000,Finished,0.0,-7.0,2023,Australian Grand Prix,Melbourne
-10,GAS,gasly,Alpine,alpine,Pierre,Gasly,Pierre Gasly,13.0,13,9.0,,,,,Finished,0.0,-4.0,2023,Australian Grand Prix,Melbourne
-31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,14.0,14,11.0,,,,,Finished,0.0,-3.0,2023,Australian Grand Prix,Melbourne
-21,DEV,de_vries,AlphaTauri,alphatauri,Nyck,De Vries,Nyck De Vries,15.0,15,15.0,,,,,Finished,0.0,0.0,2023,Australian Grand Prix,Melbourne
-2,SAR,sargeant,Williams,williams,Logan,Sargeant,Logan Sargeant,16.0,16,18.0,,,,,Finished,0.0,2.0,2023,Australian Grand Prix,Melbourne
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,17.0,17,14.0,,,,,Finished,0.0,-3.0,2023,Australian Grand Prix,Melbourne
-63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,18.0,R,2.0,,,,,Retired,0.0,-16.0,2023,Australian Grand Prix,Melbourne
-23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,19.0,R,8.0,,,,,Retired,0.0,-11.0,2023,Australian Grand Prix,Melbourne
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,20.0,R,7.0,,,,,Retired,0.0,-13.0,2023,Australian Grand Prix,Melbourne
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,1.0,,0 days 02:32:38.371000,Finished,25.0,0.0,2023,Australian Grand Prix,Melbourne
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,3.0,,0 days 00:00:00.179000,Finished,18.0,1.0,2023,Australian Grand Prix,Melbourne
+14,ALO,alonso,Aston Martin,aston_martin,Fernando,Alonso,Fernando Alonso,3.0,3,4.0,,0 days 00:00:00.769000,Finished,15.0,1.0,2023,Australian Grand Prix,Melbourne
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,4.0,4,6.0,,0 days 00:00:03.082000,Finished,12.0,2.0,2023,Australian Grand Prix,Melbourne
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,5.0,5,20.0,,0 days 00:00:03.320000,Finished,11.0,15.0,2023,Australian Grand Prix,Melbourne
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,6.0,6,13.0,,0 days 00:00:03.701000,Finished,8.0,7.0,2023,Australian Grand Prix,Melbourne
+27,HUL,hulkenberg,Haas F1 Team,haas,Nico,Hulkenberg,Nico Hulkenberg,7.0,7,10.0,,0 days 00:00:04.939000,Finished,6.0,3.0,2023,Australian Grand Prix,Melbourne
+81,PIA,piastri,McLaren,mclaren,Oscar,Piastri,Oscar Piastri,8.0,8,16.0,,0 days 00:00:05.382000,Finished,4.0,8.0,2023,Australian Grand Prix,Melbourne
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu,Zhou,Guanyu Zhou,9.0,9,17.0,,0 days 00:00:05.713000,Finished,2.0,8.0,2023,Australian Grand Prix,Melbourne
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,10.0,10,12.0,,0 days 00:00:06.052000,Finished,1.0,2.0,2023,Australian Grand Prix,Melbourne
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri,Bottas,Valtteri Bottas,11.0,11,19.0,,0 days 00:00:06.513000,Finished,0.0,8.0,2023,Australian Grand Prix,Melbourne
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,12.0,12,5.0,,0 days 00:00:06.594000,Finished,0.0,-7.0,2023,Australian Grand Prix,Melbourne
+10,GAS,gasly,Alpine,alpine,Pierre,Gasly,Pierre Gasly,13.0,13,9.0,,,Finished,0.0,-4.0,2023,Australian Grand Prix,Melbourne
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,14.0,14,11.0,,,Finished,0.0,-3.0,2023,Australian Grand Prix,Melbourne
+21,DEV,de_vries,AlphaTauri,alphatauri,Nyck,De Vries,Nyck De Vries,15.0,15,15.0,,,Finished,0.0,0.0,2023,Australian Grand Prix,Melbourne
+2,SAR,sargeant,Williams,williams,Logan,Sargeant,Logan Sargeant,16.0,16,18.0,,,Finished,0.0,2.0,2023,Australian Grand Prix,Melbourne
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,17.0,17,14.0,,,Finished,0.0,-3.0,2023,Australian Grand Prix,Melbourne
+63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,18.0,R,2.0,,,Retired,0.0,-16.0,2023,Australian Grand Prix,Melbourne
+23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,19.0,R,8.0,,,Retired,0.0,-11.0,2023,Australian Grand Prix,Melbourne
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,20.0,R,7.0,,,Retired,0.0,-13.0,2023,Australian Grand Prix,Melbourne

@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,2.0,,,,0 days 01:41:05.793000,Finished,25.0,1.0,2015,Malaysian Grand Prix,Kuala Lumpur
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,1.0,,,,0 days 00:00:08.569000,Finished,18.0,-1.0,2015,Malaysian Grand Prix,Kuala Lumpur
-6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,3.0,3,3.0,,,,0 days 00:00:12.310000,Finished,15.0,0.0,2015,Malaysian Grand Prix,Kuala Lumpur
-7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,4.0,4,11.0,,,,0 days 00:00:53.822000,Finished,12.0,7.0,2015,Malaysian Grand Prix,Kuala Lumpur
-77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,5.0,5,8.0,,,,0 days 00:01:10.409000,Finished,10.0,3.0,2015,Malaysian Grand Prix,Kuala Lumpur
-19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,6.0,6,7.0,,,,0 days 00:01:13.586000,Finished,8.0,1.0,2015,Malaysian Grand Prix,Kuala Lumpur
-33,VER,max_verstappen,Toro Rosso,toro_rosso,Max,Verstappen,Max Verstappen,7.0,7,6.0,,,,0 days 00:01:37.762000,Finished,6.0,-1.0,2015,Malaysian Grand Prix,Kuala Lumpur
-55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,8.0,8,15.0,,,,,+1 Lap,4.0,7.0,2015,Malaysian Grand Prix,Kuala Lumpur
-26,KVY,kvyat,Red Bull,red_bull,Daniil,Kvyat,Daniil Kvyat,9.0,9,5.0,,,,,+1 Lap,2.0,-4.0,2015,Malaysian Grand Prix,Kuala Lumpur
-3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,10.0,10,4.0,,,,,+1 Lap,1.0,-6.0,2015,Malaysian Grand Prix,Kuala Lumpur
-8,GRO,grosjean,Lotus F1,lotus_f1,Romain,Grosjean,Romain Grosjean,11.0,11,10.0,,,,,+1 Lap,0.0,-1.0,2015,Malaysian Grand Prix,Kuala Lumpur
-12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,12.0,12,16.0,,,,,+1 Lap,0.0,4.0,2015,Malaysian Grand Prix,Kuala Lumpur
-11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,13.0,13,14.0,,,,,+1 Lap,0.0,1.0,2015,Malaysian Grand Prix,Kuala Lumpur
-27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,14.0,14,13.0,,,,,+1 Lap,0.0,-1.0,2015,Malaysian Grand Prix,Kuala Lumpur
-98,MER,merhi,Manor Marussia,manor,Roberto,Merhi,Roberto Merhi,15.0,15,19.0,,,,,+3 Laps,0.0,4.0,2015,Malaysian Grand Prix,Kuala Lumpur
-13,MAL,maldonado,Lotus F1,lotus_f1,Pastor,Maldonado,Pastor Maldonado,16.0,R,12.0,,,,,Retired,0.0,-4.0,2015,Malaysian Grand Prix,Kuala Lumpur
-22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,17.0,R,17.0,,,,,Turbo,0.0,0.0,2015,Malaysian Grand Prix,Kuala Lumpur
-14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,18.0,R,18.0,,,,,ERS,0.0,0.0,2015,Malaysian Grand Prix,Kuala Lumpur
-9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,19.0,R,9.0,,,,,Spun off,0.0,-10.0,2015,Malaysian Grand Prix,Kuala Lumpur
-28,STE,stevens,Manor Marussia,manor,Will,Stevens,Will Stevens,20.0,W,0.0,,,,,Fuel system,0.0,-20.0,2015,Malaysian Grand Prix,Kuala Lumpur
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,2.0,,0 days 01:41:05.793000,Finished,25.0,1.0,2015,Malaysian Grand Prix,Kuala Lumpur
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,1.0,,0 days 00:00:08.569000,Finished,18.0,-1.0,2015,Malaysian Grand Prix,Kuala Lumpur
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,3.0,3,3.0,,0 days 00:00:12.310000,Finished,15.0,0.0,2015,Malaysian Grand Prix,Kuala Lumpur
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,4.0,4,11.0,,0 days 00:00:53.822000,Finished,12.0,7.0,2015,Malaysian Grand Prix,Kuala Lumpur
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,5.0,5,8.0,,0 days 00:01:10.409000,Finished,10.0,3.0,2015,Malaysian Grand Prix,Kuala Lumpur
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,6.0,6,7.0,,0 days 00:01:13.586000,Finished,8.0,1.0,2015,Malaysian Grand Prix,Kuala Lumpur
+33,VER,max_verstappen,Toro Rosso,toro_rosso,Max,Verstappen,Max Verstappen,7.0,7,6.0,,0 days 00:01:37.762000,Finished,6.0,-1.0,2015,Malaysian Grand Prix,Kuala Lumpur
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,8.0,8,15.0,,,+1 Lap,4.0,7.0,2015,Malaysian Grand Prix,Kuala Lumpur
+26,KVY,kvyat,Red Bull,red_bull,Daniil,Kvyat,Daniil Kvyat,9.0,9,5.0,,,+1 Lap,2.0,-4.0,2015,Malaysian Grand Prix,Kuala Lumpur
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,10.0,10,4.0,,,+1 Lap,1.0,-6.0,2015,Malaysian Grand Prix,Kuala Lumpur
+8,GRO,grosjean,Lotus F1,lotus_f1,Romain,Grosjean,Romain Grosjean,11.0,11,10.0,,,+1 Lap,0.0,-1.0,2015,Malaysian Grand Prix,Kuala Lumpur
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,12.0,12,16.0,,,+1 Lap,0.0,4.0,2015,Malaysian Grand Prix,Kuala Lumpur
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,13.0,13,14.0,,,+1 Lap,0.0,1.0,2015,Malaysian Grand Prix,Kuala Lumpur
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,14.0,14,13.0,,,+1 Lap,0.0,-1.0,2015,Malaysian Grand Prix,Kuala Lumpur
+98,MER,merhi,Manor Marussia,manor,Roberto,Merhi,Roberto Merhi,15.0,15,19.0,,,+3 Laps,0.0,4.0,2015,Malaysian Grand Prix,Kuala Lumpur
+13,MAL,maldonado,Lotus F1,lotus_f1,Pastor,Maldonado,Pastor Maldonado,16.0,R,12.0,,,Retired,0.0,-4.0,2015,Malaysian Grand Prix,Kuala Lumpur
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,17.0,R,17.0,,,Turbo,0.0,0.0,2015,Malaysian Grand Prix,Kuala Lumpur
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,18.0,R,18.0,,,ERS,0.0,0.0,2015,Malaysian Grand Prix,Kuala Lumpur
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,19.0,R,9.0,,,Spun off,0.0,-10.0,2015,Malaysian Grand Prix,Kuala Lumpur
+28,STE,stevens,Manor Marussia,manor,Will,Stevens,Will Stevens,20.0,W,0.0,,,Fuel system,0.0,-20.0,2015,Malaysian Grand Prix,Kuala Lumpur

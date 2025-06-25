@@ -1,23 +1,23 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,,,,0 days 03:01:01.335000,Finished,25.0,0.0,2016,Brazilian Grand Prix,São Paulo
-6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,2.0,2,2.0,,,,0 days 00:00:11.455000,Finished,18.0,0.0,2016,Brazilian Grand Prix,São Paulo
-33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,3.0,3,4.0,,,,0 days 00:00:21.481000,Finished,15.0,1.0,2016,Brazilian Grand Prix,São Paulo
-11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,4.0,4,9.0,,,,0 days 00:00:25.346000,Finished,12.0,5.0,2016,Brazilian Grand Prix,São Paulo
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,5.0,5,5.0,,,,0 days 00:00:26.334000,Finished,10.0,0.0,2016,Brazilian Grand Prix,São Paulo
-55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,6.0,6,15.0,,,,0 days 00:00:29.160000,Finished,8.0,9.0,2016,Brazilian Grand Prix,São Paulo
-27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,7.0,7,8.0,,,,0 days 00:00:29.827000,Finished,6.0,1.0,2016,Brazilian Grand Prix,São Paulo
-3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,8.0,8,6.0,,,,0 days 00:00:30.486000,Finished,4.0,-2.0,2016,Brazilian Grand Prix,São Paulo
-12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,9.0,9,21.0,,,,0 days 00:00:42.620000,Finished,2.0,12.0,2016,Brazilian Grand Prix,São Paulo
-14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,10.0,10,10.0,,,,0 days 00:00:44.432000,Finished,1.0,0.0,2016,Brazilian Grand Prix,São Paulo
-77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,11.0,11,11.0,,,,0 days 00:00:45.292000,Finished,0.0,0.0,2016,Brazilian Grand Prix,São Paulo
-31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,12.0,12,22.0,,,,0 days 00:00:45.809000,Finished,0.0,10.0,2016,Brazilian Grand Prix,São Paulo
-26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,13.0,13,14.0,,,,0 days 00:00:51.192000,Finished,0.0,1.0,2016,Brazilian Grand Prix,São Paulo
-20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,14.0,14,18.0,,,,0 days 00:00:51.555000,Finished,0.0,4.0,2016,Brazilian Grand Prix,São Paulo
-94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,15.0,15,19.0,,,,0 days 00:01:00.498000,Finished,0.0,4.0,2016,Brazilian Grand Prix,São Paulo
-22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,16.0,16,17.0,,,,0 days 00:01:21.994000,Finished,0.0,1.0,2016,Brazilian Grand Prix,São Paulo
-21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,17.0,R,12.0,,,,,Retired,0.0,-5.0,2016,Brazilian Grand Prix,São Paulo
-19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,18.0,R,13.0,,,,,Collision,0.0,-5.0,2016,Brazilian Grand Prix,São Paulo
-30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,19.0,R,16.0,,,,,Collision damage,0.0,-3.0,2016,Brazilian Grand Prix,São Paulo
-7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,20.0,R,3.0,,,,,Collision,0.0,-17.0,2016,Brazilian Grand Prix,São Paulo
-9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,21.0,R,20.0,,,,,Collision,0.0,-1.0,2016,Brazilian Grand Prix,São Paulo
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,22.0,W,7.0,,,,,Withdrew,0.0,-15.0,2016,Brazilian Grand Prix,São Paulo
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,,0 days 03:01:01.335000,Finished,25.0,0.0,2016,Brazilian Grand Prix,São Paulo
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,2.0,2,2.0,,0 days 00:00:11.455000,Finished,18.0,0.0,2016,Brazilian Grand Prix,São Paulo
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,3.0,3,4.0,,0 days 00:00:21.481000,Finished,15.0,1.0,2016,Brazilian Grand Prix,São Paulo
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,4.0,4,9.0,,0 days 00:00:25.346000,Finished,12.0,5.0,2016,Brazilian Grand Prix,São Paulo
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,5.0,5,5.0,,0 days 00:00:26.334000,Finished,10.0,0.0,2016,Brazilian Grand Prix,São Paulo
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,6.0,6,15.0,,0 days 00:00:29.160000,Finished,8.0,9.0,2016,Brazilian Grand Prix,São Paulo
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,7.0,7,8.0,,0 days 00:00:29.827000,Finished,6.0,1.0,2016,Brazilian Grand Prix,São Paulo
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,8.0,8,6.0,,0 days 00:00:30.486000,Finished,4.0,-2.0,2016,Brazilian Grand Prix,São Paulo
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,9.0,9,21.0,,0 days 00:00:42.620000,Finished,2.0,12.0,2016,Brazilian Grand Prix,São Paulo
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,10.0,10,10.0,,0 days 00:00:44.432000,Finished,1.0,0.0,2016,Brazilian Grand Prix,São Paulo
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,11.0,11,11.0,,0 days 00:00:45.292000,Finished,0.0,0.0,2016,Brazilian Grand Prix,São Paulo
+31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,12.0,12,22.0,,0 days 00:00:45.809000,Finished,0.0,10.0,2016,Brazilian Grand Prix,São Paulo
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,13.0,13,14.0,,0 days 00:00:51.192000,Finished,0.0,1.0,2016,Brazilian Grand Prix,São Paulo
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,14.0,14,18.0,,0 days 00:00:51.555000,Finished,0.0,4.0,2016,Brazilian Grand Prix,São Paulo
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,15.0,15,19.0,,0 days 00:01:00.498000,Finished,0.0,4.0,2016,Brazilian Grand Prix,São Paulo
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,16.0,16,17.0,,0 days 00:01:21.994000,Finished,0.0,1.0,2016,Brazilian Grand Prix,São Paulo
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,17.0,R,12.0,,,Retired,0.0,-5.0,2016,Brazilian Grand Prix,São Paulo
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,18.0,R,13.0,,,Collision,0.0,-5.0,2016,Brazilian Grand Prix,São Paulo
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,19.0,R,16.0,,,Collision damage,0.0,-3.0,2016,Brazilian Grand Prix,São Paulo
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,20.0,R,3.0,,,Collision,0.0,-17.0,2016,Brazilian Grand Prix,São Paulo
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,21.0,R,20.0,,,Collision,0.0,-1.0,2016,Brazilian Grand Prix,São Paulo
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,22.0,W,7.0,,,Withdrew,0.0,-15.0,2016,Brazilian Grand Prix,São Paulo

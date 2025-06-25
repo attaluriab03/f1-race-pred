@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,2.0,,,,0 days 01:38:28.851000,Finished,25.0,1.0,2018,Mexican Grand Prix,Mexico City
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,4.0,,,,0 days 00:00:17.316000,Finished,18.0,2.0,2018,Mexican Grand Prix,Mexico City
-7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,6.0,,,,0 days 00:00:49.914000,Finished,15.0,3.0,2018,Mexican Grand Prix,Mexico City
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,4.0,4,3.0,,,,0 days 00:01:18.738000,Finished,12.0,-1.0,2018,Mexican Grand Prix,Mexico City
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,5.0,5,5.0,,,,,+1 Lap,10.0,0.0,2018,Mexican Grand Prix,Mexico City
-27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,6.0,6,7.0,,,,,+2 Laps,8.0,1.0,2018,Mexican Grand Prix,Mexico City
-16,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,7.0,7,9.0,,,,,+2 Laps,6.0,2.0,2018,Mexican Grand Prix,Mexico City
-2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,8.0,8,15.0,,,,,+2 Laps,4.0,7.0,2018,Mexican Grand Prix,Mexico City
-9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,9.0,9,10.0,,,,,+2 Laps,2.0,1.0,2018,Mexican Grand Prix,Mexico City
-10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,10.0,10,20.0,,,,,+2 Laps,1.0,10.0,2018,Mexican Grand Prix,Mexico City
-31,OCO,ocon,Racing Point,force_india,Esteban,Ocon,Esteban Ocon,11.0,11,11.0,,,,,+2 Laps,0.0,0.0,2018,Mexican Grand Prix,Mexico City
-18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,12.0,12,17.0,,,,,+2 Laps,0.0,5.0,2018,Mexican Grand Prix,Mexico City
-35,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,13.0,13,19.0,,,,,+2 Laps,0.0,6.0,2018,Mexican Grand Prix,Mexico City
-28,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,14.0,14,14.0,,,,,+2 Laps,0.0,0.0,2018,Mexican Grand Prix,Mexico City
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,15.0,15,16.0,,,,,+2 Laps,0.0,1.0,2018,Mexican Grand Prix,Mexico City
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,16.0,16,18.0,,,,,+3 Laps,0.0,2.0,2018,Mexican Grand Prix,Mexico City
-3,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,17.0,R,1.0,,,,,Engine,0.0,-16.0,2018,Mexican Grand Prix,Mexico City
-11,PER,perez,Racing Point,force_india,Sergio,Perez,Sergio Perez,18.0,R,13.0,,,,,Brakes,0.0,-5.0,2018,Mexican Grand Prix,Mexico City
-55,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,19.0,R,8.0,,,,,Suspension,0.0,-11.0,2018,Mexican Grand Prix,Mexico City
-14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,20.0,R,12.0,,,,,Engine,0.0,-8.0,2018,Mexican Grand Prix,Mexico City
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,2.0,,0 days 01:38:28.851000,Finished,25.0,1.0,2018,Mexican Grand Prix,Mexico City
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,4.0,,0 days 00:00:17.316000,Finished,18.0,2.0,2018,Mexican Grand Prix,Mexico City
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,6.0,,0 days 00:00:49.914000,Finished,15.0,3.0,2018,Mexican Grand Prix,Mexico City
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,4.0,4,3.0,,0 days 00:01:18.738000,Finished,12.0,-1.0,2018,Mexican Grand Prix,Mexico City
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,5.0,5,5.0,,,+1 Lap,10.0,0.0,2018,Mexican Grand Prix,Mexico City
+27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,6.0,6,7.0,,,+2 Laps,8.0,1.0,2018,Mexican Grand Prix,Mexico City
+16,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,7.0,7,9.0,,,+2 Laps,6.0,2.0,2018,Mexican Grand Prix,Mexico City
+2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,8.0,8,15.0,,,+2 Laps,4.0,7.0,2018,Mexican Grand Prix,Mexico City
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,9.0,9,10.0,,,+2 Laps,2.0,1.0,2018,Mexican Grand Prix,Mexico City
+10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,10.0,10,20.0,,,+2 Laps,1.0,10.0,2018,Mexican Grand Prix,Mexico City
+31,OCO,ocon,Racing Point,force_india,Esteban,Ocon,Esteban Ocon,11.0,11,11.0,,,+2 Laps,0.0,0.0,2018,Mexican Grand Prix,Mexico City
+18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,12.0,12,17.0,,,+2 Laps,0.0,5.0,2018,Mexican Grand Prix,Mexico City
+35,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,13.0,13,19.0,,,+2 Laps,0.0,6.0,2018,Mexican Grand Prix,Mexico City
+28,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,14.0,14,14.0,,,+2 Laps,0.0,0.0,2018,Mexican Grand Prix,Mexico City
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,15.0,15,16.0,,,+2 Laps,0.0,1.0,2018,Mexican Grand Prix,Mexico City
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,16.0,16,18.0,,,+3 Laps,0.0,2.0,2018,Mexican Grand Prix,Mexico City
+3,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,17.0,R,1.0,,,Engine,0.0,-16.0,2018,Mexican Grand Prix,Mexico City
+11,PER,perez,Racing Point,force_india,Sergio,Perez,Sergio Perez,18.0,R,13.0,,,Brakes,0.0,-5.0,2018,Mexican Grand Prix,Mexico City
+55,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,19.0,R,8.0,,,Suspension,0.0,-11.0,2018,Mexican Grand Prix,Mexico City
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,20.0,R,12.0,,,Engine,0.0,-8.0,2018,Mexican Grand Prix,Mexico City

@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,,,,0 days 01:34:31.421000,Finished,25.0,1.0,2021,Portuguese Grand Prix,Portimão
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,2.0,2,3.0,,,,0 days 00:00:29.148000,Finished,18.0,1.0,2021,Portuguese Grand Prix,Portimão
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,1.0,,,,0 days 00:00:33.530000,Finished,16.0,-2.0,2021,Portuguese Grand Prix,Portimão
-11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,4.0,4,4.0,,,,0 days 00:00:39.735000,Finished,12.0,0.0,2021,Portuguese Grand Prix,Portimão
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,5.0,5,7.0,,,,0 days 00:00:51.369000,Finished,10.0,2.0,2021,Portuguese Grand Prix,Portimão
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,6.0,6,8.0,,,,0 days 00:00:55.781000,Finished,8.0,2.0,2021,Portuguese Grand Prix,Portimão
-31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,7.0,7,6.0,,,,0 days 00:01:03.749000,Finished,6.0,-1.0,2021,Portuguese Grand Prix,Portimão
-14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,8.0,8,13.0,,,,0 days 00:00:01.808000,Finished,4.0,5.0,2021,Portuguese Grand Prix,Portimão
-3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,9.0,9,16.0,,,,0 days 00:01:15.369000,Finished,2.0,7.0,2021,Portuguese Grand Prix,Portimão
-10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,10.0,10,9.0,,,,0 days 00:01:16.463000,Finished,1.0,-1.0,2021,Portuguese Grand Prix,Portimão
-55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,11.0,11,5.0,,,,0 days 00:01:18.955000,Finished,0.0,-6.0,2021,Portuguese Grand Prix,Portimão
-99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,12.0,12,12.0,,,,,+1 Lap,0.0,0.0,2021,Portuguese Grand Prix,Portimão
-5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,13.0,13,10.0,,,,,+1 Lap,0.0,-3.0,2021,Portuguese Grand Prix,Portimão
-18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,14.0,14,17.0,,,,,+1 Lap,0.0,3.0,2021,Portuguese Grand Prix,Portimão
-22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,15.0,15,14.0,,,,,+1 Lap,0.0,-1.0,2021,Portuguese Grand Prix,Portimão
-63,RUS,russell,Williams,williams,George,Russell,George Russell,16.0,16,11.0,,,,,+1 Lap,0.0,-5.0,2021,Portuguese Grand Prix,Portimão
-47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,17.0,17,19.0,,,,,+2 Laps,0.0,2.0,2021,Portuguese Grand Prix,Portimão
-6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,18.0,18,18.0,,,,,+2 Laps,0.0,0.0,2021,Portuguese Grand Prix,Portimão
-9,MAZ,mazepin,Haas F1 Team,haas,Nikita,Mazepin,Nikita Mazepin,19.0,19,20.0,,,,,+2 Laps,0.0,1.0,2021,Portuguese Grand Prix,Portimão
-7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,20.0,R,15.0,,,,,Collision damage,0.0,-5.0,2021,Portuguese Grand Prix,Portimão
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,,0 days 01:34:31.421000,Finished,25.0,1.0,2021,Portuguese Grand Prix,Portimão
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,2.0,2,3.0,,0 days 00:00:29.148000,Finished,18.0,1.0,2021,Portuguese Grand Prix,Portimão
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,1.0,,0 days 00:00:33.530000,Finished,16.0,-2.0,2021,Portuguese Grand Prix,Portimão
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,4.0,4,4.0,,0 days 00:00:39.735000,Finished,12.0,0.0,2021,Portuguese Grand Prix,Portimão
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,5.0,5,7.0,,0 days 00:00:51.369000,Finished,10.0,2.0,2021,Portuguese Grand Prix,Portimão
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,6.0,6,8.0,,0 days 00:00:55.781000,Finished,8.0,2.0,2021,Portuguese Grand Prix,Portimão
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,7.0,7,6.0,,0 days 00:01:03.749000,Finished,6.0,-1.0,2021,Portuguese Grand Prix,Portimão
+14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,8.0,8,13.0,,0 days 00:00:01.808000,Finished,4.0,5.0,2021,Portuguese Grand Prix,Portimão
+3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,9.0,9,16.0,,0 days 00:01:15.369000,Finished,2.0,7.0,2021,Portuguese Grand Prix,Portimão
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,10.0,10,9.0,,0 days 00:01:16.463000,Finished,1.0,-1.0,2021,Portuguese Grand Prix,Portimão
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,11.0,11,5.0,,0 days 00:01:18.955000,Finished,0.0,-6.0,2021,Portuguese Grand Prix,Portimão
+99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,12.0,12,12.0,,,+1 Lap,0.0,0.0,2021,Portuguese Grand Prix,Portimão
+5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,13.0,13,10.0,,,+1 Lap,0.0,-3.0,2021,Portuguese Grand Prix,Portimão
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,14.0,14,17.0,,,+1 Lap,0.0,3.0,2021,Portuguese Grand Prix,Portimão
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,15.0,15,14.0,,,+1 Lap,0.0,-1.0,2021,Portuguese Grand Prix,Portimão
+63,RUS,russell,Williams,williams,George,Russell,George Russell,16.0,16,11.0,,,+1 Lap,0.0,-5.0,2021,Portuguese Grand Prix,Portimão
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,17.0,17,19.0,,,+2 Laps,0.0,2.0,2021,Portuguese Grand Prix,Portimão
+6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,18.0,18,18.0,,,+2 Laps,0.0,0.0,2021,Portuguese Grand Prix,Portimão
+9,MAZ,mazepin,Haas F1 Team,haas,Nikita,Mazepin,Nikita Mazepin,19.0,19,20.0,,,+2 Laps,0.0,1.0,2021,Portuguese Grand Prix,Portimão
+7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,20.0,R,15.0,,,Collision damage,0.0,-5.0,2021,Portuguese Grand Prix,Portimão

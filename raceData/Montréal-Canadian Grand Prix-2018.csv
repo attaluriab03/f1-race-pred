@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,1.0,,,,0 days 01:28:31.377000,Finished,25.0,0.0,2018,Canadian Grand Prix,Montréal
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,2.0,,,,0 days 00:00:07.376000,Finished,18.0,0.0,2018,Canadian Grand Prix,Montréal
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,3.0,3,3.0,,,,0 days 00:00:08.360000,Finished,15.0,0.0,2018,Canadian Grand Prix,Montréal
-3,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,6.0,,,,0 days 00:00:20.892000,Finished,12.0,2.0,2018,Canadian Grand Prix,Montréal
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,5.0,5,4.0,,,,0 days 00:00:21.559000,Finished,10.0,-1.0,2018,Canadian Grand Prix,Montréal
-7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,6.0,6,5.0,,,,0 days 00:00:27.184000,Finished,8.0,-1.0,2018,Canadian Grand Prix,Montréal
-27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,7.0,7,7.0,,,,,+1 Lap,6.0,0.0,2018,Canadian Grand Prix,Montréal
-55,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,8.0,8,9.0,,,,,+1 Lap,4.0,1.0,2018,Canadian Grand Prix,Montréal
-31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,9.0,9,8.0,,,,,+1 Lap,2.0,-1.0,2018,Canadian Grand Prix,Montréal
-16,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,10.0,10,13.0,,,,,+1 Lap,1.0,3.0,2018,Canadian Grand Prix,Montréal
-10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,11.0,11,16.0,,,,,+1 Lap,0.0,5.0,2018,Canadian Grand Prix,Montréal
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,12.0,12,20.0,,,,,+1 Lap,0.0,8.0,2018,Canadian Grand Prix,Montréal
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,13,11.0,,,,,+1 Lap,0.0,-2.0,2018,Canadian Grand Prix,Montréal
-11,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,14.0,14,10.0,,,,,+1 Lap,0.0,-4.0,2018,Canadian Grand Prix,Montréal
-9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,15.0,15,19.0,,,,,+2 Laps,0.0,4.0,2018,Canadian Grand Prix,Montréal
-2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,16.0,16,15.0,,,,,+2 Laps,0.0,-1.0,2018,Canadian Grand Prix,Montréal
-35,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,17.0,17,18.0,,,,,+2 Laps,0.0,1.0,2018,Canadian Grand Prix,Montréal
-14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,18.0,R,14.0,,,,,Exhaust,0.0,-4.0,2018,Canadian Grand Prix,Montréal
-28,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,19.0,R,12.0,,,,,Collision,0.0,-7.0,2018,Canadian Grand Prix,Montréal
-18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,20.0,R,17.0,,,,,Collision,0.0,-3.0,2018,Canadian Grand Prix,Montréal
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,1.0,,0 days 01:28:31.377000,Finished,25.0,0.0,2018,Canadian Grand Prix,Montréal
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,2.0,,0 days 00:00:07.376000,Finished,18.0,0.0,2018,Canadian Grand Prix,Montréal
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,3.0,3,3.0,,0 days 00:00:08.360000,Finished,15.0,0.0,2018,Canadian Grand Prix,Montréal
+3,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,6.0,,0 days 00:00:20.892000,Finished,12.0,2.0,2018,Canadian Grand Prix,Montréal
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,5.0,5,4.0,,0 days 00:00:21.559000,Finished,10.0,-1.0,2018,Canadian Grand Prix,Montréal
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,6.0,6,5.0,,0 days 00:00:27.184000,Finished,8.0,-1.0,2018,Canadian Grand Prix,Montréal
+27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,7.0,7,7.0,,,+1 Lap,6.0,0.0,2018,Canadian Grand Prix,Montréal
+55,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,8.0,8,9.0,,,+1 Lap,4.0,1.0,2018,Canadian Grand Prix,Montréal
+31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,9.0,9,8.0,,,+1 Lap,2.0,-1.0,2018,Canadian Grand Prix,Montréal
+16,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,10.0,10,13.0,,,+1 Lap,1.0,3.0,2018,Canadian Grand Prix,Montréal
+10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,11.0,11,16.0,,,+1 Lap,0.0,5.0,2018,Canadian Grand Prix,Montréal
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,12.0,12,20.0,,,+1 Lap,0.0,8.0,2018,Canadian Grand Prix,Montréal
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,13,11.0,,,+1 Lap,0.0,-2.0,2018,Canadian Grand Prix,Montréal
+11,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,14.0,14,10.0,,,+1 Lap,0.0,-4.0,2018,Canadian Grand Prix,Montréal
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,15.0,15,19.0,,,+2 Laps,0.0,4.0,2018,Canadian Grand Prix,Montréal
+2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,16.0,16,15.0,,,+2 Laps,0.0,-1.0,2018,Canadian Grand Prix,Montréal
+35,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,17.0,17,18.0,,,+2 Laps,0.0,1.0,2018,Canadian Grand Prix,Montréal
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,18.0,R,14.0,,,Exhaust,0.0,-4.0,2018,Canadian Grand Prix,Montréal
+28,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,19.0,R,12.0,,,Collision,0.0,-7.0,2018,Canadian Grand Prix,Montréal
+18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,20.0,R,17.0,,,Collision,0.0,-3.0,2018,Canadian Grand Prix,Montréal

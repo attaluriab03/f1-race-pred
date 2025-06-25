@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,1.0,1,1.0,,,,0 days 01:23:45.710000,Finished,25.0,0.0,2019,Belgian Grand Prix,Spa-Francorchamps
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,3.0,,,,0 days 00:00:00.981000,Finished,18.0,1.0,2019,Belgian Grand Prix,Spa-Francorchamps
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,4.0,,,,0 days 00:00:12.585000,Finished,15.0,1.0,2019,Belgian Grand Prix,Spa-Francorchamps
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,4.0,4,2.0,,,,0 days 00:00:26.422000,Finished,13.0,-2.0,2019,Belgian Grand Prix,Spa-Francorchamps
-23,ALB,albon,Red Bull Racing,red_bull,Alexander,Albon,Alexander Albon,5.0,5,17.0,,,,0 days 00:01:21.325000,Finished,10.0,12.0,2019,Belgian Grand Prix,Spa-Francorchamps
-11,PER,perez,Racing Point,racing_point,Sergio,Perez,Sergio Perez,6.0,6,7.0,,,,0 days 00:01:24.448000,Finished,8.0,1.0,2019,Belgian Grand Prix,Spa-Francorchamps
-26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,7.0,7,19.0,,,,0 days 00:01:29.657000,Finished,6.0,12.0,2019,Belgian Grand Prix,Spa-Francorchamps
-27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,8.0,8,12.0,,,,0 days 00:01:46.639000,Finished,4.0,4.0,2019,Belgian Grand Prix,Spa-Francorchamps
-10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,9.0,9,13.0,,,,0 days 00:01:49.168000,Finished,2.0,4.0,2019,Belgian Grand Prix,Spa-Francorchamps
-18,STR,stroll,Racing Point,racing_point,Lance,Stroll,Lance Stroll,10.0,10,16.0,,,,0 days 00:01:49.838000,Finished,1.0,6.0,2019,Belgian Grand Prix,Spa-Francorchamps
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,11.0,11,11.0,,,,,Engine,0.0,0.0,2019,Belgian Grand Prix,Spa-Francorchamps
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,12.0,12,8.0,,,,,+1 Lap,0.0,-4.0,2019,Belgian Grand Prix,Spa-Francorchamps
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,13.0,13,9.0,,,,,+1 Lap,0.0,-4.0,2019,Belgian Grand Prix,Spa-Francorchamps
-3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,14.0,14,10.0,,,,,+1 Lap,0.0,-4.0,2019,Belgian Grand Prix,Spa-Francorchamps
-63,RUS,russell,Williams,williams,George,Russell,George Russell,15.0,15,14.0,,,,,+1 Lap,0.0,-1.0,2019,Belgian Grand Prix,Spa-Francorchamps
-7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,16.0,16,6.0,,,,,+1 Lap,0.0,-10.0,2019,Belgian Grand Prix,Spa-Francorchamps
-88,KUB,kubica,Williams,williams,Robert,Kubica,Robert Kubica,17.0,17,0.0,,,,,+1 Lap,0.0,-17.0,2019,Belgian Grand Prix,Spa-Francorchamps
-99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,18.0,18,18.0,,,,,Accident,0.0,0.0,2019,Belgian Grand Prix,Spa-Francorchamps
-55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,19.0,R,15.0,,,,,Power loss,0.0,-4.0,2019,Belgian Grand Prix,Spa-Francorchamps
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,20.0,R,5.0,,,,,Accident,0.0,-15.0,2019,Belgian Grand Prix,Spa-Francorchamps
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,1.0,1,1.0,,0 days 01:23:45.710000,Finished,25.0,0.0,2019,Belgian Grand Prix,Spa-Francorchamps
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,3.0,,0 days 00:00:00.981000,Finished,18.0,1.0,2019,Belgian Grand Prix,Spa-Francorchamps
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,4.0,,0 days 00:00:12.585000,Finished,15.0,1.0,2019,Belgian Grand Prix,Spa-Francorchamps
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,4.0,4,2.0,,0 days 00:00:26.422000,Finished,13.0,-2.0,2019,Belgian Grand Prix,Spa-Francorchamps
+23,ALB,albon,Red Bull Racing,red_bull,Alexander,Albon,Alexander Albon,5.0,5,17.0,,0 days 00:01:21.325000,Finished,10.0,12.0,2019,Belgian Grand Prix,Spa-Francorchamps
+11,PER,perez,Racing Point,racing_point,Sergio,Perez,Sergio Perez,6.0,6,7.0,,0 days 00:01:24.448000,Finished,8.0,1.0,2019,Belgian Grand Prix,Spa-Francorchamps
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,7.0,7,19.0,,0 days 00:01:29.657000,Finished,6.0,12.0,2019,Belgian Grand Prix,Spa-Francorchamps
+27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,8.0,8,12.0,,0 days 00:01:46.639000,Finished,4.0,4.0,2019,Belgian Grand Prix,Spa-Francorchamps
+10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,9.0,9,13.0,,0 days 00:01:49.168000,Finished,2.0,4.0,2019,Belgian Grand Prix,Spa-Francorchamps
+18,STR,stroll,Racing Point,racing_point,Lance,Stroll,Lance Stroll,10.0,10,16.0,,0 days 00:01:49.838000,Finished,1.0,6.0,2019,Belgian Grand Prix,Spa-Francorchamps
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,11.0,11,11.0,,,Engine,0.0,0.0,2019,Belgian Grand Prix,Spa-Francorchamps
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,12.0,12,8.0,,,+1 Lap,0.0,-4.0,2019,Belgian Grand Prix,Spa-Francorchamps
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,13.0,13,9.0,,,+1 Lap,0.0,-4.0,2019,Belgian Grand Prix,Spa-Francorchamps
+3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,14.0,14,10.0,,,+1 Lap,0.0,-4.0,2019,Belgian Grand Prix,Spa-Francorchamps
+63,RUS,russell,Williams,williams,George,Russell,George Russell,15.0,15,14.0,,,+1 Lap,0.0,-1.0,2019,Belgian Grand Prix,Spa-Francorchamps
+7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,16.0,16,6.0,,,+1 Lap,0.0,-10.0,2019,Belgian Grand Prix,Spa-Francorchamps
+88,KUB,kubica,Williams,williams,Robert,Kubica,Robert Kubica,17.0,17,0.0,,,+1 Lap,0.0,-17.0,2019,Belgian Grand Prix,Spa-Francorchamps
+99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,18.0,18,18.0,,,Accident,0.0,0.0,2019,Belgian Grand Prix,Spa-Francorchamps
+55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,19.0,R,15.0,,,Power loss,0.0,-4.0,2019,Belgian Grand Prix,Spa-Francorchamps
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,20.0,R,5.0,,,Accident,0.0,-15.0,2019,Belgian Grand Prix,Spa-Francorchamps

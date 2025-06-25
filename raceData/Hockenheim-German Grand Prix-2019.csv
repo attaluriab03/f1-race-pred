@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,2.0,,,,0 days 01:44:31.275000,Finished,26.0,1.0,2019,German Grand Prix,Hockenheim
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,20.0,,,,0 days 00:00:07.333000,Finished,18.0,18.0,2019,German Grand Prix,Hockenheim
-26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,3.0,3,14.0,,,,0 days 00:00:08.305000,Finished,15.0,11.0,2019,German Grand Prix,Hockenheim
-18,STR,stroll,Racing Point,racing_point,Lance,Stroll,Lance Stroll,4.0,4,15.0,,,,0 days 00:00:08.966000,Finished,12.0,11.0,2019,German Grand Prix,Hockenheim
-55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,5.0,5,7.0,,,,0 days 00:00:09.583000,Finished,10.0,2.0,2019,German Grand Prix,Hockenheim
-23,ALB,albon,Toro Rosso,toro_rosso,Alexander,Albon,Alexander Albon,6.0,6,16.0,,,,0 days 00:00:10.052000,Finished,8.0,10.0,2019,German Grand Prix,Hockenheim
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,7.0,7,6.0,,,,0 days 00:00:16.838000,Finished,6.0,-1.0,2019,German Grand Prix,Hockenheim
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,8.0,8,12.0,,,,0 days 00:00:18.765000,Finished,4.0,4.0,2019,German Grand Prix,Hockenheim
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,9.0,9,1.0,,,,0 days 00:00:19.667000,Finished,2.0,-8.0,2019,German Grand Prix,Hockenheim
-88,KUB,kubica,Williams,williams,Robert,Kubica,Robert Kubica,10.0,10,18.0,,,,0 days 00:00:24.987000,Finished,1.0,8.0,2019,German Grand Prix,Hockenheim
-63,RUS,russell,Williams,williams,George,Russell,George Russell,11.0,11,17.0,,,,0 days 00:00:26.404000,Finished,0.0,6.0,2019,German Grand Prix,Hockenheim
-7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,12.0,12,5.0,,,,0 days 00:00:42.214000,Finished,0.0,-7.0,2019,German Grand Prix,Hockenheim
-99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,13.0,13,11.0,,,,0 days 00:00:43.849000,Finished,0.0,-2.0,2019,German Grand Prix,Hockenheim
-10,GAS,gasly,Red Bull Racing,red_bull,Pierre,Gasly,Pierre Gasly,14.0,14,4.0,,,,,Collision,0.0,-10.0,2019,German Grand Prix,Hockenheim
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,15.0,R,3.0,,,,,Accident,0.0,-12.0,2019,German Grand Prix,Hockenheim
-27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,16.0,R,9.0,,,,,Accident,0.0,-7.0,2019,German Grand Prix,Hockenheim
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,17.0,R,10.0,,,,,Accident,0.0,-7.0,2019,German Grand Prix,Hockenheim
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,18.0,R,19.0,,,,,Power loss,0.0,1.0,2019,German Grand Prix,Hockenheim
-3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,19.0,R,13.0,,,,,Exhaust,0.0,-6.0,2019,German Grand Prix,Hockenheim
-11,PER,perez,Racing Point,racing_point,Sergio,Perez,Sergio Perez,20.0,R,8.0,,,,,Spun off,0.0,-12.0,2019,German Grand Prix,Hockenheim
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,2.0,,0 days 01:44:31.275000,Finished,26.0,1.0,2019,German Grand Prix,Hockenheim
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,20.0,,0 days 00:00:07.333000,Finished,18.0,18.0,2019,German Grand Prix,Hockenheim
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,3.0,3,14.0,,0 days 00:00:08.305000,Finished,15.0,11.0,2019,German Grand Prix,Hockenheim
+18,STR,stroll,Racing Point,racing_point,Lance,Stroll,Lance Stroll,4.0,4,15.0,,0 days 00:00:08.966000,Finished,12.0,11.0,2019,German Grand Prix,Hockenheim
+55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,5.0,5,7.0,,0 days 00:00:09.583000,Finished,10.0,2.0,2019,German Grand Prix,Hockenheim
+23,ALB,albon,Toro Rosso,toro_rosso,Alexander,Albon,Alexander Albon,6.0,6,16.0,,0 days 00:00:10.052000,Finished,8.0,10.0,2019,German Grand Prix,Hockenheim
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,7.0,7,6.0,,0 days 00:00:16.838000,Finished,6.0,-1.0,2019,German Grand Prix,Hockenheim
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,8.0,8,12.0,,0 days 00:00:18.765000,Finished,4.0,4.0,2019,German Grand Prix,Hockenheim
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,9.0,9,1.0,,0 days 00:00:19.667000,Finished,2.0,-8.0,2019,German Grand Prix,Hockenheim
+88,KUB,kubica,Williams,williams,Robert,Kubica,Robert Kubica,10.0,10,18.0,,0 days 00:00:24.987000,Finished,1.0,8.0,2019,German Grand Prix,Hockenheim
+63,RUS,russell,Williams,williams,George,Russell,George Russell,11.0,11,17.0,,0 days 00:00:26.404000,Finished,0.0,6.0,2019,German Grand Prix,Hockenheim
+7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,12.0,12,5.0,,0 days 00:00:42.214000,Finished,0.0,-7.0,2019,German Grand Prix,Hockenheim
+99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,13.0,13,11.0,,0 days 00:00:43.849000,Finished,0.0,-2.0,2019,German Grand Prix,Hockenheim
+10,GAS,gasly,Red Bull Racing,red_bull,Pierre,Gasly,Pierre Gasly,14.0,14,4.0,,,Collision,0.0,-10.0,2019,German Grand Prix,Hockenheim
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,15.0,R,3.0,,,Accident,0.0,-12.0,2019,German Grand Prix,Hockenheim
+27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,16.0,R,9.0,,,Accident,0.0,-7.0,2019,German Grand Prix,Hockenheim
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,17.0,R,10.0,,,Accident,0.0,-7.0,2019,German Grand Prix,Hockenheim
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,18.0,R,19.0,,,Power loss,0.0,1.0,2019,German Grand Prix,Hockenheim
+3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,19.0,R,13.0,,,Exhaust,0.0,-6.0,2019,German Grand Prix,Hockenheim
+11,PER,perez,Racing Point,racing_point,Sergio,Perez,Sergio Perez,20.0,R,8.0,,,Spun off,0.0,-12.0,2019,German Grand Prix,Hockenheim

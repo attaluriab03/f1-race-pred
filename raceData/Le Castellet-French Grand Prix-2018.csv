@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,,,,0 days 01:30:11.385000,Finished,25.0,0.0,2018,French Grand Prix,Le Castellet
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,2.0,2,4.0,,,,0 days 00:00:07.090000,Finished,18.0,2.0,2018,French Grand Prix,Le Castellet
-7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,6.0,,,,0 days 00:00:25.888000,Finished,15.0,3.0,2018,French Grand Prix,Le Castellet
-3,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,5.0,,,,0 days 00:00:34.736000,Finished,12.0,1.0,2018,French Grand Prix,Le Castellet
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,5.0,5,3.0,,,,0 days 00:01:01.935000,Finished,10.0,-2.0,2018,French Grand Prix,Le Castellet
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,6.0,6,9.0,,,,0 days 00:01:19.364000,Finished,8.0,3.0,2018,French Grand Prix,Le Castellet
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,7.0,7,2.0,,,,0 days 00:01:20.632000,Finished,6.0,-5.0,2018,French Grand Prix,Le Castellet
-55,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,8.0,8,7.0,,,,0 days 00:01:27.184000,Finished,4.0,-1.0,2018,French Grand Prix,Le Castellet
-27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,9.0,9,12.0,,,,0 days 00:01:31.989000,Finished,2.0,3.0,2018,French Grand Prix,Le Castellet
-16,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,10.0,10,8.0,,,,0 days 00:01:33.873000,Finished,1.0,-2.0,2018,French Grand Prix,Le Castellet
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,11.0,11,10.0,,,,,+1 Lap,0.0,-1.0,2018,French Grand Prix,Le Castellet
-2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,12.0,12,17.0,,,,,+1 Lap,0.0,5.0,2018,French Grand Prix,Le Castellet
-9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,13.0,13,15.0,,,,,+1 Lap,0.0,2.0,2018,French Grand Prix,Le Castellet
-28,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,14.0,14,20.0,,,,,+1 Lap,0.0,6.0,2018,French Grand Prix,Le Castellet
-35,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,15.0,15,18.0,,,,,+1 Lap,0.0,3.0,2018,French Grand Prix,Le Castellet
-14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,16.0,16,16.0,,,,,Wheel,0.0,0.0,2018,French Grand Prix,Le Castellet
-18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,17.0,17,19.0,,,,,Puncture,0.0,2.0,2018,French Grand Prix,Le Castellet
-11,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,18.0,R,13.0,,,,,Engine,0.0,-5.0,2018,French Grand Prix,Le Castellet
-31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,19.0,R,11.0,,,,,Collision,0.0,-8.0,2018,French Grand Prix,Le Castellet
-10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,20.0,R,14.0,,,,,Collision,0.0,-6.0,2018,French Grand Prix,Le Castellet
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,,0 days 01:30:11.385000,Finished,25.0,0.0,2018,French Grand Prix,Le Castellet
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,2.0,2,4.0,,0 days 00:00:07.090000,Finished,18.0,2.0,2018,French Grand Prix,Le Castellet
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,6.0,,0 days 00:00:25.888000,Finished,15.0,3.0,2018,French Grand Prix,Le Castellet
+3,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,5.0,,0 days 00:00:34.736000,Finished,12.0,1.0,2018,French Grand Prix,Le Castellet
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,5.0,5,3.0,,0 days 00:01:01.935000,Finished,10.0,-2.0,2018,French Grand Prix,Le Castellet
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,6.0,6,9.0,,0 days 00:01:19.364000,Finished,8.0,3.0,2018,French Grand Prix,Le Castellet
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,7.0,7,2.0,,0 days 00:01:20.632000,Finished,6.0,-5.0,2018,French Grand Prix,Le Castellet
+55,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,8.0,8,7.0,,0 days 00:01:27.184000,Finished,4.0,-1.0,2018,French Grand Prix,Le Castellet
+27,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,9.0,9,12.0,,0 days 00:01:31.989000,Finished,2.0,3.0,2018,French Grand Prix,Le Castellet
+16,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,10.0,10,8.0,,0 days 00:01:33.873000,Finished,1.0,-2.0,2018,French Grand Prix,Le Castellet
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,11.0,11,10.0,,,+1 Lap,0.0,-1.0,2018,French Grand Prix,Le Castellet
+2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,12.0,12,17.0,,,+1 Lap,0.0,5.0,2018,French Grand Prix,Le Castellet
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,13.0,13,15.0,,,+1 Lap,0.0,2.0,2018,French Grand Prix,Le Castellet
+28,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,14.0,14,20.0,,,+1 Lap,0.0,6.0,2018,French Grand Prix,Le Castellet
+35,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,15.0,15,18.0,,,+1 Lap,0.0,3.0,2018,French Grand Prix,Le Castellet
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,16.0,16,16.0,,,Wheel,0.0,0.0,2018,French Grand Prix,Le Castellet
+18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,17.0,17,19.0,,,Puncture,0.0,2.0,2018,French Grand Prix,Le Castellet
+11,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,18.0,R,13.0,,,Engine,0.0,-5.0,2018,French Grand Prix,Le Castellet
+31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,19.0,R,11.0,,,Collision,0.0,-8.0,2018,French Grand Prix,Le Castellet
+10,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,20.0,R,14.0,,,Collision,0.0,-6.0,2018,French Grand Prix,Le Castellet

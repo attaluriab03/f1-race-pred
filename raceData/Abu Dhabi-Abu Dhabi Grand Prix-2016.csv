@@ -1,23 +1,23 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,,,,0 days 01:38:04.013000,Finished,25.0,0.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,2.0,2,2.0,,,,0 days 00:00:00.439000,Finished,18.0,0.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,3.0,3,5.0,,,,0 days 00:00:00.843000,Finished,15.0,2.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,4.0,4,6.0,,,,0 days 00:00:01.685000,Finished,12.0,2.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,5.0,5,3.0,,,,0 days 00:00:05.315000,Finished,10.0,-2.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,6.0,6,4.0,,,,0 days 00:00:18.816000,Finished,8.0,-2.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,7.0,7,7.0,,,,0 days 00:00:50.114000,Finished,6.0,0.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,8.0,8,8.0,,,,0 days 00:00:58.776000,Finished,4.0,0.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,9.0,9,10.0,,,,0 days 00:00:59.436000,Finished,2.0,1.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,10.0,10,9.0,,,,0 days 00:00:59.896000,Finished,1.0,-1.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,11.0,11,14.0,,,,0 days 00:01:16.777000,Finished,0.0,3.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,12.0,12,13.0,,,,0 days 00:01:35.113000,Finished,0.0,1.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,13.0,13,20.0,,,,,+1 Lap,0.0,7.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,14.0,14,16.0,,,,,+1 Lap,0.0,2.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,15.0,15,22.0,,,,,+1 Lap,0.0,7.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,16.0,16,19.0,,,,,+1 Lap,0.0,3.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,17.0,17,15.0,,,,,+1 Lap,0.0,-2.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,18.0,R,21.0,,,,,Collision damage,0.0,3.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,19.0,R,17.0,,,,,Gearbox,0.0,-2.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,20.0,R,12.0,,,,,Suspension,0.0,-8.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,21.0,R,11.0,,,,,Suspension,0.0,-10.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
-20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,22.0,R,18.0,,,,,Suspension,0.0,-4.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,,0 days 01:38:04.013000,Finished,25.0,0.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,2.0,2,2.0,,0 days 00:00:00.439000,Finished,18.0,0.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,3.0,3,5.0,,0 days 00:00:00.843000,Finished,15.0,2.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,4.0,4,6.0,,0 days 00:00:01.685000,Finished,12.0,2.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,5.0,5,3.0,,0 days 00:00:05.315000,Finished,10.0,-2.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,6.0,6,4.0,,0 days 00:00:18.816000,Finished,8.0,-2.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,7.0,7,7.0,,0 days 00:00:50.114000,Finished,6.0,0.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,8.0,8,8.0,,0 days 00:00:58.776000,Finished,4.0,0.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,9.0,9,10.0,,0 days 00:00:59.436000,Finished,2.0,1.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,10.0,10,9.0,,0 days 00:00:59.896000,Finished,1.0,-1.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,11.0,11,14.0,,0 days 00:01:16.777000,Finished,0.0,3.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,12.0,12,13.0,,0 days 00:01:35.113000,Finished,0.0,1.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,13.0,13,20.0,,,+1 Lap,0.0,7.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,14.0,14,16.0,,,+1 Lap,0.0,2.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,15.0,15,22.0,,,+1 Lap,0.0,7.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,16.0,16,19.0,,,+1 Lap,0.0,3.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,17.0,17,15.0,,,+1 Lap,0.0,-2.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,18.0,R,21.0,,,Collision damage,0.0,3.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,19.0,R,17.0,,,Gearbox,0.0,-2.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,20.0,R,12.0,,,Suspension,0.0,-8.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,21.0,R,11.0,,,Suspension,0.0,-10.0,2016,Abu Dhabi Grand Prix,Abu Dhabi
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,22.0,R,18.0,,,Suspension,0.0,-4.0,2016,Abu Dhabi Grand Prix,Abu Dhabi

@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,5.0,,,,0 days 02:03:23.544000,Finished,25.0,4.0,2017,Singapore Grand Prix,Marina Bay
-3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,2.0,2,3.0,,,,0 days 00:00:04.507000,Finished,18.0,1.0,2017,Singapore Grand Prix,Marina Bay
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,6.0,,,,0 days 00:00:08.800000,Finished,15.0,3.0,2017,Singapore Grand Prix,Marina Bay
-55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,4.0,4,10.0,,,,0 days 00:00:22.822000,Finished,12.0,6.0,2017,Singapore Grand Prix,Marina Bay
-11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,5.0,5,12.0,,,,0 days 00:00:25.359000,Finished,10.0,7.0,2017,Singapore Grand Prix,Marina Bay
-30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,6.0,6,11.0,,,,0 days 00:00:27.259000,Finished,8.0,5.0,2017,Singapore Grand Prix,Marina Bay
-2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,7.0,7,9.0,,,,0 days 00:00:30.388000,Finished,6.0,2.0,2017,Singapore Grand Prix,Marina Bay
-18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,8.0,8,18.0,,,,0 days 00:00:41.696000,Finished,4.0,10.0,2017,Singapore Grand Prix,Marina Bay
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,9.0,9,15.0,,,,0 days 00:00:43.282000,Finished,2.0,6.0,2017,Singapore Grand Prix,Marina Bay
-31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,10.0,10,14.0,,,,0 days 00:00:44.795000,Finished,1.0,4.0,2017,Singapore Grand Prix,Marina Bay
-19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,11.0,11,17.0,,,,0 days 00:00:46.536000,Finished,0.0,6.0,2017,Singapore Grand Prix,Marina Bay
-94,WEH,wehrlein,Sauber,sauber,Pascal,Wehrlein,Pascal Wehrlein,12.0,12,19.0,,,,,+2 Laps,0.0,7.0,2017,Singapore Grand Prix,Marina Bay
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,R,16.0,,,,,Engine,0.0,3.0,2017,Singapore Grand Prix,Marina Bay
-27,HUL,hulkenberg,Renault,renault,Nico,Hülkenberg,Nico Hülkenberg,14.0,R,7.0,,,,,Engine,0.0,-7.0,2017,Singapore Grand Prix,Marina Bay
-9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,15.0,R,20.0,,,,,Accident,0.0,5.0,2017,Singapore Grand Prix,Marina Bay
-26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,16.0,R,13.0,,,,,Accident,0.0,-3.0,2017,Singapore Grand Prix,Marina Bay
-14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,17.0,R,8.0,,,,,Collision damage,0.0,-9.0,2017,Singapore Grand Prix,Marina Bay
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,18.0,R,1.0,,,,,Accident,0.0,-17.0,2017,Singapore Grand Prix,Marina Bay
-33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,19.0,R,2.0,,,,,Accident,0.0,-17.0,2017,Singapore Grand Prix,Marina Bay
-7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,20.0,R,4.0,,,,,Accident,0.0,-16.0,2017,Singapore Grand Prix,Marina Bay
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,5.0,,0 days 02:03:23.544000,Finished,25.0,4.0,2017,Singapore Grand Prix,Marina Bay
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,2.0,2,3.0,,0 days 00:00:04.507000,Finished,18.0,1.0,2017,Singapore Grand Prix,Marina Bay
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,6.0,,0 days 00:00:08.800000,Finished,15.0,3.0,2017,Singapore Grand Prix,Marina Bay
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,4.0,4,10.0,,0 days 00:00:22.822000,Finished,12.0,6.0,2017,Singapore Grand Prix,Marina Bay
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,5.0,5,12.0,,0 days 00:00:25.359000,Finished,10.0,7.0,2017,Singapore Grand Prix,Marina Bay
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,6.0,6,11.0,,0 days 00:00:27.259000,Finished,8.0,5.0,2017,Singapore Grand Prix,Marina Bay
+2,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,7.0,7,9.0,,0 days 00:00:30.388000,Finished,6.0,2.0,2017,Singapore Grand Prix,Marina Bay
+18,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,8.0,8,18.0,,0 days 00:00:41.696000,Finished,4.0,10.0,2017,Singapore Grand Prix,Marina Bay
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,9.0,9,15.0,,0 days 00:00:43.282000,Finished,2.0,6.0,2017,Singapore Grand Prix,Marina Bay
+31,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,10.0,10,14.0,,0 days 00:00:44.795000,Finished,1.0,4.0,2017,Singapore Grand Prix,Marina Bay
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,11.0,11,17.0,,0 days 00:00:46.536000,Finished,0.0,6.0,2017,Singapore Grand Prix,Marina Bay
+94,WEH,wehrlein,Sauber,sauber,Pascal,Wehrlein,Pascal Wehrlein,12.0,12,19.0,,,+2 Laps,0.0,7.0,2017,Singapore Grand Prix,Marina Bay
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,R,16.0,,,Engine,0.0,3.0,2017,Singapore Grand Prix,Marina Bay
+27,HUL,hulkenberg,Renault,renault,Nico,Hülkenberg,Nico Hülkenberg,14.0,R,7.0,,,Engine,0.0,-7.0,2017,Singapore Grand Prix,Marina Bay
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,15.0,R,20.0,,,Accident,0.0,5.0,2017,Singapore Grand Prix,Marina Bay
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,16.0,R,13.0,,,Accident,0.0,-3.0,2017,Singapore Grand Prix,Marina Bay
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,17.0,R,8.0,,,Collision damage,0.0,-9.0,2017,Singapore Grand Prix,Marina Bay
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,18.0,R,1.0,,,Accident,0.0,-17.0,2017,Singapore Grand Prix,Marina Bay
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,19.0,R,2.0,,,Accident,0.0,-17.0,2017,Singapore Grand Prix,Marina Bay
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,20.0,R,4.0,,,Accident,0.0,-16.0,2017,Singapore Grand Prix,Marina Bay

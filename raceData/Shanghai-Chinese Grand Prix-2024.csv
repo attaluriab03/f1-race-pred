@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,1.0,,,,0 days 01:40:52.554000,Finished,25.0,0.0,2024,Chinese Grand Prix,Shanghai
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,2.0,2,4.0,,,,0 days 00:00:13.773000,Finished,18.0,2.0,2024,Chinese Grand Prix,Shanghai
-11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,3.0,3,2.0,,,,0 days 00:00:19.160000,Finished,15.0,-1.0,2024,Chinese Grand Prix,Shanghai
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,4.0,4,6.0,,,,0 days 00:00:23.623000,Finished,12.0,2.0,2024,Chinese Grand Prix,Shanghai
-55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,5.0,5,7.0,,,,0 days 00:00:33.983000,Finished,10.0,2.0,2024,Chinese Grand Prix,Shanghai
-63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,6.0,6,8.0,,,,0 days 00:00:38.724000,Finished,8.0,2.0,2024,Chinese Grand Prix,Shanghai
-14,ALO,alonso,Aston Martin,aston_martin,Fernando,Alonso,Fernando Alonso,7.0,7,3.0,,,,0 days 00:00:43.414000,Finished,7.0,-4.0,2024,Chinese Grand Prix,Shanghai
-81,PIA,piastri,McLaren,mclaren,Oscar,Piastri,Oscar Piastri,8.0,8,5.0,,,,0 days 00:00:56.198000,Finished,4.0,-3.0,2024,Chinese Grand Prix,Shanghai
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,9.0,9,18.0,,,,0 days 00:00:57.986000,Finished,2.0,9.0,2024,Chinese Grand Prix,Shanghai
-27,HUL,hulkenberg,Haas F1 Team,haas,Nico,Hulkenberg,Nico Hulkenberg,10.0,10,9.0,,,,0 days 00:01:00.476000,Finished,1.0,-1.0,2024,Chinese Grand Prix,Shanghai
-31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,11.0,11,13.0,,,,0 days 00:01:02.812000,Finished,0.0,2.0,2024,Chinese Grand Prix,Shanghai
-23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,12.0,12,14.0,,,,0 days 00:01:05.506000,Finished,0.0,2.0,2024,Chinese Grand Prix,Shanghai
-10,GAS,gasly,Alpine,alpine,Pierre,Gasly,Pierre Gasly,13.0,13,15.0,,,,0 days 00:01:09.223000,Finished,0.0,2.0,2024,Chinese Grand Prix,Shanghai
-24,ZHO,zhou,Kick Sauber,sauber,Guanyu,Zhou,Guanyu Zhou,14.0,14,16.0,,,,0 days 00:01:11.689000,Finished,0.0,2.0,2024,Chinese Grand Prix,Shanghai
-18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,15.0,15,11.0,,,,0 days 00:01:22.786000,Finished,0.0,-4.0,2024,Chinese Grand Prix,Shanghai
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,16.0,16,17.0,,,,0 days 00:01:27.533000,Finished,0.0,1.0,2024,Chinese Grand Prix,Shanghai
-2,SAR,sargeant,Williams,williams,Logan,Sargeant,Logan Sargeant,17.0,17,20.0,,,,0 days 00:01:35.110000,Finished,0.0,3.0,2024,Chinese Grand Prix,Shanghai
-3,RIC,ricciardo,RB,rb,Daniel,Ricciardo,Daniel Ricciardo,18.0,R,12.0,,,,,Retired,0.0,-6.0,2024,Chinese Grand Prix,Shanghai
-22,TSU,tsunoda,RB,rb,Yuki,Tsunoda,Yuki Tsunoda,19.0,R,19.0,,,,,Retired,0.0,0.0,2024,Chinese Grand Prix,Shanghai
-77,BOT,bottas,Kick Sauber,sauber,Valtteri,Bottas,Valtteri Bottas,20.0,R,10.0,,,,,Retired,0.0,-10.0,2024,Chinese Grand Prix,Shanghai
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,1.0,,0 days 01:40:52.554000,Finished,25.0,0.0,2024,Chinese Grand Prix,Shanghai
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,2.0,2,4.0,,0 days 00:00:13.773000,Finished,18.0,2.0,2024,Chinese Grand Prix,Shanghai
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,3.0,3,2.0,,0 days 00:00:19.160000,Finished,15.0,-1.0,2024,Chinese Grand Prix,Shanghai
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,4.0,4,6.0,,0 days 00:00:23.623000,Finished,12.0,2.0,2024,Chinese Grand Prix,Shanghai
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,5.0,5,7.0,,0 days 00:00:33.983000,Finished,10.0,2.0,2024,Chinese Grand Prix,Shanghai
+63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,6.0,6,8.0,,0 days 00:00:38.724000,Finished,8.0,2.0,2024,Chinese Grand Prix,Shanghai
+14,ALO,alonso,Aston Martin,aston_martin,Fernando,Alonso,Fernando Alonso,7.0,7,3.0,,0 days 00:00:43.414000,Finished,7.0,-4.0,2024,Chinese Grand Prix,Shanghai
+81,PIA,piastri,McLaren,mclaren,Oscar,Piastri,Oscar Piastri,8.0,8,5.0,,0 days 00:00:56.198000,Finished,4.0,-3.0,2024,Chinese Grand Prix,Shanghai
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,9.0,9,18.0,,0 days 00:00:57.986000,Finished,2.0,9.0,2024,Chinese Grand Prix,Shanghai
+27,HUL,hulkenberg,Haas F1 Team,haas,Nico,Hulkenberg,Nico Hulkenberg,10.0,10,9.0,,0 days 00:01:00.476000,Finished,1.0,-1.0,2024,Chinese Grand Prix,Shanghai
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,11.0,11,13.0,,0 days 00:01:02.812000,Finished,0.0,2.0,2024,Chinese Grand Prix,Shanghai
+23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,12.0,12,14.0,,0 days 00:01:05.506000,Finished,0.0,2.0,2024,Chinese Grand Prix,Shanghai
+10,GAS,gasly,Alpine,alpine,Pierre,Gasly,Pierre Gasly,13.0,13,15.0,,0 days 00:01:09.223000,Finished,0.0,2.0,2024,Chinese Grand Prix,Shanghai
+24,ZHO,zhou,Kick Sauber,sauber,Guanyu,Zhou,Guanyu Zhou,14.0,14,16.0,,0 days 00:01:11.689000,Finished,0.0,2.0,2024,Chinese Grand Prix,Shanghai
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,15.0,15,11.0,,0 days 00:01:22.786000,Finished,0.0,-4.0,2024,Chinese Grand Prix,Shanghai
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,16.0,16,17.0,,0 days 00:01:27.533000,Finished,0.0,1.0,2024,Chinese Grand Prix,Shanghai
+2,SAR,sargeant,Williams,williams,Logan,Sargeant,Logan Sargeant,17.0,17,20.0,,0 days 00:01:35.110000,Finished,0.0,3.0,2024,Chinese Grand Prix,Shanghai
+3,RIC,ricciardo,RB,rb,Daniel,Ricciardo,Daniel Ricciardo,18.0,R,12.0,,,Retired,0.0,-6.0,2024,Chinese Grand Prix,Shanghai
+22,TSU,tsunoda,RB,rb,Yuki,Tsunoda,Yuki Tsunoda,19.0,R,19.0,,,Retired,0.0,0.0,2024,Chinese Grand Prix,Shanghai
+77,BOT,bottas,Kick Sauber,sauber,Valtteri,Bottas,Valtteri Bottas,20.0,R,10.0,,,Retired,0.0,-10.0,2024,Chinese Grand Prix,Shanghai

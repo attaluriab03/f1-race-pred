@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,10.0,,,,0 days 01:39:35.912000,Finished,25.0,9.0,2022,Hungarian Grand Prix,Budapest
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,7.0,,,,0 days 00:00:07.834000,Finished,19.0,5.0,2022,Hungarian Grand Prix,Budapest
-63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,3.0,3,1.0,,,,0 days 00:00:12.337000,Finished,15.0,-2.0,2022,Hungarian Grand Prix,Budapest
-55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,4.0,4,2.0,,,,0 days 00:00:14.579000,Finished,12.0,-2.0,2022,Hungarian Grand Prix,Budapest
-11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,5.0,5,11.0,,,,0 days 00:00:15.688000,Finished,10.0,6.0,2022,Hungarian Grand Prix,Budapest
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,6.0,6,3.0,,,,0 days 00:00:16.047000,Finished,8.0,-3.0,2022,Hungarian Grand Prix,Budapest
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,7.0,7,4.0,,,,0 days 00:01:18.300000,Finished,6.0,-3.0,2022,Hungarian Grand Prix,Budapest
-14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,8.0,8,6.0,,,,,+1 Lap,4.0,-2.0,2022,Hungarian Grand Prix,Budapest
-31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,9.0,9,5.0,,,,,+1 Lap,2.0,-4.0,2022,Hungarian Grand Prix,Budapest
-5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,10.0,10,18.0,,,,,+1 Lap,1.0,8.0,2022,Hungarian Grand Prix,Budapest
-18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,11.0,11,14.0,,,,,+1 Lap,0.0,3.0,2022,Hungarian Grand Prix,Budapest
-10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,12.0,12,0.0,,,,,+1 Lap,0.0,-12.0,2022,Hungarian Grand Prix,Budapest
-24,ZHO,zhou,Alfa Romeo,alfa,Guanyu,Zhou,Guanyu Zhou,13.0,13,12.0,,,,,+1 Lap,0.0,-1.0,2022,Hungarian Grand Prix,Budapest
-47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,14.0,14,15.0,,,,,+1 Lap,0.0,1.0,2022,Hungarian Grand Prix,Budapest
-3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,15.0,15,9.0,,,,,+1 Lap,0.0,-6.0,2022,Hungarian Grand Prix,Budapest
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,16.0,16,13.0,,,,,+1 Lap,0.0,-3.0,2022,Hungarian Grand Prix,Budapest
-23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,17.0,17,17.0,,,,,+1 Lap,0.0,0.0,2022,Hungarian Grand Prix,Budapest
-6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,18.0,18,19.0,,,,,+1 Lap,0.0,1.0,2022,Hungarian Grand Prix,Budapest
-22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,19.0,19,16.0,,,,,+2 Laps,0.0,-3.0,2022,Hungarian Grand Prix,Budapest
-77,BOT,bottas,Alfa Romeo,alfa,Valtteri,Bottas,Valtteri Bottas,20.0,20,8.0,,,,,Power Unit,0.0,-12.0,2022,Hungarian Grand Prix,Budapest
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,10.0,,0 days 01:39:35.912000,Finished,25.0,9.0,2022,Hungarian Grand Prix,Budapest
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,7.0,,0 days 00:00:07.834000,Finished,19.0,5.0,2022,Hungarian Grand Prix,Budapest
+63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,3.0,3,1.0,,0 days 00:00:12.337000,Finished,15.0,-2.0,2022,Hungarian Grand Prix,Budapest
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,4.0,4,2.0,,0 days 00:00:14.579000,Finished,12.0,-2.0,2022,Hungarian Grand Prix,Budapest
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,5.0,5,11.0,,0 days 00:00:15.688000,Finished,10.0,6.0,2022,Hungarian Grand Prix,Budapest
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,6.0,6,3.0,,0 days 00:00:16.047000,Finished,8.0,-3.0,2022,Hungarian Grand Prix,Budapest
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,7.0,7,4.0,,0 days 00:01:18.300000,Finished,6.0,-3.0,2022,Hungarian Grand Prix,Budapest
+14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,8.0,8,6.0,,,+1 Lap,4.0,-2.0,2022,Hungarian Grand Prix,Budapest
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,9.0,9,5.0,,,+1 Lap,2.0,-4.0,2022,Hungarian Grand Prix,Budapest
+5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,10.0,10,18.0,,,+1 Lap,1.0,8.0,2022,Hungarian Grand Prix,Budapest
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,11.0,11,14.0,,,+1 Lap,0.0,3.0,2022,Hungarian Grand Prix,Budapest
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,12.0,12,0.0,,,+1 Lap,0.0,-12.0,2022,Hungarian Grand Prix,Budapest
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu,Zhou,Guanyu Zhou,13.0,13,12.0,,,+1 Lap,0.0,-1.0,2022,Hungarian Grand Prix,Budapest
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,14.0,14,15.0,,,+1 Lap,0.0,1.0,2022,Hungarian Grand Prix,Budapest
+3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,15.0,15,9.0,,,+1 Lap,0.0,-6.0,2022,Hungarian Grand Prix,Budapest
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,16.0,16,13.0,,,+1 Lap,0.0,-3.0,2022,Hungarian Grand Prix,Budapest
+23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,17.0,17,17.0,,,+1 Lap,0.0,0.0,2022,Hungarian Grand Prix,Budapest
+6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,18.0,18,19.0,,,+1 Lap,0.0,1.0,2022,Hungarian Grand Prix,Budapest
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,19.0,19,16.0,,,+2 Laps,0.0,-3.0,2022,Hungarian Grand Prix,Budapest
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri,Bottas,Valtteri Bottas,20.0,20,8.0,,,Power Unit,0.0,-12.0,2022,Hungarian Grand Prix,Budapest

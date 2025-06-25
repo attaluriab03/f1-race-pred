@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,1.0,,,,0 days 01:36:21.757000,Finished,25.0,0.0,2022,Canadian Grand Prix,Montréal
-55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,2.0,2,3.0,,,,0 days 00:00:00.993000,Finished,19.0,1.0,2022,Canadian Grand Prix,Montréal
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,4.0,,,,0 days 00:00:07.006000,Finished,15.0,1.0,2022,Canadian Grand Prix,Montréal
-63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,4.0,4,8.0,,,,0 days 00:00:12.313000,Finished,12.0,4.0,2022,Canadian Grand Prix,Montréal
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,5.0,5,19.0,,,,0 days 00:00:15.168000,Finished,10.0,14.0,2022,Canadian Grand Prix,Montréal
-31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,6.0,6,7.0,,,,0 days 00:00:23.890000,Finished,8.0,1.0,2022,Canadian Grand Prix,Montréal
-77,BOT,bottas,Alfa Romeo,alfa,Valtteri,Bottas,Valtteri Bottas,7.0,7,11.0,,,,0 days 00:00:25.247000,Finished,6.0,4.0,2022,Canadian Grand Prix,Montréal
-24,ZHO,zhou,Alfa Romeo,alfa,Guanyu,Zhou,Guanyu Zhou,8.0,8,10.0,,,,0 days 00:00:26.952000,Finished,4.0,2.0,2022,Canadian Grand Prix,Montréal
-14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,9.0,9,2.0,,,,0 days 00:00:29.945000,Finished,2.0,-7.0,2022,Canadian Grand Prix,Montréal
-18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,10.0,10,17.0,,,,0 days 00:00:38.222000,Finished,1.0,7.0,2022,Canadian Grand Prix,Montréal
-3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,11.0,11,9.0,,,,0 days 00:00:43.047000,Finished,0.0,-2.0,2022,Canadian Grand Prix,Montréal
-5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,12.0,12,16.0,,,,0 days 00:00:44.245000,Finished,0.0,4.0,2022,Canadian Grand Prix,Montréal
-23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,13.0,13,12.0,,,,0 days 00:00:44.893000,Finished,0.0,-1.0,2022,Canadian Grand Prix,Montréal
-10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,14.0,14,15.0,,,,0 days 00:00:45.183000,Finished,0.0,1.0,2022,Canadian Grand Prix,Montréal
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,15.0,15,14.0,,,,0 days 00:00:52.145000,Finished,0.0,-1.0,2022,Canadian Grand Prix,Montréal
-6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,16.0,16,18.0,,,,0 days 00:00:59.978000,Finished,0.0,2.0,2022,Canadian Grand Prix,Montréal
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,17.0,17,5.0,,,,0 days 00:01:08.180000,Finished,0.0,-12.0,2022,Canadian Grand Prix,Montréal
-22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,18.0,R,20.0,,,,,Accident,0.0,2.0,2022,Canadian Grand Prix,Montréal
-47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,19.0,R,6.0,,,,,Engine,0.0,-13.0,2022,Canadian Grand Prix,Montréal
-11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,20.0,R,13.0,,,,,Gearbox,0.0,-7.0,2022,Canadian Grand Prix,Montréal
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,1.0,,0 days 01:36:21.757000,Finished,25.0,0.0,2022,Canadian Grand Prix,Montréal
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,2.0,2,3.0,,0 days 00:00:00.993000,Finished,19.0,1.0,2022,Canadian Grand Prix,Montréal
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,4.0,,0 days 00:00:07.006000,Finished,15.0,1.0,2022,Canadian Grand Prix,Montréal
+63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,4.0,4,8.0,,0 days 00:00:12.313000,Finished,12.0,4.0,2022,Canadian Grand Prix,Montréal
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,5.0,5,19.0,,0 days 00:00:15.168000,Finished,10.0,14.0,2022,Canadian Grand Prix,Montréal
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,6.0,6,7.0,,0 days 00:00:23.890000,Finished,8.0,1.0,2022,Canadian Grand Prix,Montréal
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri,Bottas,Valtteri Bottas,7.0,7,11.0,,0 days 00:00:25.247000,Finished,6.0,4.0,2022,Canadian Grand Prix,Montréal
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu,Zhou,Guanyu Zhou,8.0,8,10.0,,0 days 00:00:26.952000,Finished,4.0,2.0,2022,Canadian Grand Prix,Montréal
+14,ALO,alonso,Alpine,alpine,Fernando,Alonso,Fernando Alonso,9.0,9,2.0,,0 days 00:00:29.945000,Finished,2.0,-7.0,2022,Canadian Grand Prix,Montréal
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,10.0,10,17.0,,0 days 00:00:38.222000,Finished,1.0,7.0,2022,Canadian Grand Prix,Montréal
+3,RIC,ricciardo,McLaren,mclaren,Daniel,Ricciardo,Daniel Ricciardo,11.0,11,9.0,,0 days 00:00:43.047000,Finished,0.0,-2.0,2022,Canadian Grand Prix,Montréal
+5,VET,vettel,Aston Martin,aston_martin,Sebastian,Vettel,Sebastian Vettel,12.0,12,16.0,,0 days 00:00:44.245000,Finished,0.0,4.0,2022,Canadian Grand Prix,Montréal
+23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,13.0,13,12.0,,0 days 00:00:44.893000,Finished,0.0,-1.0,2022,Canadian Grand Prix,Montréal
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,14.0,14,15.0,,0 days 00:00:45.183000,Finished,0.0,1.0,2022,Canadian Grand Prix,Montréal
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,15.0,15,14.0,,0 days 00:00:52.145000,Finished,0.0,-1.0,2022,Canadian Grand Prix,Montréal
+6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,16.0,16,18.0,,0 days 00:00:59.978000,Finished,0.0,2.0,2022,Canadian Grand Prix,Montréal
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,17.0,17,5.0,,0 days 00:01:08.180000,Finished,0.0,-12.0,2022,Canadian Grand Prix,Montréal
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki,Tsunoda,Yuki Tsunoda,18.0,R,20.0,,,Accident,0.0,2.0,2022,Canadian Grand Prix,Montréal
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick,Schumacher,Mick Schumacher,19.0,R,6.0,,,Engine,0.0,-13.0,2022,Canadian Grand Prix,Montréal
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,20.0,R,13.0,,,Gearbox,0.0,-7.0,2022,Canadian Grand Prix,Montréal

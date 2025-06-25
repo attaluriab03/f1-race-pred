@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,1.0,,,,0 days 01:54:23.566000,Finished,26.0,0.0,2024,Japanese Grand Prix,Suzuka
-11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,2.0,2,2.0,,,,0 days 00:00:12.535000,Finished,18.0,0.0,2024,Japanese Grand Prix,Suzuka
-55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,3.0,3,4.0,,,,0 days 00:00:20.866000,Finished,15.0,1.0,2024,Japanese Grand Prix,Suzuka
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,4.0,4,8.0,,,,0 days 00:00:26.522000,Finished,12.0,4.0,2024,Japanese Grand Prix,Suzuka
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,5.0,5,3.0,,,,0 days 00:00:29.700000,Finished,10.0,-2.0,2024,Japanese Grand Prix,Suzuka
-14,ALO,alonso,Aston Martin,aston_martin,Fernando,Alonso,Fernando Alonso,6.0,6,5.0,,,,0 days 00:00:44.272000,Finished,8.0,-1.0,2024,Japanese Grand Prix,Suzuka
-63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,7.0,7,9.0,,,,0 days 00:00:45.951000,Finished,6.0,2.0,2024,Japanese Grand Prix,Suzuka
-81,PIA,piastri,McLaren,mclaren,Oscar,Piastri,Oscar Piastri,8.0,8,6.0,,,,0 days 00:00:47.525000,Finished,4.0,-2.0,2024,Japanese Grand Prix,Suzuka
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,9.0,9,7.0,,,,0 days 00:00:48.626000,Finished,2.0,-2.0,2024,Japanese Grand Prix,Suzuka
-22,TSU,tsunoda,RB,rb,Yuki,Tsunoda,Yuki Tsunoda,10.0,10,10.0,,,,0 days 00:00:01.602000,Lapped,1.0,0.0,2024,Japanese Grand Prix,Suzuka
-27,HUL,hulkenberg,Haas F1 Team,haas,Nico,Hulkenberg,Nico Hulkenberg,11.0,11,12.0,,,,0 days 00:00:07.168000,Lapped,0.0,1.0,2024,Japanese Grand Prix,Suzuka
-18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,12.0,12,16.0,,,,0 days 00:00:11.233000,Lapped,0.0,4.0,2024,Japanese Grand Prix,Suzuka
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,13,18.0,,,,0 days 00:00:17.919000,Lapped,0.0,5.0,2024,Japanese Grand Prix,Suzuka
-77,BOT,bottas,Kick Sauber,sauber,Valtteri,Bottas,Valtteri Bottas,14.0,14,13.0,,,,0 days 00:00:18.893000,Lapped,0.0,-1.0,2024,Japanese Grand Prix,Suzuka
-31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,15.0,15,15.0,,,,0 days 00:00:41.152000,Lapped,0.0,0.0,2024,Japanese Grand Prix,Suzuka
-10,GAS,gasly,Alpine,alpine,Pierre,Gasly,Pierre Gasly,16.0,16,17.0,,,,0 days 00:00:55.066000,Lapped,0.0,1.0,2024,Japanese Grand Prix,Suzuka
-2,SAR,sargeant,Williams,williams,Logan,Sargeant,Logan Sargeant,17.0,17,19.0,,,,0 days 00:01:12.765000,Lapped,0.0,2.0,2024,Japanese Grand Prix,Suzuka
-24,ZHO,zhou,Kick Sauber,sauber,Guanyu,Zhou,Guanyu Zhou,18.0,R,20.0,,,,,Retired,0.0,2.0,2024,Japanese Grand Prix,Suzuka
-3,RIC,ricciardo,RB,rb,Daniel,Ricciardo,Daniel Ricciardo,19.0,R,11.0,,,,,Retired,0.0,-8.0,2024,Japanese Grand Prix,Suzuka
-23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,20.0,R,14.0,,,,,Retired,0.0,-6.0,2024,Japanese Grand Prix,Suzuka
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,1.0,,0 days 01:54:23.566000,Finished,26.0,0.0,2024,Japanese Grand Prix,Suzuka
+11,PER,perez,Red Bull Racing,red_bull,Sergio,Perez,Sergio Perez,2.0,2,2.0,,0 days 00:00:12.535000,Finished,18.0,0.0,2024,Japanese Grand Prix,Suzuka
+55,SAI,sainz,Ferrari,ferrari,Carlos,Sainz,Carlos Sainz,3.0,3,4.0,,0 days 00:00:20.866000,Finished,15.0,1.0,2024,Japanese Grand Prix,Suzuka
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,4.0,4,8.0,,0 days 00:00:26.522000,Finished,12.0,4.0,2024,Japanese Grand Prix,Suzuka
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,5.0,5,3.0,,0 days 00:00:29.700000,Finished,10.0,-2.0,2024,Japanese Grand Prix,Suzuka
+14,ALO,alonso,Aston Martin,aston_martin,Fernando,Alonso,Fernando Alonso,6.0,6,5.0,,0 days 00:00:44.272000,Finished,8.0,-1.0,2024,Japanese Grand Prix,Suzuka
+63,RUS,russell,Mercedes,mercedes,George,Russell,George Russell,7.0,7,9.0,,0 days 00:00:45.951000,Finished,6.0,2.0,2024,Japanese Grand Prix,Suzuka
+81,PIA,piastri,McLaren,mclaren,Oscar,Piastri,Oscar Piastri,8.0,8,6.0,,0 days 00:00:47.525000,Finished,4.0,-2.0,2024,Japanese Grand Prix,Suzuka
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,9.0,9,7.0,,0 days 00:00:48.626000,Finished,2.0,-2.0,2024,Japanese Grand Prix,Suzuka
+22,TSU,tsunoda,RB,rb,Yuki,Tsunoda,Yuki Tsunoda,10.0,10,10.0,,0 days 00:00:01.602000,Lapped,1.0,0.0,2024,Japanese Grand Prix,Suzuka
+27,HUL,hulkenberg,Haas F1 Team,haas,Nico,Hulkenberg,Nico Hulkenberg,11.0,11,12.0,,0 days 00:00:07.168000,Lapped,0.0,1.0,2024,Japanese Grand Prix,Suzuka
+18,STR,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,12.0,12,16.0,,0 days 00:00:11.233000,Lapped,0.0,4.0,2024,Japanese Grand Prix,Suzuka
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,13,18.0,,0 days 00:00:17.919000,Lapped,0.0,5.0,2024,Japanese Grand Prix,Suzuka
+77,BOT,bottas,Kick Sauber,sauber,Valtteri,Bottas,Valtteri Bottas,14.0,14,13.0,,0 days 00:00:18.893000,Lapped,0.0,-1.0,2024,Japanese Grand Prix,Suzuka
+31,OCO,ocon,Alpine,alpine,Esteban,Ocon,Esteban Ocon,15.0,15,15.0,,0 days 00:00:41.152000,Lapped,0.0,0.0,2024,Japanese Grand Prix,Suzuka
+10,GAS,gasly,Alpine,alpine,Pierre,Gasly,Pierre Gasly,16.0,16,17.0,,0 days 00:00:55.066000,Lapped,0.0,1.0,2024,Japanese Grand Prix,Suzuka
+2,SAR,sargeant,Williams,williams,Logan,Sargeant,Logan Sargeant,17.0,17,19.0,,0 days 00:01:12.765000,Lapped,0.0,2.0,2024,Japanese Grand Prix,Suzuka
+24,ZHO,zhou,Kick Sauber,sauber,Guanyu,Zhou,Guanyu Zhou,18.0,R,20.0,,,Retired,0.0,2.0,2024,Japanese Grand Prix,Suzuka
+3,RIC,ricciardo,RB,rb,Daniel,Ricciardo,Daniel Ricciardo,19.0,R,11.0,,,Retired,0.0,-8.0,2024,Japanese Grand Prix,Suzuka
+23,ALB,albon,Williams,williams,Alexander,Albon,Alexander Albon,20.0,R,14.0,,,Retired,0.0,-6.0,2024,Japanese Grand Prix,Suzuka

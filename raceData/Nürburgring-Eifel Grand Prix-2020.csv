@@ -1,21 +1,21 @@
-DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
-44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,,,,0 days 01:35:49.641000,Finished,25.0,1.0,2020,Eifel Grand Prix,Nürburgring
-33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,2.0,2,3.0,,,,0 days 00:00:04.470000,Finished,19.0,1.0,2020,Eifel Grand Prix,Nürburgring
-3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,3.0,3,6.0,,,,0 days 00:00:14.613000,Finished,15.0,3.0,2020,Eifel Grand Prix,Nürburgring
-11,PER,perez,Racing Point,racing_point,Sergio,Perez,Sergio Perez,4.0,4,9.0,,,,0 days 00:00:16.070000,Finished,12.0,5.0,2020,Eifel Grand Prix,Nürburgring
-55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,5.0,5,10.0,,,,0 days 00:00:21.905000,Finished,10.0,5.0,2020,Eifel Grand Prix,Nürburgring
-10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,6.0,6,12.0,,,,0 days 00:00:22.766000,Finished,8.0,6.0,2020,Eifel Grand Prix,Nürburgring
-16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,7.0,7,4.0,,,,0 days 00:00:30.814000,Finished,6.0,-3.0,2020,Eifel Grand Prix,Nürburgring
-27,HUL,hulkenberg,Racing Point,racing_point,Nico,Hulkenberg,Nico Hulkenberg,8.0,8,20.0,,,,0 days 00:00:32.596000,Finished,4.0,12.0,2020,Eifel Grand Prix,Nürburgring
-8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,9.0,9,16.0,,,,0 days 00:00:39.081000,Finished,2.0,7.0,2020,Eifel Grand Prix,Nürburgring
-99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,10.0,10,14.0,,,,0 days 00:00:40.035000,Finished,1.0,4.0,2020,Eifel Grand Prix,Nürburgring
-5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,11.0,11,11.0,,,,0 days 00:00:40.810000,Finished,0.0,0.0,2020,Eifel Grand Prix,Nürburgring
-7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,12.0,12,19.0,,,,0 days 00:00:41.476000,Finished,0.0,7.0,2020,Eifel Grand Prix,Nürburgring
-20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,13,15.0,,,,0 days 00:00:49.585000,Finished,0.0,2.0,2020,Eifel Grand Prix,Nürburgring
-6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,14.0,14,18.0,,,,0 days 00:00:54.449000,Finished,0.0,4.0,2020,Eifel Grand Prix,Nürburgring
-26,KVY,kvyat,AlphaTauri,alphatauri,Daniil,Kvyat,Daniil Kvyat,15.0,15,13.0,,,,0 days 00:00:55.588000,Finished,0.0,-2.0,2020,Eifel Grand Prix,Nürburgring
-4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,16.0,R,8.0,,,,,Power Unit,0.0,-8.0,2020,Eifel Grand Prix,Nürburgring
-23,ALB,albon,Red Bull Racing,red_bull,Alexander,Albon,Alexander Albon,17.0,R,5.0,,,,,Radiator,0.0,-12.0,2020,Eifel Grand Prix,Nürburgring
-31,OCO,ocon,Renault,renault,Esteban,Ocon,Esteban Ocon,18.0,R,7.0,,,,,Gearbox,0.0,-11.0,2020,Eifel Grand Prix,Nürburgring
-77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,19.0,R,1.0,,,,,Power Unit,0.0,-18.0,2020,Eifel Grand Prix,Nürburgring
-63,RUS,russell,Williams,williams,George,Russell,George Russell,20.0,R,17.0,,,,,Collision,0.0,-3.0,2020,Eifel Grand Prix,Nürburgring
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,ClassifiedPosition,GridPosition,Q3,Time,Status,Points,PositionChange,Year,Event,TrackLocation
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,,0 days 01:35:49.641000,Finished,25.0,1.0,2020,Eifel Grand Prix,Nürburgring
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,2.0,2,3.0,,0 days 00:00:04.470000,Finished,19.0,1.0,2020,Eifel Grand Prix,Nürburgring
+3,RIC,ricciardo,Renault,renault,Daniel,Ricciardo,Daniel Ricciardo,3.0,3,6.0,,0 days 00:00:14.613000,Finished,15.0,3.0,2020,Eifel Grand Prix,Nürburgring
+11,PER,perez,Racing Point,racing_point,Sergio,Perez,Sergio Perez,4.0,4,9.0,,0 days 00:00:16.070000,Finished,12.0,5.0,2020,Eifel Grand Prix,Nürburgring
+55,SAI,sainz,McLaren,mclaren,Carlos,Sainz,Carlos Sainz,5.0,5,10.0,,0 days 00:00:21.905000,Finished,10.0,5.0,2020,Eifel Grand Prix,Nürburgring
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre,Gasly,Pierre Gasly,6.0,6,12.0,,0 days 00:00:22.766000,Finished,8.0,6.0,2020,Eifel Grand Prix,Nürburgring
+16,LEC,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,7.0,7,4.0,,0 days 00:00:30.814000,Finished,6.0,-3.0,2020,Eifel Grand Prix,Nürburgring
+27,HUL,hulkenberg,Racing Point,racing_point,Nico,Hulkenberg,Nico Hulkenberg,8.0,8,20.0,,0 days 00:00:32.596000,Finished,4.0,12.0,2020,Eifel Grand Prix,Nürburgring
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,9.0,9,16.0,,0 days 00:00:39.081000,Finished,2.0,7.0,2020,Eifel Grand Prix,Nürburgring
+99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,10.0,10,14.0,,0 days 00:00:40.035000,Finished,1.0,4.0,2020,Eifel Grand Prix,Nürburgring
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,11.0,11,11.0,,0 days 00:00:40.810000,Finished,0.0,0.0,2020,Eifel Grand Prix,Nürburgring
+7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi,Räikkönen,Kimi Räikkönen,12.0,12,19.0,,0 days 00:00:41.476000,Finished,0.0,7.0,2020,Eifel Grand Prix,Nürburgring
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,13,15.0,,0 days 00:00:49.585000,Finished,0.0,2.0,2020,Eifel Grand Prix,Nürburgring
+6,LAT,latifi,Williams,williams,Nicholas,Latifi,Nicholas Latifi,14.0,14,18.0,,0 days 00:00:54.449000,Finished,0.0,4.0,2020,Eifel Grand Prix,Nürburgring
+26,KVY,kvyat,AlphaTauri,alphatauri,Daniil,Kvyat,Daniil Kvyat,15.0,15,13.0,,0 days 00:00:55.588000,Finished,0.0,-2.0,2020,Eifel Grand Prix,Nürburgring
+4,NOR,norris,McLaren,mclaren,Lando,Norris,Lando Norris,16.0,R,8.0,,,Power Unit,0.0,-8.0,2020,Eifel Grand Prix,Nürburgring
+23,ALB,albon,Red Bull Racing,red_bull,Alexander,Albon,Alexander Albon,17.0,R,5.0,,,Radiator,0.0,-12.0,2020,Eifel Grand Prix,Nürburgring
+31,OCO,ocon,Renault,renault,Esteban,Ocon,Esteban Ocon,18.0,R,7.0,,,Gearbox,0.0,-11.0,2020,Eifel Grand Prix,Nürburgring
+77,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,19.0,R,1.0,,,Power Unit,0.0,-18.0,2020,Eifel Grand Prix,Nürburgring
+63,RUS,russell,Williams,williams,George,Russell,George Russell,20.0,R,17.0,,,Collision,0.0,-3.0,2020,Eifel Grand Prix,Nürburgring
